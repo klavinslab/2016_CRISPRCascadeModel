@@ -229,7 +229,8 @@ def scoring(a, k, b, u, n):
     return chitotal
 
 def timestamp():
-    return datetime.fromtimestamp(time.time()).strftime('%Y-%m-%d-%H-%M-%S')
+    ts = int(time.time()*1000000)
+    return datetime.fromtimestamp(time.time()).strftime('%Y-%m-%d-%H-%M-%S') + "_" + str(ts)
 
 def makelog():
     global save_location, dose_response_location, logfile_location, kinetics_layer1_location
