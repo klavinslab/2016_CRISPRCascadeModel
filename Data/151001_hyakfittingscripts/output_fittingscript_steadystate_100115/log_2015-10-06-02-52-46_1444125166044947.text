@@ -1,0 +1,21 @@
+Timestamp:2015-10-06-02-52-46_1444125166044947
+Differential Evoluation Fit Settings
+	Import Settings
+		Use Kinetics Data:False
+		Use Dose Response Data:True
+	Import Files:
+			Dose Data:ExperimentalData/DoseResponse.csv
+		Save Setings
+			Save Location:/gscratch/rna/willy/151001_hyakfittingscripts/output_fittingscript_steadystate_100115/solution_2015-10-06-02-52-46_1444125166044947.csv
+	Integration Settings
+		time_final:100.0
+		dt:1.0
+	Scaling Factors
+		au scale:1600.0
+		time scale:25.0
+	Bounds
+		a_bounds:[(0.1, 1.5), (0.1, 1.5), (0.1, 1.5), (0.1, 1.5)]
+		k_bounds:[(0.1, 1.5), (0.1, 1.5), (0.1, 1.5), (0.1, 1.5)]
+		b_bounds:[(0.03, 0.13), (0.03, 0.13)]
+		u_bounds:[(0.05, 1.0)]
+		n_bounds:[(0.9, 1.8)]
