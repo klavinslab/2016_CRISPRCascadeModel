@@ -1,0 +1,21 @@
+Timestamp:2015-12-01-10-40-51_1448995251733935
+Differential Evoluation Fit Settings
+	Import Settings
+		Use Kinetics Data:False
+		Use Dose Response Data:True
+	Import Files:
+			Dose Data:/Users/klavinslab/Documents/CRISPRCascadeAnalysis/Data/ExperimentalData/DoseResponse.csv
+		Save Setings
+			Save Location:/Users/klavinslab/Documents/CRISPRCascadeAnalysis/
+	Integration Settings
+		time_final:100.0
+		dt:1.0
+	Scaling Factors
+		au scale:1600.0
+		time scale:25.0
+	Bounds
+		a_bounds:[(0.1, 1.5), (0.1, 1.5), (0.1, 1.5), (0.1, 1.5)]
+		k_bounds:[(0.1, 1.5), (0.1, 1.5), (0.1, 1.5), (0.1, 1.5)]
+		b_bounds:[(0.03, 0.13), (0.03, 0.13)]
+		u_bounds:[(0.05, 1.0)]
+		n_bounds:[(0.5, 3.5)]

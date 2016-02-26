@@ -1,0 +1,4286 @@
+fittingscript_steadystate_20160104.py /gscratch/rna/willy/HyakFittingScripts_CascadeAnalysis_20160104/output_fittingscript_steadystate_20160104
+Importing Kinetics Data
+******************************
+Running Differential Evolution...
+******************************
+Lowest Score Found: 49.0730496796
+Lowest Score Found: 16.2606659663
+Lowest Score Found: 12.5406936209
+Lowest Score Found: 11.313434421
+Lowest Score Found: 4.40846239036
+Lowest Score Found: 4.06810547111
+Lowest Score Found: 2.8411926662
+differential_evolution step 1: f(x)= 2.84119
+Lowest Score Found: 2.77373267893
+differential_evolution step 2: f(x)= 2.77373
+differential_evolution step 3: f(x)= 2.77373
+Lowest Score Found: 2.41813167587
+differential_evolution step 4: f(x)= 2.41813
+Lowest Score Found: 2.34966193755
+differential_evolution step 5: f(x)= 2.34966
+differential_evolution step 6: f(x)= 2.34966
+Lowest Score Found: 1.65025877567
+differential_evolution step 7: f(x)= 1.65026
+Lowest Score Found: 1.34182957834
+differential_evolution step 8: f(x)= 1.34183
+differential_evolution step 9: f(x)= 1.34183
+differential_evolution step 10: f(x)= 1.34183
+Lowest Score Found: 1.17827663174
+differential_evolution step 11: f(x)= 1.17828
+differential_evolution step 12: f(x)= 1.17828
+Lowest Score Found: 0.821243797168
+differential_evolution step 13: f(x)= 0.821244
+differential_evolution step 14: f(x)= 0.821244
+differential_evolution step 15: f(x)= 0.821244
+differential_evolution step 16: f(x)= 0.821244
+differential_evolution step 17: f(x)= 0.821244
+differential_evolution step 18: f(x)= 0.821244
+differential_evolution step 19: f(x)= 0.821244
+differential_evolution step 20: f(x)= 0.821244
+differential_evolution step 21: f(x)= 0.821244
+differential_evolution step 22: f(x)= 0.821244
+differential_evolution step 23: f(x)= 0.821244
+differential_evolution step 24: f(x)= 0.821244
+differential_evolution step 25: f(x)= 0.821244
+differential_evolution step 26: f(x)= 0.821244
+differential_evolution step 27: f(x)= 0.821244
+differential_evolution step 28: f(x)= 0.821244
+differential_evolution step 29: f(x)= 0.821244
+differential_evolution step 30: f(x)= 0.821244
+differential_evolution step 31: f(x)= 0.821244
+differential_evolution step 32: f(x)= 0.821244
+differential_evolution step 33: f(x)= 0.821244
+Lowest Score Found: 0.815487896041
+Lowest Score Found: 0.782747752315
+differential_evolution step 34: f(x)= 0.782748
+Lowest Score Found: 0.755790329786
+differential_evolution step 35: f(x)= 0.75579
+differential_evolution step 36: f(x)= 0.75579
+differential_evolution step 37: f(x)= 0.75579
+differential_evolution step 38: f(x)= 0.75579
+differential_evolution step 39: f(x)= 0.75579
+differential_evolution step 40: f(x)= 0.75579
+differential_evolution step 41: f(x)= 0.75579
+Lowest Score Found: 0.724324312854
+differential_evolution step 42: f(x)= 0.724324
+differential_evolution step 43: f(x)= 0.724324
+Lowest Score Found: 0.678535188788
+differential_evolution step 44: f(x)= 0.678535
+differential_evolution step 45: f(x)= 0.678535
+differential_evolution step 46: f(x)= 0.678535
+differential_evolution step 47: f(x)= 0.678535
+differential_evolution step 48: f(x)= 0.678535
+differential_evolution step 49: f(x)= 0.678535
+differential_evolution step 50: f(x)= 0.678535
+differential_evolution step 51: f(x)= 0.678535
+differential_evolution step 52: f(x)= 0.678535
+differential_evolution step 53: f(x)= 0.678535
+differential_evolution step 54: f(x)= 0.678535
+differential_evolution step 55: f(x)= 0.678535
+differential_evolution step 56: f(x)= 0.678535
+differential_evolution step 57: f(x)= 0.678535
+differential_evolution step 58: f(x)= 0.678535
+differential_evolution step 59: f(x)= 0.678535
+differential_evolution step 60: f(x)= 0.678535
+differential_evolution step 61: f(x)= 0.678535
+differential_evolution step 62: f(x)= 0.678535
+differential_evolution step 63: f(x)= 0.678535
+Lowest Score Found: 0.678249441027
+differential_evolution step 64: f(x)= 0.678249
+Lowest Score Found: 0.566452964936
+differential_evolution step 65: f(x)= 0.566453
+differential_evolution step 66: f(x)= 0.566453
+differential_evolution step 67: f(x)= 0.566453
+differential_evolution step 68: f(x)= 0.566453
+differential_evolution step 69: f(x)= 0.566453
+differential_evolution step 70: f(x)= 0.566453
+differential_evolution step 71: f(x)= 0.566453
+differential_evolution step 72: f(x)= 0.566453
+differential_evolution step 73: f(x)= 0.566453
+differential_evolution step 74: f(x)= 0.566453
+differential_evolution step 75: f(x)= 0.566453
+differential_evolution step 76: f(x)= 0.566453
+differential_evolution step 77: f(x)= 0.566453
+differential_evolution step 78: f(x)= 0.566453
+differential_evolution step 79: f(x)= 0.566453
+differential_evolution step 80: f(x)= 0.566453
+differential_evolution step 81: f(x)= 0.566453
+differential_evolution step 82: f(x)= 0.566453
+differential_evolution step 83: f(x)= 0.566453
+differential_evolution step 84: f(x)= 0.566453
+differential_evolution step 85: f(x)= 0.566453
+differential_evolution step 86: f(x)= 0.566453
+differential_evolution step 87: f(x)= 0.566453
+differential_evolution step 88: f(x)= 0.566453
+differential_evolution step 89: f(x)= 0.566453
+differential_evolution step 90: f(x)= 0.566453
+differential_evolution step 91: f(x)= 0.566453
+differential_evolution step 92: f(x)= 0.566453
+differential_evolution step 93: f(x)= 0.566453
+differential_evolution step 94: f(x)= 0.566453
+differential_evolution step 95: f(x)= 0.566453
+differential_evolution step 96: f(x)= 0.566453
+differential_evolution step 97: f(x)= 0.566453
+differential_evolution step 98: f(x)= 0.566453
+differential_evolution step 99: f(x)= 0.566453
+differential_evolution step 100: f(x)= 0.566453
+differential_evolution step 101: f(x)= 0.566453
+differential_evolution step 102: f(x)= 0.566453
+Lowest Score Found: 0.516478675699
+differential_evolution step 103: f(x)= 0.516479
+differential_evolution step 104: f(x)= 0.516479
+differential_evolution step 105: f(x)= 0.516479
+differential_evolution step 106: f(x)= 0.516479
+Lowest Score Found: 0.501646398239
+differential_evolution step 107: f(x)= 0.501646
+differential_evolution step 108: f(x)= 0.501646
+differential_evolution step 109: f(x)= 0.501646
+differential_evolution step 110: f(x)= 0.501646
+differential_evolution step 111: f(x)= 0.501646
+differential_evolution step 112: f(x)= 0.501646
+differential_evolution step 113: f(x)= 0.501646
+differential_evolution step 114: f(x)= 0.501646
+differential_evolution step 115: f(x)= 0.501646
+differential_evolution step 116: f(x)= 0.501646
+differential_evolution step 117: f(x)= 0.501646
+differential_evolution step 118: f(x)= 0.501646
+differential_evolution step 119: f(x)= 0.501646
+differential_evolution step 120: f(x)= 0.501646
+Lowest Score Found: 0.485575774826
+differential_evolution step 121: f(x)= 0.485576
+differential_evolution step 122: f(x)= 0.485576
+differential_evolution step 123: f(x)= 0.485576
+differential_evolution step 124: f(x)= 0.485576
+differential_evolution step 125: f(x)= 0.485576
+differential_evolution step 126: f(x)= 0.485576
+Lowest Score Found: 0.472000123387
+differential_evolution step 127: f(x)= 0.472
+differential_evolution step 128: f(x)= 0.472
+differential_evolution step 129: f(x)= 0.472
+differential_evolution step 130: f(x)= 0.472
+differential_evolution step 131: f(x)= 0.472
+differential_evolution step 132: f(x)= 0.472
+differential_evolution step 133: f(x)= 0.472
+differential_evolution step 134: f(x)= 0.472
+differential_evolution step 135: f(x)= 0.472
+differential_evolution step 136: f(x)= 0.472
+differential_evolution step 137: f(x)= 0.472
+differential_evolution step 138: f(x)= 0.472
+differential_evolution step 139: f(x)= 0.472
+differential_evolution step 140: f(x)= 0.472
+differential_evolution step 141: f(x)= 0.472
+Lowest Score Found: 0.447720701069
+differential_evolution step 142: f(x)= 0.447721
+differential_evolution step 143: f(x)= 0.447721
+differential_evolution step 144: f(x)= 0.447721
+differential_evolution step 145: f(x)= 0.447721
+differential_evolution step 146: f(x)= 0.447721
+differential_evolution step 147: f(x)= 0.447721
+differential_evolution step 148: f(x)= 0.447721
+differential_evolution step 149: f(x)= 0.447721
+differential_evolution step 150: f(x)= 0.447721
+differential_evolution step 151: f(x)= 0.447721
+differential_evolution step 152: f(x)= 0.447721
+differential_evolution step 153: f(x)= 0.447721
+differential_evolution step 154: f(x)= 0.447721
+differential_evolution step 155: f(x)= 0.447721
+differential_evolution step 156: f(x)= 0.447721
+differential_evolution step 157: f(x)= 0.447721
+differential_evolution step 158: f(x)= 0.447721
+differential_evolution step 159: f(x)= 0.447721
+differential_evolution step 160: f(x)= 0.447721
+differential_evolution step 161: f(x)= 0.447721
+Lowest Score Found: 0.434057731261
+differential_evolution step 162: f(x)= 0.434058
+differential_evolution step 163: f(x)= 0.434058
+differential_evolution step 164: f(x)= 0.434058
+differential_evolution step 165: f(x)= 0.434058
+differential_evolution step 166: f(x)= 0.434058
+differential_evolution step 167: f(x)= 0.434058
+differential_evolution step 168: f(x)= 0.434058
+differential_evolution step 169: f(x)= 0.434058
+differential_evolution step 170: f(x)= 0.434058
+differential_evolution step 171: f(x)= 0.434058
+differential_evolution step 172: f(x)= 0.434058
+differential_evolution step 173: f(x)= 0.434058
+differential_evolution step 174: f(x)= 0.434058
+differential_evolution step 175: f(x)= 0.434058
+differential_evolution step 176: f(x)= 0.434058
+differential_evolution step 177: f(x)= 0.434058
+differential_evolution step 178: f(x)= 0.434058
+differential_evolution step 179: f(x)= 0.434058
+differential_evolution step 180: f(x)= 0.434058
+differential_evolution step 181: f(x)= 0.434058
+differential_evolution step 182: f(x)= 0.434058
+differential_evolution step 183: f(x)= 0.434058
+differential_evolution step 184: f(x)= 0.434058
+differential_evolution step 185: f(x)= 0.434058
+differential_evolution step 186: f(x)= 0.434058
+differential_evolution step 187: f(x)= 0.434058
+differential_evolution step 188: f(x)= 0.434058
+differential_evolution step 189: f(x)= 0.434058
+differential_evolution step 190: f(x)= 0.434058
+differential_evolution step 191: f(x)= 0.434058
+differential_evolution step 192: f(x)= 0.434058
+differential_evolution step 193: f(x)= 0.434058
+differential_evolution step 194: f(x)= 0.434058
+differential_evolution step 195: f(x)= 0.434058
+differential_evolution step 196: f(x)= 0.434058
+differential_evolution step 197: f(x)= 0.434058
+differential_evolution step 198: f(x)= 0.434058
+differential_evolution step 199: f(x)= 0.434058
+differential_evolution step 200: f(x)= 0.434058
+differential_evolution step 201: f(x)= 0.434058
+differential_evolution step 202: f(x)= 0.434058
+differential_evolution step 203: f(x)= 0.434058
+differential_evolution step 204: f(x)= 0.434058
+differential_evolution step 205: f(x)= 0.434058
+differential_evolution step 206: f(x)= 0.434058
+differential_evolution step 207: f(x)= 0.434058
+differential_evolution step 208: f(x)= 0.434058
+differential_evolution step 209: f(x)= 0.434058
+differential_evolution step 210: f(x)= 0.434058
+differential_evolution step 211: f(x)= 0.434058
+differential_evolution step 212: f(x)= 0.434058
+differential_evolution step 213: f(x)= 0.434058
+differential_evolution step 214: f(x)= 0.434058
+differential_evolution step 215: f(x)= 0.434058
+differential_evolution step 216: f(x)= 0.434058
+differential_evolution step 217: f(x)= 0.434058
+differential_evolution step 218: f(x)= 0.434058
+differential_evolution step 219: f(x)= 0.434058
+differential_evolution step 220: f(x)= 0.434058
+differential_evolution step 221: f(x)= 0.434058
+differential_evolution step 222: f(x)= 0.434058
+differential_evolution step 223: f(x)= 0.434058
+differential_evolution step 224: f(x)= 0.434058
+differential_evolution step 225: f(x)= 0.434058
+differential_evolution step 226: f(x)= 0.434058
+differential_evolution step 227: f(x)= 0.434058
+differential_evolution step 228: f(x)= 0.434058
+differential_evolution step 229: f(x)= 0.434058
+differential_evolution step 230: f(x)= 0.434058
+differential_evolution step 231: f(x)= 0.434058
+differential_evolution step 232: f(x)= 0.434058
+differential_evolution step 233: f(x)= 0.434058
+differential_evolution step 234: f(x)= 0.434058
+differential_evolution step 235: f(x)= 0.434058
+differential_evolution step 236: f(x)= 0.434058
+differential_evolution step 237: f(x)= 0.434058
+differential_evolution step 238: f(x)= 0.434058
+differential_evolution step 239: f(x)= 0.434058
+differential_evolution step 240: f(x)= 0.434058
+differential_evolution step 241: f(x)= 0.434058
+differential_evolution step 242: f(x)= 0.434058
+differential_evolution step 243: f(x)= 0.434058
+differential_evolution step 244: f(x)= 0.434058
+differential_evolution step 245: f(x)= 0.434058
+differential_evolution step 246: f(x)= 0.434058
+differential_evolution step 247: f(x)= 0.434058
+differential_evolution step 248: f(x)= 0.434058
+Lowest Score Found: 0.431860482036
+differential_evolution step 249: f(x)= 0.43186
+differential_evolution step 250: f(x)= 0.43186
+differential_evolution step 251: f(x)= 0.43186
+differential_evolution step 252: f(x)= 0.43186
+differential_evolution step 253: f(x)= 0.43186
+differential_evolution step 254: f(x)= 0.43186
+differential_evolution step 255: f(x)= 0.43186
+differential_evolution step 256: f(x)= 0.43186
+differential_evolution step 257: f(x)= 0.43186
+differential_evolution step 258: f(x)= 0.43186
+differential_evolution step 259: f(x)= 0.43186
+differential_evolution step 260: f(x)= 0.43186
+differential_evolution step 261: f(x)= 0.43186
+differential_evolution step 262: f(x)= 0.43186
+differential_evolution step 263: f(x)= 0.43186
+differential_evolution step 264: f(x)= 0.43186
+differential_evolution step 265: f(x)= 0.43186
+differential_evolution step 266: f(x)= 0.43186
+differential_evolution step 267: f(x)= 0.43186
+differential_evolution step 268: f(x)= 0.43186
+differential_evolution step 269: f(x)= 0.43186
+differential_evolution step 270: f(x)= 0.43186
+differential_evolution step 271: f(x)= 0.43186
+differential_evolution step 272: f(x)= 0.43186
+Lowest Score Found: 0.430881431668
+differential_evolution step 273: f(x)= 0.430881
+differential_evolution step 274: f(x)= 0.430881
+Lowest Score Found: 0.430587037832
+differential_evolution step 275: f(x)= 0.430587
+differential_evolution step 276: f(x)= 0.430587
+differential_evolution step 277: f(x)= 0.430587
+differential_evolution step 278: f(x)= 0.430587
+differential_evolution step 279: f(x)= 0.430587
+differential_evolution step 280: f(x)= 0.430587
+differential_evolution step 281: f(x)= 0.430587
+differential_evolution step 282: f(x)= 0.430587
+differential_evolution step 283: f(x)= 0.430587
+differential_evolution step 284: f(x)= 0.430587
+differential_evolution step 285: f(x)= 0.430587
+differential_evolution step 286: f(x)= 0.430587
+differential_evolution step 287: f(x)= 0.430587
+differential_evolution step 288: f(x)= 0.430587
+differential_evolution step 289: f(x)= 0.430587
+differential_evolution step 290: f(x)= 0.430587
+differential_evolution step 291: f(x)= 0.430587
+differential_evolution step 292: f(x)= 0.430587
+differential_evolution step 293: f(x)= 0.430587
+differential_evolution step 294: f(x)= 0.430587
+Lowest Score Found: 0.428611004081
+differential_evolution step 295: f(x)= 0.428611
+differential_evolution step 296: f(x)= 0.428611
+differential_evolution step 297: f(x)= 0.428611
+differential_evolution step 298: f(x)= 0.428611
+differential_evolution step 299: f(x)= 0.428611
+differential_evolution step 300: f(x)= 0.428611
+differential_evolution step 301: f(x)= 0.428611
+differential_evolution step 302: f(x)= 0.428611
+differential_evolution step 303: f(x)= 0.428611
+differential_evolution step 304: f(x)= 0.428611
+differential_evolution step 305: f(x)= 0.428611
+differential_evolution step 306: f(x)= 0.428611
+differential_evolution step 307: f(x)= 0.428611
+differential_evolution step 308: f(x)= 0.428611
+differential_evolution step 309: f(x)= 0.428611
+differential_evolution step 310: f(x)= 0.428611
+differential_evolution step 311: f(x)= 0.428611
+differential_evolution step 312: f(x)= 0.428611
+differential_evolution step 313: f(x)= 0.428611
+differential_evolution step 314: f(x)= 0.428611
+differential_evolution step 315: f(x)= 0.428611
+differential_evolution step 316: f(x)= 0.428611
+differential_evolution step 317: f(x)= 0.428611
+differential_evolution step 318: f(x)= 0.428611
+differential_evolution step 319: f(x)= 0.428611
+differential_evolution step 320: f(x)= 0.428611
+differential_evolution step 321: f(x)= 0.428611
+differential_evolution step 322: f(x)= 0.428611
+Lowest Score Found: 0.426388843911
+differential_evolution step 323: f(x)= 0.426389
+differential_evolution step 324: f(x)= 0.426389
+differential_evolution step 325: f(x)= 0.426389
+differential_evolution step 326: f(x)= 0.426389
+differential_evolution step 327: f(x)= 0.426389
+differential_evolution step 328: f(x)= 0.426389
+differential_evolution step 329: f(x)= 0.426389
+differential_evolution step 330: f(x)= 0.426389
+differential_evolution step 331: f(x)= 0.426389
+differential_evolution step 332: f(x)= 0.426389
+differential_evolution step 333: f(x)= 0.426389
+differential_evolution step 334: f(x)= 0.426389
+differential_evolution step 335: f(x)= 0.426389
+differential_evolution step 336: f(x)= 0.426389
+differential_evolution step 337: f(x)= 0.426389
+differential_evolution step 338: f(x)= 0.426389
+differential_evolution step 339: f(x)= 0.426389
+differential_evolution step 340: f(x)= 0.426389
+differential_evolution step 341: f(x)= 0.426389
+differential_evolution step 342: f(x)= 0.426389
+differential_evolution step 343: f(x)= 0.426389
+differential_evolution step 344: f(x)= 0.426389
+differential_evolution step 345: f(x)= 0.426389
+differential_evolution step 346: f(x)= 0.426389
+differential_evolution step 347: f(x)= 0.426389
+differential_evolution step 348: f(x)= 0.426389
+differential_evolution step 349: f(x)= 0.426389
+differential_evolution step 350: f(x)= 0.426389
+differential_evolution step 351: f(x)= 0.426389
+differential_evolution step 352: f(x)= 0.426389
+differential_evolution step 353: f(x)= 0.426389
+differential_evolution step 354: f(x)= 0.426389
+differential_evolution step 355: f(x)= 0.426389
+differential_evolution step 356: f(x)= 0.426389
+differential_evolution step 357: f(x)= 0.426389
+differential_evolution step 358: f(x)= 0.426389
+differential_evolution step 359: f(x)= 0.426389
+differential_evolution step 360: f(x)= 0.426389
+differential_evolution step 361: f(x)= 0.426389
+differential_evolution step 362: f(x)= 0.426389
+differential_evolution step 363: f(x)= 0.426389
+differential_evolution step 364: f(x)= 0.426389
+differential_evolution step 365: f(x)= 0.426389
+differential_evolution step 366: f(x)= 0.426389
+differential_evolution step 367: f(x)= 0.426389
+differential_evolution step 368: f(x)= 0.426389
+differential_evolution step 369: f(x)= 0.426389
+differential_evolution step 370: f(x)= 0.426389
+differential_evolution step 371: f(x)= 0.426389
+Lowest Score Found: 0.426388843587
+Lowest Score Found: 0.426388818962
+Lowest Score Found: 0.425978217072
+Lowest Score Found: 0.425978215812
+Lowest Score Found: 0.425946070957
+Lowest Score Found: 0.425946069756
+Lowest Score Found: 0.42591234038
+Lowest Score Found: 0.425912339128
+Lowest Score Found: 0.425832033443
+Lowest Score Found: 0.425832031988
+Lowest Score Found: 0.425728397117
+Lowest Score Found: 0.425728396133
+Lowest Score Found: 0.425728395937
+Lowest Score Found: 0.425663605752
+Lowest Score Found: 0.425663605231
+Lowest Score Found: 0.425662874538
+Lowest Score Found: 0.425630508397
+Lowest Score Found: 0.425630508201
+Lowest Score Found: 0.425630507915
+Lowest Score Found: 0.425630507847
+Lowest Score Found: 0.425629719871
+Lowest Score Found: 0.425628520909
+Lowest Score Found: 0.425628519726
+Lowest Score Found: 0.425628491222
+Lowest Score Found: 0.425627694269
+Lowest Score Found: 0.425627694175
+Lowest Score Found: 0.425627693205
+Lowest Score Found: 0.42562699205
+Lowest Score Found: 0.425618363413
+Lowest Score Found: 0.425618363238
+Lowest Score Found: 0.425618362564
+Lowest Score Found: 0.425618362423
+Lowest Score Found: 0.425602077958
+Lowest Score Found: 0.425602077565
+Lowest Score Found: 0.425602077558
+Lowest Score Found: 0.425601416113
+Lowest Score Found: 0.425600206448
+Lowest Score Found: 0.425600205766
+Lowest Score Found: 0.425600205354
+Lowest Score Found: 0.425586748424
+Lowest Score Found: 0.425586747866
+Lowest Score Found: 0.425586747336
+Lowest Score Found: 0.425548773635
+Lowest Score Found: 0.425548773329
+Lowest Score Found: 0.42554877325
+Lowest Score Found: 0.425548773173
+Lowest Score Found: 0.425548772531
+Lowest Score Found: 0.425497182675
+Lowest Score Found: 0.42549718262
+Lowest Score Found: 0.425497182243
+Lowest Score Found: 0.425497182236
+Lowest Score Found: 0.425497180525
+Lowest Score Found: 0.425426611959
+Lowest Score Found: 0.42542661128
+Lowest Score Found: 0.425426600662
+Lowest Score Found: 0.425393245694
+Lowest Score Found: 0.42539324531
+Lowest Score Found: 0.425393245185
+Lowest Score Found: 0.425393244441
+Lowest Score Found: 0.425383988171
+Lowest Score Found: 0.425383988079
+Lowest Score Found: 0.425383987595
+Lowest Score Found: 0.425383986618
+Lowest Score Found: 0.425383006478
+Lowest Score Found: 0.425383006365
+Lowest Score Found: 0.425383005916
+Lowest Score Found: 0.425383005173
+Lowest Score Found: 0.425374141148
+Lowest Score Found: 0.425374140998
+Lowest Score Found: 0.425374140624
+Lowest Score Found: 0.425374139827
+Lowest Score Found: 0.425334450799
+Lowest Score Found: 0.425334450166
+Lowest Score Found: 0.425334449201
+Lowest Score Found: 0.425328722355
+Lowest Score Found: 0.425328721908
+Lowest Score Found: 0.425328720823
+Lowest Score Found: 0.425326213102
+Lowest Score Found: 0.425326212963
+Lowest Score Found: 0.425326212959
+Lowest Score Found: 0.425326212839
+Lowest Score Found: 0.425325705208
+Lowest Score Found: 0.425325705013
+Lowest Score Found: 0.425325704869
+Lowest Score Found: 0.425325704866
+Lowest Score Found: 0.42532570475
+Lowest Score Found: 0.425325703432
+Lowest Score Found: 0.425325703416
+fittingscript_steadystate_20160104.py /gscratch/rna/willy/HyakFittingScripts_CascadeAnalysis_20160104/output_fittingscript_steadystate_20160104
+Importing Kinetics Data
+******************************
+Running Differential Evolution...
+******************************
+Lowest Score Found: 34.6712390647
+Lowest Score Found: 6.1632793601
+Lowest Score Found: 5.72722854029
+Lowest Score Found: 5.68935124054
+Lowest Score Found: 5.09759397544
+Lowest Score Found: 2.5447670202
+differential_evolution step 1: f(x)= 2.54477
+Lowest Score Found: 1.92551258576
+differential_evolution step 2: f(x)= 1.92551
+differential_evolution step 3: f(x)= 1.92551
+Lowest Score Found: 1.55501918779
+differential_evolution step 4: f(x)= 1.55502
+differential_evolution step 5: f(x)= 1.55502
+Lowest Score Found: 1.38836372916
+differential_evolution step 6: f(x)= 1.38836
+differential_evolution step 7: f(x)= 1.38836
+differential_evolution step 8: f(x)= 1.38836
+Lowest Score Found: 0.950278700718
+differential_evolution step 9: f(x)= 0.950279
+differential_evolution step 10: f(x)= 0.950279
+differential_evolution step 11: f(x)= 0.950279
+differential_evolution step 12: f(x)= 0.950279
+differential_evolution step 13: f(x)= 0.950279
+differential_evolution step 14: f(x)= 0.950279
+differential_evolution step 15: f(x)= 0.950279
+differential_evolution step 16: f(x)= 0.950279
+differential_evolution step 17: f(x)= 0.950279
+differential_evolution step 18: f(x)= 0.950279
+differential_evolution step 19: f(x)= 0.950279
+differential_evolution step 20: f(x)= 0.950279
+differential_evolution step 21: f(x)= 0.950279
+Lowest Score Found: 0.846275302604
+differential_evolution step 22: f(x)= 0.846275
+differential_evolution step 23: f(x)= 0.846275
+differential_evolution step 24: f(x)= 0.846275
+differential_evolution step 25: f(x)= 0.846275
+differential_evolution step 26: f(x)= 0.846275
+differential_evolution step 27: f(x)= 0.846275
+differential_evolution step 28: f(x)= 0.846275
+differential_evolution step 29: f(x)= 0.846275
+Lowest Score Found: 0.678753903237
+differential_evolution step 30: f(x)= 0.678754
+differential_evolution step 31: f(x)= 0.678754
+differential_evolution step 32: f(x)= 0.678754
+differential_evolution step 33: f(x)= 0.678754
+differential_evolution step 34: f(x)= 0.678754
+Lowest Score Found: 0.644127114992
+differential_evolution step 35: f(x)= 0.644127
+differential_evolution step 36: f(x)= 0.644127
+Lowest Score Found: 0.637210268651
+differential_evolution step 37: f(x)= 0.63721
+differential_evolution step 38: f(x)= 0.63721
+differential_evolution step 39: f(x)= 0.63721
+differential_evolution step 40: f(x)= 0.63721
+differential_evolution step 41: f(x)= 0.63721
+differential_evolution step 42: f(x)= 0.63721
+differential_evolution step 43: f(x)= 0.63721
+differential_evolution step 44: f(x)= 0.63721
+differential_evolution step 45: f(x)= 0.63721
+differential_evolution step 46: f(x)= 0.63721
+differential_evolution step 47: f(x)= 0.63721
+differential_evolution step 48: f(x)= 0.63721
+differential_evolution step 49: f(x)= 0.63721
+differential_evolution step 50: f(x)= 0.63721
+differential_evolution step 51: f(x)= 0.63721
+differential_evolution step 52: f(x)= 0.63721
+differential_evolution step 53: f(x)= 0.63721
+Lowest Score Found: 0.629979560989
+differential_evolution step 54: f(x)= 0.62998
+differential_evolution step 55: f(x)= 0.62998
+differential_evolution step 56: f(x)= 0.62998
+differential_evolution step 57: f(x)= 0.62998
+differential_evolution step 58: f(x)= 0.62998
+differential_evolution step 59: f(x)= 0.62998
+differential_evolution step 60: f(x)= 0.62998
+Lowest Score Found: 0.591254826932
+differential_evolution step 61: f(x)= 0.591255
+differential_evolution step 62: f(x)= 0.591255
+differential_evolution step 63: f(x)= 0.591255
+differential_evolution step 64: f(x)= 0.591255
+differential_evolution step 65: f(x)= 0.591255
+differential_evolution step 66: f(x)= 0.591255
+differential_evolution step 67: f(x)= 0.591255
+differential_evolution step 68: f(x)= 0.591255
+differential_evolution step 69: f(x)= 0.591255
+differential_evolution step 70: f(x)= 0.591255
+differential_evolution step 71: f(x)= 0.591255
+differential_evolution step 72: f(x)= 0.591255
+differential_evolution step 73: f(x)= 0.591255
+differential_evolution step 74: f(x)= 0.591255
+differential_evolution step 75: f(x)= 0.591255
+differential_evolution step 76: f(x)= 0.591255
+differential_evolution step 77: f(x)= 0.591255
+differential_evolution step 78: f(x)= 0.591255
+differential_evolution step 79: f(x)= 0.591255
+Lowest Score Found: 0.587788344695
+differential_evolution step 80: f(x)= 0.587788
+differential_evolution step 81: f(x)= 0.587788
+differential_evolution step 82: f(x)= 0.587788
+differential_evolution step 83: f(x)= 0.587788
+differential_evolution step 84: f(x)= 0.587788
+differential_evolution step 85: f(x)= 0.587788
+Lowest Score Found: 0.537917637329
+differential_evolution step 86: f(x)= 0.537918
+differential_evolution step 87: f(x)= 0.537918
+differential_evolution step 88: f(x)= 0.537918
+differential_evolution step 89: f(x)= 0.537918
+differential_evolution step 90: f(x)= 0.537918
+differential_evolution step 91: f(x)= 0.537918
+differential_evolution step 92: f(x)= 0.537918
+Lowest Score Found: 0.529553674676
+differential_evolution step 93: f(x)= 0.529554
+differential_evolution step 94: f(x)= 0.529554
+differential_evolution step 95: f(x)= 0.529554
+differential_evolution step 96: f(x)= 0.529554
+differential_evolution step 97: f(x)= 0.529554
+differential_evolution step 98: f(x)= 0.529554
+differential_evolution step 99: f(x)= 0.529554
+differential_evolution step 100: f(x)= 0.529554
+differential_evolution step 101: f(x)= 0.529554
+differential_evolution step 102: f(x)= 0.529554
+differential_evolution step 103: f(x)= 0.529554
+differential_evolution step 104: f(x)= 0.529554
+differential_evolution step 105: f(x)= 0.529554
+differential_evolution step 106: f(x)= 0.529554
+Lowest Score Found: 0.519650083354
+differential_evolution step 107: f(x)= 0.51965
+differential_evolution step 108: f(x)= 0.51965
+Lowest Score Found: 0.495520468053
+differential_evolution step 109: f(x)= 0.49552
+differential_evolution step 110: f(x)= 0.49552
+differential_evolution step 111: f(x)= 0.49552
+differential_evolution step 112: f(x)= 0.49552
+differential_evolution step 113: f(x)= 0.49552
+differential_evolution step 114: f(x)= 0.49552
+differential_evolution step 115: f(x)= 0.49552
+differential_evolution step 116: f(x)= 0.49552
+differential_evolution step 117: f(x)= 0.49552
+differential_evolution step 118: f(x)= 0.49552
+differential_evolution step 119: f(x)= 0.49552
+differential_evolution step 120: f(x)= 0.49552
+differential_evolution step 121: f(x)= 0.49552
+differential_evolution step 122: f(x)= 0.49552
+differential_evolution step 123: f(x)= 0.49552
+differential_evolution step 124: f(x)= 0.49552
+differential_evolution step 125: f(x)= 0.49552
+differential_evolution step 126: f(x)= 0.49552
+differential_evolution step 127: f(x)= 0.49552
+Lowest Score Found: 0.495369985234
+differential_evolution step 128: f(x)= 0.49537
+differential_evolution step 129: f(x)= 0.49537
+Lowest Score Found: 0.490623094365
+differential_evolution step 130: f(x)= 0.490623
+differential_evolution step 131: f(x)= 0.490623
+differential_evolution step 132: f(x)= 0.490623
+differential_evolution step 133: f(x)= 0.490623
+differential_evolution step 134: f(x)= 0.490623
+differential_evolution step 135: f(x)= 0.490623
+differential_evolution step 136: f(x)= 0.490623
+differential_evolution step 137: f(x)= 0.490623
+differential_evolution step 138: f(x)= 0.490623
+Lowest Score Found: 0.471337645806
+differential_evolution step 139: f(x)= 0.471338
+differential_evolution step 140: f(x)= 0.471338
+differential_evolution step 141: f(x)= 0.471338
+differential_evolution step 142: f(x)= 0.471338
+differential_evolution step 143: f(x)= 0.471338
+differential_evolution step 144: f(x)= 0.471338
+differential_evolution step 145: f(x)= 0.471338
+differential_evolution step 146: f(x)= 0.471338
+differential_evolution step 147: f(x)= 0.471338
+differential_evolution step 148: f(x)= 0.471338
+differential_evolution step 149: f(x)= 0.471338
+differential_evolution step 150: f(x)= 0.471338
+Lowest Score Found: 0.468636120558
+differential_evolution step 151: f(x)= 0.468636
+differential_evolution step 152: f(x)= 0.468636
+differential_evolution step 153: f(x)= 0.468636
+differential_evolution step 154: f(x)= 0.468636
+differential_evolution step 155: f(x)= 0.468636
+differential_evolution step 156: f(x)= 0.468636
+differential_evolution step 157: f(x)= 0.468636
+differential_evolution step 158: f(x)= 0.468636
+Lowest Score Found: 0.461264579151
+differential_evolution step 159: f(x)= 0.461265
+differential_evolution step 160: f(x)= 0.461265
+Lowest Score Found: 0.459311405875
+differential_evolution step 161: f(x)= 0.459311
+differential_evolution step 162: f(x)= 0.459311
+differential_evolution step 163: f(x)= 0.459311
+differential_evolution step 164: f(x)= 0.459311
+differential_evolution step 165: f(x)= 0.459311
+differential_evolution step 166: f(x)= 0.459311
+differential_evolution step 167: f(x)= 0.459311
+differential_evolution step 168: f(x)= 0.459311
+differential_evolution step 169: f(x)= 0.459311
+Lowest Score Found: 0.456316110674
+differential_evolution step 170: f(x)= 0.456316
+differential_evolution step 171: f(x)= 0.456316
+differential_evolution step 172: f(x)= 0.456316
+differential_evolution step 173: f(x)= 0.456316
+differential_evolution step 174: f(x)= 0.456316
+differential_evolution step 175: f(x)= 0.456316
+differential_evolution step 176: f(x)= 0.456316
+Lowest Score Found: 0.454859494204
+differential_evolution step 177: f(x)= 0.454859
+differential_evolution step 178: f(x)= 0.454859
+differential_evolution step 179: f(x)= 0.454859
+differential_evolution step 180: f(x)= 0.454859
+differential_evolution step 181: f(x)= 0.454859
+differential_evolution step 182: f(x)= 0.454859
+differential_evolution step 183: f(x)= 0.454859
+differential_evolution step 184: f(x)= 0.454859
+differential_evolution step 185: f(x)= 0.454859
+differential_evolution step 186: f(x)= 0.454859
+differential_evolution step 187: f(x)= 0.454859
+differential_evolution step 188: f(x)= 0.454859
+differential_evolution step 189: f(x)= 0.454859
+differential_evolution step 190: f(x)= 0.454859
+differential_evolution step 191: f(x)= 0.454859
+Lowest Score Found: 0.453662220918
+differential_evolution step 192: f(x)= 0.453662
+differential_evolution step 193: f(x)= 0.453662
+differential_evolution step 194: f(x)= 0.453662
+Lowest Score Found: 0.447180234202
+differential_evolution step 195: f(x)= 0.44718
+differential_evolution step 196: f(x)= 0.44718
+differential_evolution step 197: f(x)= 0.44718
+differential_evolution step 198: f(x)= 0.44718
+differential_evolution step 199: f(x)= 0.44718
+differential_evolution step 200: f(x)= 0.44718
+differential_evolution step 201: f(x)= 0.44718
+differential_evolution step 202: f(x)= 0.44718
+differential_evolution step 203: f(x)= 0.44718
+differential_evolution step 204: f(x)= 0.44718
+differential_evolution step 205: f(x)= 0.44718
+differential_evolution step 206: f(x)= 0.44718
+differential_evolution step 207: f(x)= 0.44718
+differential_evolution step 208: f(x)= 0.44718
+differential_evolution step 209: f(x)= 0.44718
+differential_evolution step 210: f(x)= 0.44718
+differential_evolution step 211: f(x)= 0.44718
+differential_evolution step 212: f(x)= 0.44718
+differential_evolution step 213: f(x)= 0.44718
+differential_evolution step 214: f(x)= 0.44718
+differential_evolution step 215: f(x)= 0.44718
+differential_evolution step 216: f(x)= 0.44718
+differential_evolution step 217: f(x)= 0.44718
+differential_evolution step 218: f(x)= 0.44718
+Lowest Score Found: 0.445285042988
+differential_evolution step 219: f(x)= 0.445285
+differential_evolution step 220: f(x)= 0.445285
+differential_evolution step 221: f(x)= 0.445285
+differential_evolution step 222: f(x)= 0.445285
+differential_evolution step 223: f(x)= 0.445285
+differential_evolution step 224: f(x)= 0.445285
+differential_evolution step 225: f(x)= 0.445285
+Lowest Score Found: 0.437711393923
+differential_evolution step 226: f(x)= 0.437711
+differential_evolution step 227: f(x)= 0.437711
+differential_evolution step 228: f(x)= 0.437711
+differential_evolution step 229: f(x)= 0.437711
+differential_evolution step 230: f(x)= 0.437711
+differential_evolution step 231: f(x)= 0.437711
+differential_evolution step 232: f(x)= 0.437711
+differential_evolution step 233: f(x)= 0.437711
+differential_evolution step 234: f(x)= 0.437711
+differential_evolution step 235: f(x)= 0.437711
+differential_evolution step 236: f(x)= 0.437711
+differential_evolution step 237: f(x)= 0.437711
+differential_evolution step 238: f(x)= 0.437711
+differential_evolution step 239: f(x)= 0.437711
+Lowest Score Found: 0.437660566254
+differential_evolution step 240: f(x)= 0.437661
+differential_evolution step 241: f(x)= 0.437661
+differential_evolution step 242: f(x)= 0.437661
+differential_evolution step 243: f(x)= 0.437661
+differential_evolution step 244: f(x)= 0.437661
+differential_evolution step 245: f(x)= 0.437661
+differential_evolution step 246: f(x)= 0.437661
+differential_evolution step 247: f(x)= 0.437661
+differential_evolution step 248: f(x)= 0.437661
+differential_evolution step 249: f(x)= 0.437661
+differential_evolution step 250: f(x)= 0.437661
+differential_evolution step 251: f(x)= 0.437661
+differential_evolution step 252: f(x)= 0.437661
+differential_evolution step 253: f(x)= 0.437661
+differential_evolution step 254: f(x)= 0.437661
+differential_evolution step 255: f(x)= 0.437661
+Lowest Score Found: 0.431711527437
+differential_evolution step 256: f(x)= 0.431712
+differential_evolution step 257: f(x)= 0.431712
+differential_evolution step 258: f(x)= 0.431712
+differential_evolution step 259: f(x)= 0.431712
+differential_evolution step 260: f(x)= 0.431712
+Lowest Score Found: 0.429489650963
+differential_evolution step 261: f(x)= 0.42949
+differential_evolution step 262: f(x)= 0.42949
+differential_evolution step 263: f(x)= 0.42949
+differential_evolution step 264: f(x)= 0.42949
+differential_evolution step 265: f(x)= 0.42949
+differential_evolution step 266: f(x)= 0.42949
+differential_evolution step 267: f(x)= 0.42949
+differential_evolution step 268: f(x)= 0.42949
+differential_evolution step 269: f(x)= 0.42949
+differential_evolution step 270: f(x)= 0.42949
+differential_evolution step 271: f(x)= 0.42949
+differential_evolution step 272: f(x)= 0.42949
+differential_evolution step 273: f(x)= 0.42949
+differential_evolution step 274: f(x)= 0.42949
+differential_evolution step 275: f(x)= 0.42949
+differential_evolution step 276: f(x)= 0.42949
+differential_evolution step 277: f(x)= 0.42949
+differential_evolution step 278: f(x)= 0.42949
+differential_evolution step 279: f(x)= 0.42949
+differential_evolution step 280: f(x)= 0.42949
+differential_evolution step 281: f(x)= 0.42949
+differential_evolution step 282: f(x)= 0.42949
+differential_evolution step 283: f(x)= 0.42949
+differential_evolution step 284: f(x)= 0.42949
+differential_evolution step 285: f(x)= 0.42949
+differential_evolution step 286: f(x)= 0.42949
+differential_evolution step 287: f(x)= 0.42949
+differential_evolution step 288: f(x)= 0.42949
+differential_evolution step 289: f(x)= 0.42949
+differential_evolution step 290: f(x)= 0.42949
+differential_evolution step 291: f(x)= 0.42949
+differential_evolution step 292: f(x)= 0.42949
+differential_evolution step 293: f(x)= 0.42949
+differential_evolution step 294: f(x)= 0.42949
+differential_evolution step 295: f(x)= 0.42949
+differential_evolution step 296: f(x)= 0.42949
+differential_evolution step 297: f(x)= 0.42949
+differential_evolution step 298: f(x)= 0.42949
+differential_evolution step 299: f(x)= 0.42949
+differential_evolution step 300: f(x)= 0.42949
+Lowest Score Found: 0.42939355625
+differential_evolution step 301: f(x)= 0.429394
+differential_evolution step 302: f(x)= 0.429394
+differential_evolution step 303: f(x)= 0.429394
+differential_evolution step 304: f(x)= 0.429394
+differential_evolution step 305: f(x)= 0.429394
+differential_evolution step 306: f(x)= 0.429394
+differential_evolution step 307: f(x)= 0.429394
+Lowest Score Found: 0.429032173241
+differential_evolution step 308: f(x)= 0.429032
+differential_evolution step 309: f(x)= 0.429032
+differential_evolution step 310: f(x)= 0.429032
+differential_evolution step 311: f(x)= 0.429032
+differential_evolution step 312: f(x)= 0.429032
+differential_evolution step 313: f(x)= 0.429032
+differential_evolution step 314: f(x)= 0.429032
+differential_evolution step 315: f(x)= 0.429032
+differential_evolution step 316: f(x)= 0.429032
+Lowest Score Found: 0.428423077052
+differential_evolution step 317: f(x)= 0.428423
+differential_evolution step 318: f(x)= 0.428423
+differential_evolution step 319: f(x)= 0.428423
+differential_evolution step 320: f(x)= 0.428423
+differential_evolution step 321: f(x)= 0.428423
+differential_evolution step 322: f(x)= 0.428423
+differential_evolution step 323: f(x)= 0.428423
+differential_evolution step 324: f(x)= 0.428423
+differential_evolution step 325: f(x)= 0.428423
+differential_evolution step 326: f(x)= 0.428423
+differential_evolution step 327: f(x)= 0.428423
+differential_evolution step 328: f(x)= 0.428423
+differential_evolution step 329: f(x)= 0.428423
+differential_evolution step 330: f(x)= 0.428423
+differential_evolution step 331: f(x)= 0.428423
+differential_evolution step 332: f(x)= 0.428423
+differential_evolution step 333: f(x)= 0.428423
+differential_evolution step 334: f(x)= 0.428423
+differential_evolution step 335: f(x)= 0.428423
+differential_evolution step 336: f(x)= 0.428423
+differential_evolution step 337: f(x)= 0.428423
+differential_evolution step 338: f(x)= 0.428423
+differential_evolution step 339: f(x)= 0.428423
+Lowest Score Found: 0.427838648332
+differential_evolution step 340: f(x)= 0.427839
+differential_evolution step 341: f(x)= 0.427839
+differential_evolution step 342: f(x)= 0.427839
+differential_evolution step 343: f(x)= 0.427839
+differential_evolution step 344: f(x)= 0.427839
+differential_evolution step 345: f(x)= 0.427839
+differential_evolution step 346: f(x)= 0.427839
+differential_evolution step 347: f(x)= 0.427839
+differential_evolution step 348: f(x)= 0.427839
+differential_evolution step 349: f(x)= 0.427839
+differential_evolution step 350: f(x)= 0.427839
+differential_evolution step 351: f(x)= 0.427839
+differential_evolution step 352: f(x)= 0.427839
+differential_evolution step 353: f(x)= 0.427839
+differential_evolution step 354: f(x)= 0.427839
+differential_evolution step 355: f(x)= 0.427839
+differential_evolution step 356: f(x)= 0.427839
+differential_evolution step 357: f(x)= 0.427839
+differential_evolution step 358: f(x)= 0.427839
+differential_evolution step 359: f(x)= 0.427839
+differential_evolution step 360: f(x)= 0.427839
+differential_evolution step 361: f(x)= 0.427839
+differential_evolution step 362: f(x)= 0.427839
+differential_evolution step 363: f(x)= 0.427839
+Lowest Score Found: 0.427652592394
+differential_evolution step 364: f(x)= 0.427653
+differential_evolution step 365: f(x)= 0.427653
+differential_evolution step 366: f(x)= 0.427653
+differential_evolution step 367: f(x)= 0.427653
+differential_evolution step 368: f(x)= 0.427653
+differential_evolution step 369: f(x)= 0.427653
+differential_evolution step 370: f(x)= 0.427653
+differential_evolution step 371: f(x)= 0.427653
+differential_evolution step 372: f(x)= 0.427653
+differential_evolution step 373: f(x)= 0.427653
+differential_evolution step 374: f(x)= 0.427653
+differential_evolution step 375: f(x)= 0.427653
+differential_evolution step 376: f(x)= 0.427653
+differential_evolution step 377: f(x)= 0.427653
+differential_evolution step 378: f(x)= 0.427653
+Lowest Score Found: 0.427408780633
+differential_evolution step 379: f(x)= 0.427409
+differential_evolution step 380: f(x)= 0.427409
+differential_evolution step 381: f(x)= 0.427409
+differential_evolution step 382: f(x)= 0.427409
+differential_evolution step 383: f(x)= 0.427409
+differential_evolution step 384: f(x)= 0.427409
+Lowest Score Found: 0.42706061031
+differential_evolution step 385: f(x)= 0.427061
+differential_evolution step 386: f(x)= 0.427061
+differential_evolution step 387: f(x)= 0.427061
+differential_evolution step 388: f(x)= 0.427061
+differential_evolution step 389: f(x)= 0.427061
+differential_evolution step 390: f(x)= 0.427061
+differential_evolution step 391: f(x)= 0.427061
+differential_evolution step 392: f(x)= 0.427061
+differential_evolution step 393: f(x)= 0.427061
+differential_evolution step 394: f(x)= 0.427061
+differential_evolution step 395: f(x)= 0.427061
+differential_evolution step 396: f(x)= 0.427061
+differential_evolution step 397: f(x)= 0.427061
+Lowest Score Found: 0.426987001055
+differential_evolution step 398: f(x)= 0.426987
+differential_evolution step 399: f(x)= 0.426987
+differential_evolution step 400: f(x)= 0.426987
+differential_evolution step 401: f(x)= 0.426987
+differential_evolution step 402: f(x)= 0.426987
+differential_evolution step 403: f(x)= 0.426987
+differential_evolution step 404: f(x)= 0.426987
+differential_evolution step 405: f(x)= 0.426987
+differential_evolution step 406: f(x)= 0.426987
+differential_evolution step 407: f(x)= 0.426987
+differential_evolution step 408: f(x)= 0.426987
+differential_evolution step 409: f(x)= 0.426987
+differential_evolution step 410: f(x)= 0.426987
+differential_evolution step 411: f(x)= 0.426987
+Lowest Score Found: 0.426986996707
+Lowest Score Found: 0.426986310614
+Lowest Score Found: 0.426980212158
+Lowest Score Found: 0.426980212152
+Lowest Score Found: 0.42698020928
+Lowest Score Found: 0.426980209227
+Lowest Score Found: 0.426980208442
+Lowest Score Found: 0.426976730989
+Lowest Score Found: 0.426976730984
+Lowest Score Found: 0.426976728116
+Lowest Score Found: 0.426976728062
+Lowest Score Found: 0.426976727275
+Lowest Score Found: 0.426962875157
+Lowest Score Found: 0.426962872309
+Lowest Score Found: 0.426962872244
+Lowest Score Found: 0.426962871453
+Lowest Score Found: 0.426908553427
+Lowest Score Found: 0.426908550673
+Lowest Score Found: 0.42690855057
+Lowest Score Found: 0.42690854976
+Lowest Score Found: 0.426708896946
+Lowest Score Found: 0.426708894568
+Lowest Score Found: 0.426708894542
+Lowest Score Found: 0.426708894313
+Lowest Score Found: 0.426708893427
+Lowest Score Found: 0.426073228991
+Lowest Score Found: 0.426073228054
+Lowest Score Found: 0.42607322799
+Lowest Score Found: 0.426072498722
+Lowest Score Found: 0.426051135731
+Lowest Score Found: 0.426051134841
+Lowest Score Found: 0.42605113476
+Lowest Score Found: 0.426051133698
+Lowest Score Found: 0.426051133192
+Lowest Score Found: 0.426029439684
+Lowest Score Found: 0.426029438835
+Lowest Score Found: 0.42602943862
+Lowest Score Found: 0.426028597861
+Lowest Score Found: 0.425969014373
+Lowest Score Found: 0.425969013805
+Lowest Score Found: 0.425969013687
+Lowest Score Found: 0.425969012936
+Lowest Score Found: 0.425969011851
+Lowest Score Found: 0.425896947094
+Lowest Score Found: 0.425896946352
+Lowest Score Found: 0.425896945949
+Lowest Score Found: 0.425896944864
+Lowest Score Found: 0.42581750459
+Lowest Score Found: 0.425817503868
+Lowest Score Found: 0.425817503655
+Lowest Score Found: 0.425816446833
+Lowest Score Found: 0.425704533731
+Lowest Score Found: 0.425704533041
+Lowest Score Found: 0.425704530552
+Lowest Score Found: 0.425610473323
+Lowest Score Found: 0.425610473149
+Lowest Score Found: 0.425610472632
+Lowest Score Found: 0.425610471377
+Lowest Score Found: 0.425580714171
+Lowest Score Found: 0.425580713217
+Lowest Score Found: 0.425580711164
+Lowest Score Found: 0.425570531537
+Lowest Score Found: 0.425570530915
+Lowest Score Found: 0.425570530829
+Lowest Score Found: 0.425570529575
+Lowest Score Found: 0.425558912422
+Lowest Score Found: 0.425558912117
+Lowest Score Found: 0.425558912108
+Lowest Score Found: 0.425558912031
+Lowest Score Found: 0.42555891189
+Lowest Score Found: 0.425558911864
+Lowest Score Found: 0.425558910366
+Lowest Score Found: 0.425536258026
+Lowest Score Found: 0.425536257921
+Lowest Score Found: 0.425536257575
+Lowest Score Found: 0.425536257392
+Lowest Score Found: 0.4255362573
+Lowest Score Found: 0.425536255893
+Lowest Score Found: 0.425486439526
+Lowest Score Found: 0.425486439101
+Lowest Score Found: 0.425486438966
+Lowest Score Found: 0.425486438615
+Lowest Score Found: 0.425486437381
+Lowest Score Found: 0.425417464572
+Lowest Score Found: 0.425417463926
+Lowest Score Found: 0.425417463606
+Lowest Score Found: 0.425417462621
+Lowest Score Found: 0.425354196855
+Lowest Score Found: 0.425354196302
+Lowest Score Found: 0.425354196145
+Lowest Score Found: 0.425354195331
+Lowest Score Found: 0.425329237666
+Lowest Score Found: 0.425329237394
+Lowest Score Found: 0.425329236435
+Lowest Score Found: 0.425324291007
+Lowest Score Found: 0.425324290876
+Lowest Score Found: 0.42532429082
+Lowest Score Found: 0.425324289792
+Lowest Score Found: 0.425320778633
+Lowest Score Found: 0.425320778589
+Lowest Score Found: 0.425320778393
+Lowest Score Found: 0.425320776678
+Lowest Score Found: 0.425312160882
+Lowest Score Found: 0.425312160393
+Lowest Score Found: 0.425312158001
+Lowest Score Found: 0.425292023553
+Lowest Score Found: 0.425292022729
+Lowest Score Found: 0.425292019573
+Lowest Score Found: 0.425251733283
+Lowest Score Found: 0.425251732142
+Lowest Score Found: 0.425251729112
+Lowest Score Found: 0.425241268345
+Lowest Score Found: 0.425241267203
+Lowest Score Found: 0.425241261387
+Lowest Score Found: 0.425184720999
+Lowest Score Found: 0.425184719916
+Lowest Score Found: 0.425184716123
+Lowest Score Found: 0.42514629748
+Lowest Score Found: 0.42514629698
+Lowest Score Found: 0.425146295909
+Lowest Score Found: 0.425135929425
+Lowest Score Found: 0.425135929363
+Lowest Score Found: 0.425135929261
+Lowest Score Found: 0.425135929238
+Lowest Score Found: 0.425135928054
+Lowest Score Found: 0.425133658201
+Lowest Score Found: 0.425133658167
+Lowest Score Found: 0.425133658101
+Lowest Score Found: 0.42513365806
+Lowest Score Found: 0.425132290145
+Lowest Score Found: 0.425129434493
+Lowest Score Found: 0.425129434406
+Lowest Score Found: 0.425129434288
+Lowest Score Found: 0.425129433137
+Lowest Score Found: 0.425128853269
+Lowest Score Found: 0.42512885323
+Lowest Score Found: 0.425128853156
+Lowest Score Found: 0.425128852554
+Lowest Score Found: 0.425128852079
+Lowest Score Found: 0.425125924255
+Lowest Score Found: 0.425125924195
+Lowest Score Found: 0.425125924193
+Lowest Score Found: 0.425125924068
+Lowest Score Found: 0.425125922971
+Lowest Score Found: 0.42512282737
+Lowest Score Found: 0.425122827328
+Lowest Score Found: 0.4251228273
+Lowest Score Found: 0.4251228272
+Lowest Score Found: 0.425122826054
+Lowest Score Found: 0.425122149121
+Lowest Score Found: 0.425122149086
+Lowest Score Found: 0.425122149041
+Lowest Score Found: 0.425120647684
+Lowest Score Found: 0.425118789931
+Lowest Score Found: 0.425118789732
+Lowest Score Found: 0.425118788636
+Lowest Score Found: 0.425110205118
+Lowest Score Found: 0.425110204831
+Lowest Score Found: 0.425110203842
+Lowest Score Found: 0.425105946698
+Lowest Score Found: 0.42510594605
+Lowest Score Found: 0.425105943927
+Lowest Score Found: 0.425088248532
+Lowest Score Found: 0.425088248133
+Lowest Score Found: 0.425088247265
+Lowest Score Found: 0.425080873635
+Lowest Score Found: 0.425080873511
+Lowest Score Found: 0.425080873474
+Lowest Score Found: 0.425080872312
+Lowest Score Found: 0.425078564999
+Lowest Score Found: 0.425078564981
+Lowest Score Found: 0.425078564975
+Lowest Score Found: 0.425078563641
+Lowest Score Found: 0.425078232953
+Lowest Score Found: 0.425078232931
+Lowest Score Found: 0.425078231585
+Lowest Score Found: 0.425077633338
+Lowest Score Found: 0.425077633317
+Lowest Score Found: 0.425077633314
+Lowest Score Found: 0.425077633306
+Lowest Score Found: 0.425077631955
+Lowest Score Found: 0.425076532705
+Lowest Score Found: 0.425075784311
+Lowest Score Found: 0.425075588333
+Lowest Score Found: 0.425075566535
+Lowest Score Found: 0.425075534444
+Lowest Score Found: 0.425075534437
+Lowest Score Found: 0.425075533087
+fittingscript_steadystate_20160104.py /gscratch/rna/willy/HyakFittingScripts_CascadeAnalysis_20160104/output_fittingscript_steadystate_20160104
+Importing Kinetics Data
+******************************
+Running Differential Evolution...
+******************************
+Lowest Score Found: 27.1477930789
+Lowest Score Found: 25.2932053774
+Lowest Score Found: 24.3381764207
+Lowest Score Found: 21.6371889497
+Lowest Score Found: 18.680715398
+Lowest Score Found: 11.9568335242
+Lowest Score Found: 9.41224930313
+Lowest Score Found: 7.62842229352
+Lowest Score Found: 6.43126678619
+Lowest Score Found: 4.78547526371
+Lowest Score Found: 3.9528733772
+Lowest Score Found: 2.61759495176
+differential_evolution step 1: f(x)= 2.61759
+differential_evolution step 2: f(x)= 2.61759
+Lowest Score Found: 2.29984335875
+differential_evolution step 3: f(x)= 2.29984
+Lowest Score Found: 1.37008257576
+differential_evolution step 4: f(x)= 1.37008
+differential_evolution step 5: f(x)= 1.37008
+Lowest Score Found: 1.00856602614
+differential_evolution step 6: f(x)= 1.00857
+differential_evolution step 7: f(x)= 1.00857
+differential_evolution step 8: f(x)= 1.00857
+differential_evolution step 9: f(x)= 1.00857
+differential_evolution step 10: f(x)= 1.00857
+differential_evolution step 11: f(x)= 1.00857
+differential_evolution step 12: f(x)= 1.00857
+differential_evolution step 13: f(x)= 1.00857
+differential_evolution step 14: f(x)= 1.00857
+differential_evolution step 15: f(x)= 1.00857
+differential_evolution step 16: f(x)= 1.00857
+differential_evolution step 17: f(x)= 1.00857
+differential_evolution step 18: f(x)= 1.00857
+differential_evolution step 19: f(x)= 1.00857
+differential_evolution step 20: f(x)= 1.00857
+differential_evolution step 21: f(x)= 1.00857
+differential_evolution step 22: f(x)= 1.00857
+differential_evolution step 23: f(x)= 1.00857
+Lowest Score Found: 0.981919144816
+differential_evolution step 24: f(x)= 0.981919
+differential_evolution step 25: f(x)= 0.981919
+differential_evolution step 26: f(x)= 0.981919
+differential_evolution step 27: f(x)= 0.981919
+Lowest Score Found: 0.886882838474
+Lowest Score Found: 0.797941527489
+differential_evolution step 28: f(x)= 0.797942
+differential_evolution step 29: f(x)= 0.797942
+differential_evolution step 30: f(x)= 0.797942
+differential_evolution step 31: f(x)= 0.797942
+differential_evolution step 32: f(x)= 0.797942
+differential_evolution step 33: f(x)= 0.797942
+differential_evolution step 34: f(x)= 0.797942
+differential_evolution step 35: f(x)= 0.797942
+Lowest Score Found: 0.730616243549
+differential_evolution step 36: f(x)= 0.730616
+differential_evolution step 37: f(x)= 0.730616
+differential_evolution step 38: f(x)= 0.730616
+Lowest Score Found: 0.726934606317
+differential_evolution step 39: f(x)= 0.726935
+Lowest Score Found: 0.714699715964
+differential_evolution step 40: f(x)= 0.7147
+differential_evolution step 41: f(x)= 0.7147
+differential_evolution step 42: f(x)= 0.7147
+differential_evolution step 43: f(x)= 0.7147
+Lowest Score Found: 0.67239287079
+differential_evolution step 44: f(x)= 0.672393
+differential_evolution step 45: f(x)= 0.672393
+Lowest Score Found: 0.61871452345
+differential_evolution step 46: f(x)= 0.618715
+differential_evolution step 47: f(x)= 0.618715
+differential_evolution step 48: f(x)= 0.618715
+Lowest Score Found: 0.582074219798
+differential_evolution step 49: f(x)= 0.582074
+differential_evolution step 50: f(x)= 0.582074
+differential_evolution step 51: f(x)= 0.582074
+differential_evolution step 52: f(x)= 0.582074
+differential_evolution step 53: f(x)= 0.582074
+differential_evolution step 54: f(x)= 0.582074
+differential_evolution step 55: f(x)= 0.582074
+differential_evolution step 56: f(x)= 0.582074
+differential_evolution step 57: f(x)= 0.582074
+differential_evolution step 58: f(x)= 0.582074
+differential_evolution step 59: f(x)= 0.582074
+differential_evolution step 60: f(x)= 0.582074
+differential_evolution step 61: f(x)= 0.582074
+differential_evolution step 62: f(x)= 0.582074
+differential_evolution step 63: f(x)= 0.582074
+differential_evolution step 64: f(x)= 0.582074
+differential_evolution step 65: f(x)= 0.582074
+differential_evolution step 66: f(x)= 0.582074
+differential_evolution step 67: f(x)= 0.582074
+differential_evolution step 68: f(x)= 0.582074
+differential_evolution step 69: f(x)= 0.582074
+differential_evolution step 70: f(x)= 0.582074
+differential_evolution step 71: f(x)= 0.582074
+differential_evolution step 72: f(x)= 0.582074
+differential_evolution step 73: f(x)= 0.582074
+differential_evolution step 74: f(x)= 0.582074
+differential_evolution step 75: f(x)= 0.582074
+differential_evolution step 76: f(x)= 0.582074
+differential_evolution step 77: f(x)= 0.582074
+differential_evolution step 78: f(x)= 0.582074
+differential_evolution step 79: f(x)= 0.582074
+differential_evolution step 80: f(x)= 0.582074
+differential_evolution step 81: f(x)= 0.582074
+differential_evolution step 82: f(x)= 0.582074
+differential_evolution step 83: f(x)= 0.582074
+differential_evolution step 84: f(x)= 0.582074
+differential_evolution step 85: f(x)= 0.582074
+differential_evolution step 86: f(x)= 0.582074
+differential_evolution step 87: f(x)= 0.582074
+differential_evolution step 88: f(x)= 0.582074
+differential_evolution step 89: f(x)= 0.582074
+differential_evolution step 90: f(x)= 0.582074
+differential_evolution step 91: f(x)= 0.582074
+differential_evolution step 92: f(x)= 0.582074
+Lowest Score Found: 0.493948950808
+differential_evolution step 93: f(x)= 0.493949
+differential_evolution step 94: f(x)= 0.493949
+differential_evolution step 95: f(x)= 0.493949
+differential_evolution step 96: f(x)= 0.493949
+differential_evolution step 97: f(x)= 0.493949
+differential_evolution step 98: f(x)= 0.493949
+differential_evolution step 99: f(x)= 0.493949
+differential_evolution step 100: f(x)= 0.493949
+differential_evolution step 101: f(x)= 0.493949
+differential_evolution step 102: f(x)= 0.493949
+differential_evolution step 103: f(x)= 0.493949
+differential_evolution step 104: f(x)= 0.493949
+differential_evolution step 105: f(x)= 0.493949
+differential_evolution step 106: f(x)= 0.493949
+differential_evolution step 107: f(x)= 0.493949
+differential_evolution step 108: f(x)= 0.493949
+differential_evolution step 109: f(x)= 0.493949
+differential_evolution step 110: f(x)= 0.493949
+differential_evolution step 111: f(x)= 0.493949
+differential_evolution step 112: f(x)= 0.493949
+differential_evolution step 113: f(x)= 0.493949
+differential_evolution step 114: f(x)= 0.493949
+differential_evolution step 115: f(x)= 0.493949
+differential_evolution step 116: f(x)= 0.493949
+differential_evolution step 117: f(x)= 0.493949
+differential_evolution step 118: f(x)= 0.493949
+differential_evolution step 119: f(x)= 0.493949
+differential_evolution step 120: f(x)= 0.493949
+differential_evolution step 121: f(x)= 0.493949
+differential_evolution step 122: f(x)= 0.493949
+differential_evolution step 123: f(x)= 0.493949
+differential_evolution step 124: f(x)= 0.493949
+differential_evolution step 125: f(x)= 0.493949
+differential_evolution step 126: f(x)= 0.493949
+Lowest Score Found: 0.486425940116
+differential_evolution step 127: f(x)= 0.486426
+differential_evolution step 128: f(x)= 0.486426
+differential_evolution step 129: f(x)= 0.486426
+differential_evolution step 130: f(x)= 0.486426
+differential_evolution step 131: f(x)= 0.486426
+differential_evolution step 132: f(x)= 0.486426
+differential_evolution step 133: f(x)= 0.486426
+differential_evolution step 134: f(x)= 0.486426
+differential_evolution step 135: f(x)= 0.486426
+differential_evolution step 136: f(x)= 0.486426
+differential_evolution step 137: f(x)= 0.486426
+differential_evolution step 138: f(x)= 0.486426
+Lowest Score Found: 0.48414864886
+differential_evolution step 139: f(x)= 0.484149
+differential_evolution step 140: f(x)= 0.484149
+Lowest Score Found: 0.468999549421
+differential_evolution step 141: f(x)= 0.469
+differential_evolution step 142: f(x)= 0.469
+differential_evolution step 143: f(x)= 0.469
+differential_evolution step 144: f(x)= 0.469
+differential_evolution step 145: f(x)= 0.469
+differential_evolution step 146: f(x)= 0.469
+differential_evolution step 147: f(x)= 0.469
+Lowest Score Found: 0.462262686819
+differential_evolution step 148: f(x)= 0.462263
+differential_evolution step 149: f(x)= 0.462263
+differential_evolution step 150: f(x)= 0.462263
+differential_evolution step 151: f(x)= 0.462263
+differential_evolution step 152: f(x)= 0.462263
+differential_evolution step 153: f(x)= 0.462263
+differential_evolution step 154: f(x)= 0.462263
+differential_evolution step 155: f(x)= 0.462263
+differential_evolution step 156: f(x)= 0.462263
+differential_evolution step 157: f(x)= 0.462263
+differential_evolution step 158: f(x)= 0.462263
+differential_evolution step 159: f(x)= 0.462263
+differential_evolution step 160: f(x)= 0.462263
+differential_evolution step 161: f(x)= 0.462263
+differential_evolution step 162: f(x)= 0.462263
+differential_evolution step 163: f(x)= 0.462263
+differential_evolution step 164: f(x)= 0.462263
+Lowest Score Found: 0.460882807999
+differential_evolution step 165: f(x)= 0.460883
+differential_evolution step 166: f(x)= 0.460883
+differential_evolution step 167: f(x)= 0.460883
+differential_evolution step 168: f(x)= 0.460883
+differential_evolution step 169: f(x)= 0.460883
+differential_evolution step 170: f(x)= 0.460883
+differential_evolution step 171: f(x)= 0.460883
+differential_evolution step 172: f(x)= 0.460883
+differential_evolution step 173: f(x)= 0.460883
+differential_evolution step 174: f(x)= 0.460883
+differential_evolution step 175: f(x)= 0.460883
+differential_evolution step 176: f(x)= 0.460883
+differential_evolution step 177: f(x)= 0.460883
+differential_evolution step 178: f(x)= 0.460883
+differential_evolution step 179: f(x)= 0.460883
+differential_evolution step 180: f(x)= 0.460883
+differential_evolution step 181: f(x)= 0.460883
+differential_evolution step 182: f(x)= 0.460883
+differential_evolution step 183: f(x)= 0.460883
+differential_evolution step 184: f(x)= 0.460883
+differential_evolution step 185: f(x)= 0.460883
+differential_evolution step 186: f(x)= 0.460883
+differential_evolution step 187: f(x)= 0.460883
+differential_evolution step 188: f(x)= 0.460883
+differential_evolution step 189: f(x)= 0.460883
+differential_evolution step 190: f(x)= 0.460883
+differential_evolution step 191: f(x)= 0.460883
+differential_evolution step 192: f(x)= 0.460883
+differential_evolution step 193: f(x)= 0.460883
+differential_evolution step 194: f(x)= 0.460883
+differential_evolution step 195: f(x)= 0.460883
+differential_evolution step 196: f(x)= 0.460883
+differential_evolution step 197: f(x)= 0.460883
+differential_evolution step 198: f(x)= 0.460883
+differential_evolution step 199: f(x)= 0.460883
+differential_evolution step 200: f(x)= 0.460883
+differential_evolution step 201: f(x)= 0.460883
+differential_evolution step 202: f(x)= 0.460883
+differential_evolution step 203: f(x)= 0.460883
+differential_evolution step 204: f(x)= 0.460883
+differential_evolution step 205: f(x)= 0.460883
+differential_evolution step 206: f(x)= 0.460883
+differential_evolution step 207: f(x)= 0.460883
+differential_evolution step 208: f(x)= 0.460883
+differential_evolution step 209: f(x)= 0.460883
+differential_evolution step 210: f(x)= 0.460883
+differential_evolution step 211: f(x)= 0.460883
+differential_evolution step 212: f(x)= 0.460883
+differential_evolution step 213: f(x)= 0.460883
+differential_evolution step 214: f(x)= 0.460883
+Lowest Score Found: 0.459847730106
+differential_evolution step 215: f(x)= 0.459848
+Lowest Score Found: 0.45725508228
+differential_evolution step 216: f(x)= 0.457255
+Lowest Score Found: 0.456163807037
+Lowest Score Found: 0.451792144806
+differential_evolution step 217: f(x)= 0.451792
+Lowest Score Found: 0.450467347918
+differential_evolution step 218: f(x)= 0.450467
+differential_evolution step 219: f(x)= 0.450467
+differential_evolution step 220: f(x)= 0.450467
+differential_evolution step 221: f(x)= 0.450467
+differential_evolution step 222: f(x)= 0.450467
+Lowest Score Found: 0.445684080329
+Lowest Score Found: 0.445092235925
+differential_evolution step 223: f(x)= 0.445092
+differential_evolution step 224: f(x)= 0.445092
+differential_evolution step 225: f(x)= 0.445092
+differential_evolution step 226: f(x)= 0.445092
+differential_evolution step 227: f(x)= 0.445092
+differential_evolution step 228: f(x)= 0.445092
+differential_evolution step 229: f(x)= 0.445092
+Lowest Score Found: 0.441405252192
+differential_evolution step 230: f(x)= 0.441405
+differential_evolution step 231: f(x)= 0.441405
+differential_evolution step 232: f(x)= 0.441405
+Lowest Score Found: 0.438863059248
+differential_evolution step 233: f(x)= 0.438863
+differential_evolution step 234: f(x)= 0.438863
+differential_evolution step 235: f(x)= 0.438863
+differential_evolution step 236: f(x)= 0.438863
+differential_evolution step 237: f(x)= 0.438863
+differential_evolution step 238: f(x)= 0.438863
+differential_evolution step 239: f(x)= 0.438863
+differential_evolution step 240: f(x)= 0.438863
+differential_evolution step 241: f(x)= 0.438863
+differential_evolution step 242: f(x)= 0.438863
+differential_evolution step 243: f(x)= 0.438863
+differential_evolution step 244: f(x)= 0.438863
+differential_evolution step 245: f(x)= 0.438863
+differential_evolution step 246: f(x)= 0.438863
+differential_evolution step 247: f(x)= 0.438863
+differential_evolution step 248: f(x)= 0.438863
+differential_evolution step 249: f(x)= 0.438863
+differential_evolution step 250: f(x)= 0.438863
+differential_evolution step 251: f(x)= 0.438863
+differential_evolution step 252: f(x)= 0.438863
+differential_evolution step 253: f(x)= 0.438863
+differential_evolution step 254: f(x)= 0.438863
+differential_evolution step 255: f(x)= 0.438863
+Lowest Score Found: 0.435490323032
+differential_evolution step 256: f(x)= 0.43549
+differential_evolution step 257: f(x)= 0.43549
+differential_evolution step 258: f(x)= 0.43549
+differential_evolution step 259: f(x)= 0.43549
+Lowest Score Found: 0.434603848104
+differential_evolution step 260: f(x)= 0.434604
+differential_evolution step 261: f(x)= 0.434604
+differential_evolution step 262: f(x)= 0.434604
+differential_evolution step 263: f(x)= 0.434604
+differential_evolution step 264: f(x)= 0.434604
+differential_evolution step 265: f(x)= 0.434604
+differential_evolution step 266: f(x)= 0.434604
+differential_evolution step 267: f(x)= 0.434604
+differential_evolution step 268: f(x)= 0.434604
+differential_evolution step 269: f(x)= 0.434604
+differential_evolution step 270: f(x)= 0.434604
+differential_evolution step 271: f(x)= 0.434604
+differential_evolution step 272: f(x)= 0.434604
+differential_evolution step 273: f(x)= 0.434604
+differential_evolution step 274: f(x)= 0.434604
+differential_evolution step 275: f(x)= 0.434604
+differential_evolution step 276: f(x)= 0.434604
+differential_evolution step 277: f(x)= 0.434604
+differential_evolution step 278: f(x)= 0.434604
+differential_evolution step 279: f(x)= 0.434604
+differential_evolution step 280: f(x)= 0.434604
+differential_evolution step 281: f(x)= 0.434604
+Lowest Score Found: 0.433411581546
+differential_evolution step 282: f(x)= 0.433412
+differential_evolution step 283: f(x)= 0.433412
+differential_evolution step 284: f(x)= 0.433412
+differential_evolution step 285: f(x)= 0.433412
+differential_evolution step 286: f(x)= 0.433412
+differential_evolution step 287: f(x)= 0.433412
+Lowest Score Found: 0.431700701506
+differential_evolution step 288: f(x)= 0.431701
+differential_evolution step 289: f(x)= 0.431701
+differential_evolution step 290: f(x)= 0.431701
+differential_evolution step 291: f(x)= 0.431701
+differential_evolution step 292: f(x)= 0.431701
+differential_evolution step 293: f(x)= 0.431701
+differential_evolution step 294: f(x)= 0.431701
+differential_evolution step 295: f(x)= 0.431701
+differential_evolution step 296: f(x)= 0.431701
+differential_evolution step 297: f(x)= 0.431701
+differential_evolution step 298: f(x)= 0.431701
+differential_evolution step 299: f(x)= 0.431701
+differential_evolution step 300: f(x)= 0.431701
+differential_evolution step 301: f(x)= 0.431701
+differential_evolution step 302: f(x)= 0.431701
+differential_evolution step 303: f(x)= 0.431701
+differential_evolution step 304: f(x)= 0.431701
+differential_evolution step 305: f(x)= 0.431701
+differential_evolution step 306: f(x)= 0.431701
+Lowest Score Found: 0.429746996711
+differential_evolution step 307: f(x)= 0.429747
+differential_evolution step 308: f(x)= 0.429747
+differential_evolution step 309: f(x)= 0.429747
+differential_evolution step 310: f(x)= 0.429747
+differential_evolution step 311: f(x)= 0.429747
+differential_evolution step 312: f(x)= 0.429747
+differential_evolution step 313: f(x)= 0.429747
+differential_evolution step 314: f(x)= 0.429747
+differential_evolution step 315: f(x)= 0.429747
+differential_evolution step 316: f(x)= 0.429747
+differential_evolution step 317: f(x)= 0.429747
+differential_evolution step 318: f(x)= 0.429747
+differential_evolution step 319: f(x)= 0.429747
+differential_evolution step 320: f(x)= 0.429747
+differential_evolution step 321: f(x)= 0.429747
+differential_evolution step 322: f(x)= 0.429747
+differential_evolution step 323: f(x)= 0.429747
+differential_evolution step 324: f(x)= 0.429747
+differential_evolution step 325: f(x)= 0.429747
+differential_evolution step 326: f(x)= 0.429747
+differential_evolution step 327: f(x)= 0.429747
+differential_evolution step 328: f(x)= 0.429747
+differential_evolution step 329: f(x)= 0.429747
+differential_evolution step 330: f(x)= 0.429747
+differential_evolution step 331: f(x)= 0.429747
+differential_evolution step 332: f(x)= 0.429747
+differential_evolution step 333: f(x)= 0.429747
+differential_evolution step 334: f(x)= 0.429747
+differential_evolution step 335: f(x)= 0.429747
+differential_evolution step 336: f(x)= 0.429747
+differential_evolution step 337: f(x)= 0.429747
+differential_evolution step 338: f(x)= 0.429747
+differential_evolution step 339: f(x)= 0.429747
+differential_evolution step 340: f(x)= 0.429747
+differential_evolution step 341: f(x)= 0.429747
+differential_evolution step 342: f(x)= 0.429747
+differential_evolution step 343: f(x)= 0.429747
+Lowest Score Found: 0.428910480605
+differential_evolution step 344: f(x)= 0.42891
+differential_evolution step 345: f(x)= 0.42891
+differential_evolution step 346: f(x)= 0.42891
+differential_evolution step 347: f(x)= 0.42891
+Lowest Score Found: 0.427651776493
+differential_evolution step 348: f(x)= 0.427652
+differential_evolution step 349: f(x)= 0.427652
+differential_evolution step 350: f(x)= 0.427652
+differential_evolution step 351: f(x)= 0.427652
+differential_evolution step 352: f(x)= 0.427652
+differential_evolution step 353: f(x)= 0.427652
+differential_evolution step 354: f(x)= 0.427652
+differential_evolution step 355: f(x)= 0.427652
+differential_evolution step 356: f(x)= 0.427652
+differential_evolution step 357: f(x)= 0.427652
+differential_evolution step 358: f(x)= 0.427652
+differential_evolution step 359: f(x)= 0.427652
+differential_evolution step 360: f(x)= 0.427652
+differential_evolution step 361: f(x)= 0.427652
+differential_evolution step 362: f(x)= 0.427652
+differential_evolution step 363: f(x)= 0.427652
+differential_evolution step 364: f(x)= 0.427652
+differential_evolution step 365: f(x)= 0.427652
+differential_evolution step 366: f(x)= 0.427652
+differential_evolution step 367: f(x)= 0.427652
+differential_evolution step 368: f(x)= 0.427652
+differential_evolution step 369: f(x)= 0.427652
+differential_evolution step 370: f(x)= 0.427652
+differential_evolution step 371: f(x)= 0.427652
+differential_evolution step 372: f(x)= 0.427652
+differential_evolution step 373: f(x)= 0.427652
+differential_evolution step 374: f(x)= 0.427652
+Lowest Score Found: 0.427531214287
+differential_evolution step 375: f(x)= 0.427531
+differential_evolution step 376: f(x)= 0.427531
+differential_evolution step 377: f(x)= 0.427531
+differential_evolution step 378: f(x)= 0.427531
+Lowest Score Found: 0.427443979314
+differential_evolution step 379: f(x)= 0.427444
+differential_evolution step 380: f(x)= 0.427444
+differential_evolution step 381: f(x)= 0.427444
+Lowest Score Found: 0.427223928456
+differential_evolution step 382: f(x)= 0.427224
+differential_evolution step 383: f(x)= 0.427224
+differential_evolution step 384: f(x)= 0.427224
+differential_evolution step 385: f(x)= 0.427224
+differential_evolution step 386: f(x)= 0.427224
+differential_evolution step 387: f(x)= 0.427224
+differential_evolution step 388: f(x)= 0.427224
+differential_evolution step 389: f(x)= 0.427224
+differential_evolution step 390: f(x)= 0.427224
+differential_evolution step 391: f(x)= 0.427224
+differential_evolution step 392: f(x)= 0.427224
+differential_evolution step 393: f(x)= 0.427224
+differential_evolution step 394: f(x)= 0.427224
+differential_evolution step 395: f(x)= 0.427224
+differential_evolution step 396: f(x)= 0.427224
+differential_evolution step 397: f(x)= 0.427224
+differential_evolution step 398: f(x)= 0.427224
+differential_evolution step 399: f(x)= 0.427224
+differential_evolution step 400: f(x)= 0.427224
+differential_evolution step 401: f(x)= 0.427224
+differential_evolution step 402: f(x)= 0.427224
+differential_evolution step 403: f(x)= 0.427224
+differential_evolution step 404: f(x)= 0.427224
+differential_evolution step 405: f(x)= 0.427224
+differential_evolution step 406: f(x)= 0.427224
+differential_evolution step 407: f(x)= 0.427224
+differential_evolution step 408: f(x)= 0.427224
+differential_evolution step 409: f(x)= 0.427224
+Lowest Score Found: 0.42698888723
+differential_evolution step 410: f(x)= 0.426989
+differential_evolution step 411: f(x)= 0.426989
+differential_evolution step 412: f(x)= 0.426989
+differential_evolution step 413: f(x)= 0.426989
+differential_evolution step 414: f(x)= 0.426989
+differential_evolution step 415: f(x)= 0.426989
+differential_evolution step 416: f(x)= 0.426989
+differential_evolution step 417: f(x)= 0.426989
+differential_evolution step 418: f(x)= 0.426989
+differential_evolution step 419: f(x)= 0.426989
+differential_evolution step 420: f(x)= 0.426989
+differential_evolution step 421: f(x)= 0.426989
+differential_evolution step 422: f(x)= 0.426989
+differential_evolution step 423: f(x)= 0.426989
+differential_evolution step 424: f(x)= 0.426989
+differential_evolution step 425: f(x)= 0.426989
+Lowest Score Found: 0.426651613189
+differential_evolution step 426: f(x)= 0.426652
+differential_evolution step 427: f(x)= 0.426652
+differential_evolution step 428: f(x)= 0.426652
+Lowest Score Found: 0.42665161198
+Lowest Score Found: 0.426651611889
+Lowest Score Found: 0.426649992402
+Lowest Score Found: 0.426486156827
+Lowest Score Found: 0.426486156665
+Lowest Score Found: 0.426486154786
+Lowest Score Found: 0.426485442422
+Lowest Score Found: 0.426072975703
+Lowest Score Found: 0.426072975566
+Lowest Score Found: 0.426072974944
+Lowest Score Found: 0.426072974379
+Lowest Score Found: 0.426045133379
+Lowest Score Found: 0.426045132205
+Lowest Score Found: 0.426043853677
+Lowest Score Found: 0.426030239379
+Lowest Score Found: 0.426030238762
+Lowest Score Found: 0.426030238449
+Lowest Score Found: 0.426030238279
+Lowest Score Found: 0.426020195916
+Lowest Score Found: 0.42602019513
+Lowest Score Found: 0.426020194969
+Lowest Score Found: 0.42602019484
+Lowest Score Found: 0.426007981807
+Lowest Score Found: 0.426007981296
+Lowest Score Found: 0.426007980924
+Lowest Score Found: 0.426007980703
+Lowest Score Found: 0.425914056914
+Lowest Score Found: 0.425914056781
+Lowest Score Found: 0.425914056346
+Lowest Score Found: 0.425914056318
+Lowest Score Found: 0.425914055712
+Lowest Score Found: 0.425890654232
+Lowest Score Found: 0.425890653495
+Lowest Score Found: 0.42589065298
+Lowest Score Found: 0.425890652765
+Lowest Score Found: 0.42576144884
+Lowest Score Found: 0.42576144872
+Lowest Score Found: 0.425761448525
+Lowest Score Found: 0.425761447794
+Lowest Score Found: 0.425761361548
+Lowest Score Found: 0.425761361428
+Lowest Score Found: 0.425761361235
+Lowest Score Found: 0.425761360503
+Lowest Score Found: 0.425761030882
+Lowest Score Found: 0.425761030761
+Lowest Score Found: 0.42576103058
+Lowest Score Found: 0.425761029843
+Lowest Score Found: 0.425757864933
+Lowest Score Found: 0.42575786479
+Lowest Score Found: 0.425757864759
+Lowest Score Found: 0.425757863955
+Lowest Score Found: 0.425757570942
+Lowest Score Found: 0.425757570789
+Lowest Score Found: 0.425757569395
+Lowest Score Found: 0.425755620622
+Lowest Score Found: 0.42575562046
+Lowest Score Found: 0.425755619318
+Lowest Score Found: 0.425749450935
+Lowest Score Found: 0.425749450861
+Lowest Score Found: 0.425749450738
+Lowest Score Found: 0.425749450601
+Lowest Score Found: 0.425749449907
+Lowest Score Found: 0.425740807674
+Lowest Score Found: 0.425740807366
+Lowest Score Found: 0.425740806549
+Lowest Score Found: 0.425732200621
+Lowest Score Found: 0.425732200321
+Lowest Score Found: 0.425730734636
+Lowest Score Found: 0.425730733037
+Lowest Score Found: 0.42569278206
+Lowest Score Found: 0.425692782045
+Lowest Score Found: 0.42569278186
+Lowest Score Found: 0.425692780652
+Lowest Score Found: 0.425663788059
+Lowest Score Found: 0.425663787766
+Lowest Score Found: 0.425663786117
+Lowest Score Found: 0.425576976451
+Lowest Score Found: 0.42557697607
+Lowest Score Found: 0.425576973967
+Lowest Score Found: 0.425463476483
+Lowest Score Found: 0.425463476212
+Lowest Score Found: 0.425463476186
+Lowest Score Found: 0.425463475963
+Lowest Score Found: 0.42546347446
+Lowest Score Found: 0.425315087915
+Lowest Score Found: 0.425315087396
+Lowest Score Found: 0.42531508656
+Lowest Score Found: 0.425181534114
+Lowest Score Found: 0.425181533603
+Lowest Score Found: 0.425181532697
+Lowest Score Found: 0.425159073124
+Lowest Score Found: 0.425159072794
+Lowest Score Found: 0.425159070981
+Lowest Score Found: 0.425145817129
+Lowest Score Found: 0.425145816967
+Lowest Score Found: 0.42514581579
+Lowest Score Found: 0.42514455532
+Lowest Score Found: 0.425144555079
+Lowest Score Found: 0.425144554459
+Lowest Score Found: 0.425144554
+Lowest Score Found: 0.425143965227
+Lowest Score Found: 0.425143965169
+Lowest Score Found: 0.425143762973
+Lowest Score Found: 0.42514376292
+Lowest Score Found: 0.425143649899
+Lowest Score Found: 0.425143649884
+Lowest Score Found: 0.425143649859
+Lowest Score Found: 0.425143649839
+Lowest Score Found: 0.42514364853
+Lowest Score Found: 0.425143557121
+Lowest Score Found: 0.425143557078
+Lowest Score Found: 0.425143557054
+Lowest Score Found: 0.425143555749
+Lowest Score Found: 0.425142765692
+Lowest Score Found: 0.425142765682
+Lowest Score Found: 0.425142765646
+Lowest Score Found: 0.425142765604
+Lowest Score Found: 0.425142764313
+Lowest Score Found: 0.425142292168
+Lowest Score Found: 0.42514229164
+Lowest Score Found: 0.425140595556
+Lowest Score Found: 0.42514059551
+Lowest Score Found: 0.425140595503
+Lowest Score Found: 0.425140595434
+Lowest Score Found: 0.425140595243
+Lowest Score Found: 0.425140594174
+Lowest Score Found: 0.425135439591
+Lowest Score Found: 0.425135439482
+Lowest Score Found: 0.42513543943
+Lowest Score Found: 0.425135439176
+Lowest Score Found: 0.425135438226
+Lowest Score Found: 0.425126180522
+Lowest Score Found: 0.425126180397
+Lowest Score Found: 0.425126180245
+Lowest Score Found: 0.425126179249
+Lowest Score Found: 0.425122300005
+Lowest Score Found: 0.425122299893
+Lowest Score Found: 0.425122298779
+Lowest Score Found: 0.425119032139
+Lowest Score Found: 0.425119032065
+Lowest Score Found: 0.425119032021
+Lowest Score Found: 0.425119031915
+Lowest Score Found: 0.425119030935
+Lowest Score Found: 0.425114346756
+Lowest Score Found: 0.425114346739
+Lowest Score Found: 0.425114346441
+Lowest Score Found: 0.425114346219
+Lowest Score Found: 0.425114345569
+Lowest Score Found: 0.425105995816
+Lowest Score Found: 0.425105995309
+Lowest Score Found: 0.425105995229
+Lowest Score Found: 0.425105994601
+Lowest Score Found: 0.425105970863
+Lowest Score Found: 0.425105970356
+Lowest Score Found: 0.425105970263
+Lowest Score Found: 0.425105969648
+Lowest Score Found: 0.425104397493
+Lowest Score Found: 0.425104396947
+Lowest Score Found: 0.42510439543
+Lowest Score Found: 0.425095001615
+Lowest Score Found: 0.42509500114
+Lowest Score Found: 0.425095000538
+Lowest Score Found: 0.425095000347
+Lowest Score Found: 0.425089544065
+Lowest Score Found: 0.425089543854
+Lowest Score Found: 0.425089542685
+Lowest Score Found: 0.42508845276
+Lowest Score Found: 0.425088221291
+Lowest Score Found: 0.425088221265
+Lowest Score Found: 0.425088221251
+Lowest Score Found: 0.42508822124
+Lowest Score Found: 0.42508821988
+Lowest Score Found: 0.425087996643
+Lowest Score Found: 0.425087996609
+Lowest Score Found: 0.425087996606
+Lowest Score Found: 0.425087996582
+Lowest Score Found: 0.425087995238
+Lowest Score Found: 0.425087959343
+Lowest Score Found: 0.425087959261
+Lowest Score Found: 0.425087958928
+Lowest Score Found: 0.425087957939
+Lowest Score Found: 0.425087753511
+Lowest Score Found: 0.425087359818
+Lowest Score Found: 0.425087359796
+Lowest Score Found: 0.425087359774
+Lowest Score Found: 0.425087359673
+Lowest Score Found: 0.425087358421
+Lowest Score Found: 0.425087076852
+Lowest Score Found: 0.425087076823
+Lowest Score Found: 0.425087076804
+Lowest Score Found: 0.425087075457
+Lowest Score Found: 0.425086732442
+Lowest Score Found: 0.425086732417
+Lowest Score Found: 0.425086732407
+Lowest Score Found: 0.425086732401
+Lowest Score Found: 0.425086731047
+Lowest Score Found: 0.425086330214
+Lowest Score Found: 0.4250863302
+Lowest Score Found: 0.425086330183
+Lowest Score Found: 0.425086330158
+Lowest Score Found: 0.42508632882
+Lowest Score Found: 0.425086261201
+Lowest Score Found: 0.425086261193
+Lowest Score Found: 0.425086261166
+Lowest Score Found: 0.425086261146
+Lowest Score Found: 0.425086259811
+Lowest Score Found: 0.425085258208
+Lowest Score Found: 0.425085258136
+Lowest Score Found: 0.425085258125
+Lowest Score Found: 0.425085257913
+Lowest Score Found: 0.425085256819
+Lowest Score Found: 0.425084612656
+Lowest Score Found: 0.425084612654
+Lowest Score Found: 0.425084612577
+Lowest Score Found: 0.425084611219
+Lowest Score Found: 0.425084186485
+Lowest Score Found: 0.42508418643
+Lowest Score Found: 0.425084186429
+Lowest Score Found: 0.425084186388
+Lowest Score Found: 0.425084185056
+Lowest Score Found: 0.425083565454
+Lowest Score Found: 0.425083565421
+Lowest Score Found: 0.425083565416
+Lowest Score Found: 0.425083565416
+Lowest Score Found: 0.425083565243
+Lowest Score Found: 0.425083564039
+Lowest Score Found: 0.425082947828
+Lowest Score Found: 0.425082947799
+Lowest Score Found: 0.42508294779
+Lowest Score Found: 0.425082947714
+Lowest Score Found: 0.425082946421
+Lowest Score Found: 0.425082919988
+Lowest Score Found: 0.425082915578
+Lowest Score Found: 0.425082915549
+Lowest Score Found: 0.42508291554
+Lowest Score Found: 0.425082915476
+Lowest Score Found: 0.425082915448
+Lowest Score Found: 0.425082914172
+Lowest Score Found: 0.425082466429
+Lowest Score Found: 0.425082466283
+fittingscript_steadystate_20160104.py /gscratch/rna/willy/HyakFittingScripts_CascadeAnalysis_20160104/output_fittingscript_steadystate_20160104
+Importing Kinetics Data
+******************************
+Running Differential Evolution...
+******************************
+Lowest Score Found: 20.7718559218
+Lowest Score Found: 10.5595515724
+Lowest Score Found: 5.41203080318
+Lowest Score Found: 4.58989665331
+Lowest Score Found: 3.5446569825
+Lowest Score Found: 2.59401932353
+differential_evolution step 1: f(x)= 2.59402
+Lowest Score Found: 2.33068046997
+Lowest Score Found: 1.61801095417
+differential_evolution step 2: f(x)= 1.61801
+differential_evolution step 3: f(x)= 1.61801
+differential_evolution step 4: f(x)= 1.61801
+differential_evolution step 5: f(x)= 1.61801
+differential_evolution step 6: f(x)= 1.61801
+differential_evolution step 7: f(x)= 1.61801
+differential_evolution step 8: f(x)= 1.61801
+differential_evolution step 9: f(x)= 1.61801
+differential_evolution step 10: f(x)= 1.61801
+differential_evolution step 11: f(x)= 1.61801
+Lowest Score Found: 1.39263957465
+differential_evolution step 12: f(x)= 1.39264
+differential_evolution step 13: f(x)= 1.39264
+differential_evolution step 14: f(x)= 1.39264
+Lowest Score Found: 1.21262387819
+differential_evolution step 15: f(x)= 1.21262
+differential_evolution step 16: f(x)= 1.21262
+differential_evolution step 17: f(x)= 1.21262
+Lowest Score Found: 1.07813175712
+differential_evolution step 18: f(x)= 1.07813
+differential_evolution step 19: f(x)= 1.07813
+differential_evolution step 20: f(x)= 1.07813
+differential_evolution step 21: f(x)= 1.07813
+differential_evolution step 22: f(x)= 1.07813
+Lowest Score Found: 1.02938473262
+Lowest Score Found: 0.778846958421
+differential_evolution step 23: f(x)= 0.778847
+differential_evolution step 24: f(x)= 0.778847
+differential_evolution step 25: f(x)= 0.778847
+differential_evolution step 26: f(x)= 0.778847
+differential_evolution step 27: f(x)= 0.778847
+differential_evolution step 28: f(x)= 0.778847
+differential_evolution step 29: f(x)= 0.778847
+differential_evolution step 30: f(x)= 0.778847
+differential_evolution step 31: f(x)= 0.778847
+differential_evolution step 32: f(x)= 0.778847
+differential_evolution step 33: f(x)= 0.778847
+differential_evolution step 34: f(x)= 0.778847
+differential_evolution step 35: f(x)= 0.778847
+differential_evolution step 36: f(x)= 0.778847
+differential_evolution step 37: f(x)= 0.778847
+differential_evolution step 38: f(x)= 0.778847
+differential_evolution step 39: f(x)= 0.778847
+differential_evolution step 40: f(x)= 0.778847
+differential_evolution step 41: f(x)= 0.778847
+differential_evolution step 42: f(x)= 0.778847
+differential_evolution step 43: f(x)= 0.778847
+differential_evolution step 44: f(x)= 0.778847
+differential_evolution step 45: f(x)= 0.778847
+differential_evolution step 46: f(x)= 0.778847
+differential_evolution step 47: f(x)= 0.778847
+differential_evolution step 48: f(x)= 0.778847
+Lowest Score Found: 0.762998352147
+Lowest Score Found: 0.659077655048
+differential_evolution step 49: f(x)= 0.659078
+differential_evolution step 50: f(x)= 0.659078
+Lowest Score Found: 0.629260137688
+differential_evolution step 51: f(x)= 0.62926
+differential_evolution step 52: f(x)= 0.62926
+differential_evolution step 53: f(x)= 0.62926
+differential_evolution step 54: f(x)= 0.62926
+differential_evolution step 55: f(x)= 0.62926
+differential_evolution step 56: f(x)= 0.62926
+differential_evolution step 57: f(x)= 0.62926
+differential_evolution step 58: f(x)= 0.62926
+differential_evolution step 59: f(x)= 0.62926
+differential_evolution step 60: f(x)= 0.62926
+Lowest Score Found: 0.624375477396
+differential_evolution step 61: f(x)= 0.624375
+differential_evolution step 62: f(x)= 0.624375
+differential_evolution step 63: f(x)= 0.624375
+differential_evolution step 64: f(x)= 0.624375
+differential_evolution step 65: f(x)= 0.624375
+differential_evolution step 66: f(x)= 0.624375
+differential_evolution step 67: f(x)= 0.624375
+Lowest Score Found: 0.619377952739
+differential_evolution step 68: f(x)= 0.619378
+differential_evolution step 69: f(x)= 0.619378
+differential_evolution step 70: f(x)= 0.619378
+differential_evolution step 71: f(x)= 0.619378
+differential_evolution step 72: f(x)= 0.619378
+differential_evolution step 73: f(x)= 0.619378
+Lowest Score Found: 0.599107036283
+differential_evolution step 74: f(x)= 0.599107
+differential_evolution step 75: f(x)= 0.599107
+differential_evolution step 76: f(x)= 0.599107
+Lowest Score Found: 0.595944693644
+differential_evolution step 77: f(x)= 0.595945
+differential_evolution step 78: f(x)= 0.595945
+Lowest Score Found: 0.589842402637
+differential_evolution step 79: f(x)= 0.589842
+differential_evolution step 80: f(x)= 0.589842
+differential_evolution step 81: f(x)= 0.589842
+differential_evolution step 82: f(x)= 0.589842
+differential_evolution step 83: f(x)= 0.589842
+Lowest Score Found: 0.580511301798
+differential_evolution step 84: f(x)= 0.580511
+differential_evolution step 85: f(x)= 0.580511
+differential_evolution step 86: f(x)= 0.580511
+differential_evolution step 87: f(x)= 0.580511
+differential_evolution step 88: f(x)= 0.580511
+differential_evolution step 89: f(x)= 0.580511
+differential_evolution step 90: f(x)= 0.580511
+differential_evolution step 91: f(x)= 0.580511
+differential_evolution step 92: f(x)= 0.580511
+differential_evolution step 93: f(x)= 0.580511
+differential_evolution step 94: f(x)= 0.580511
+Lowest Score Found: 0.579400703366
+differential_evolution step 95: f(x)= 0.579401
+Lowest Score Found: 0.575963910258
+Lowest Score Found: 0.535660442766
+differential_evolution step 96: f(x)= 0.53566
+differential_evolution step 97: f(x)= 0.53566
+differential_evolution step 98: f(x)= 0.53566
+Lowest Score Found: 0.534719819646
+differential_evolution step 99: f(x)= 0.53472
+differential_evolution step 100: f(x)= 0.53472
+differential_evolution step 101: f(x)= 0.53472
+differential_evolution step 102: f(x)= 0.53472
+differential_evolution step 103: f(x)= 0.53472
+differential_evolution step 104: f(x)= 0.53472
+differential_evolution step 105: f(x)= 0.53472
+differential_evolution step 106: f(x)= 0.53472
+differential_evolution step 107: f(x)= 0.53472
+differential_evolution step 108: f(x)= 0.53472
+differential_evolution step 109: f(x)= 0.53472
+differential_evolution step 110: f(x)= 0.53472
+differential_evolution step 111: f(x)= 0.53472
+differential_evolution step 112: f(x)= 0.53472
+differential_evolution step 113: f(x)= 0.53472
+differential_evolution step 114: f(x)= 0.53472
+differential_evolution step 115: f(x)= 0.53472
+differential_evolution step 116: f(x)= 0.53472
+differential_evolution step 117: f(x)= 0.53472
+differential_evolution step 118: f(x)= 0.53472
+differential_evolution step 119: f(x)= 0.53472
+differential_evolution step 120: f(x)= 0.53472
+differential_evolution step 121: f(x)= 0.53472
+Lowest Score Found: 0.53082969278
+differential_evolution step 122: f(x)= 0.53083
+Lowest Score Found: 0.518016173015
+differential_evolution step 123: f(x)= 0.518016
+differential_evolution step 124: f(x)= 0.518016
+differential_evolution step 125: f(x)= 0.518016
+differential_evolution step 126: f(x)= 0.518016
+differential_evolution step 127: f(x)= 0.518016
+Lowest Score Found: 0.506675430157
+differential_evolution step 128: f(x)= 0.506675
+Lowest Score Found: 0.487487845626
+differential_evolution step 129: f(x)= 0.487488
+differential_evolution step 130: f(x)= 0.487488
+Lowest Score Found: 0.487017160971
+differential_evolution step 131: f(x)= 0.487017
+differential_evolution step 132: f(x)= 0.487017
+differential_evolution step 133: f(x)= 0.487017
+differential_evolution step 134: f(x)= 0.487017
+differential_evolution step 135: f(x)= 0.487017
+differential_evolution step 136: f(x)= 0.487017
+differential_evolution step 137: f(x)= 0.487017
+differential_evolution step 138: f(x)= 0.487017
+differential_evolution step 139: f(x)= 0.487017
+differential_evolution step 140: f(x)= 0.487017
+differential_evolution step 141: f(x)= 0.487017
+differential_evolution step 142: f(x)= 0.487017
+differential_evolution step 143: f(x)= 0.487017
+differential_evolution step 144: f(x)= 0.487017
+differential_evolution step 145: f(x)= 0.487017
+differential_evolution step 146: f(x)= 0.487017
+differential_evolution step 147: f(x)= 0.487017
+differential_evolution step 148: f(x)= 0.487017
+differential_evolution step 149: f(x)= 0.487017
+differential_evolution step 150: f(x)= 0.487017
+differential_evolution step 151: f(x)= 0.487017
+differential_evolution step 152: f(x)= 0.487017
+differential_evolution step 153: f(x)= 0.487017
+differential_evolution step 154: f(x)= 0.487017
+differential_evolution step 155: f(x)= 0.487017
+Lowest Score Found: 0.476741676903
+differential_evolution step 156: f(x)= 0.476742
+differential_evolution step 157: f(x)= 0.476742
+differential_evolution step 158: f(x)= 0.476742
+Lowest Score Found: 0.463644641619
+differential_evolution step 159: f(x)= 0.463645
+differential_evolution step 160: f(x)= 0.463645
+differential_evolution step 161: f(x)= 0.463645
+differential_evolution step 162: f(x)= 0.463645
+differential_evolution step 163: f(x)= 0.463645
+differential_evolution step 164: f(x)= 0.463645
+differential_evolution step 165: f(x)= 0.463645
+differential_evolution step 166: f(x)= 0.463645
+differential_evolution step 167: f(x)= 0.463645
+differential_evolution step 168: f(x)= 0.463645
+differential_evolution step 169: f(x)= 0.463645
+differential_evolution step 170: f(x)= 0.463645
+differential_evolution step 171: f(x)= 0.463645
+Lowest Score Found: 0.452456859657
+differential_evolution step 172: f(x)= 0.452457
+differential_evolution step 173: f(x)= 0.452457
+differential_evolution step 174: f(x)= 0.452457
+differential_evolution step 175: f(x)= 0.452457
+differential_evolution step 176: f(x)= 0.452457
+differential_evolution step 177: f(x)= 0.452457
+differential_evolution step 178: f(x)= 0.452457
+differential_evolution step 179: f(x)= 0.452457
+differential_evolution step 180: f(x)= 0.452457
+differential_evolution step 181: f(x)= 0.452457
+Lowest Score Found: 0.444912268731
+differential_evolution step 182: f(x)= 0.444912
+differential_evolution step 183: f(x)= 0.444912
+differential_evolution step 184: f(x)= 0.444912
+differential_evolution step 185: f(x)= 0.444912
+differential_evolution step 186: f(x)= 0.444912
+differential_evolution step 187: f(x)= 0.444912
+differential_evolution step 188: f(x)= 0.444912
+differential_evolution step 189: f(x)= 0.444912
+differential_evolution step 190: f(x)= 0.444912
+differential_evolution step 191: f(x)= 0.444912
+differential_evolution step 192: f(x)= 0.444912
+differential_evolution step 193: f(x)= 0.444912
+differential_evolution step 194: f(x)= 0.444912
+differential_evolution step 195: f(x)= 0.444912
+differential_evolution step 196: f(x)= 0.444912
+differential_evolution step 197: f(x)= 0.444912
+differential_evolution step 198: f(x)= 0.444912
+differential_evolution step 199: f(x)= 0.444912
+differential_evolution step 200: f(x)= 0.444912
+differential_evolution step 201: f(x)= 0.444912
+differential_evolution step 202: f(x)= 0.444912
+differential_evolution step 203: f(x)= 0.444912
+differential_evolution step 204: f(x)= 0.444912
+differential_evolution step 205: f(x)= 0.444912
+differential_evolution step 206: f(x)= 0.444912
+Lowest Score Found: 0.440605234315
+differential_evolution step 207: f(x)= 0.440605
+differential_evolution step 208: f(x)= 0.440605
+differential_evolution step 209: f(x)= 0.440605
+differential_evolution step 210: f(x)= 0.440605
+Lowest Score Found: 0.440206898488
+differential_evolution step 211: f(x)= 0.440207
+differential_evolution step 212: f(x)= 0.440207
+differential_evolution step 213: f(x)= 0.440207
+differential_evolution step 214: f(x)= 0.440207
+differential_evolution step 215: f(x)= 0.440207
+differential_evolution step 216: f(x)= 0.440207
+differential_evolution step 217: f(x)= 0.440207
+differential_evolution step 218: f(x)= 0.440207
+differential_evolution step 219: f(x)= 0.440207
+differential_evolution step 220: f(x)= 0.440207
+differential_evolution step 221: f(x)= 0.440207
+differential_evolution step 222: f(x)= 0.440207
+differential_evolution step 223: f(x)= 0.440207
+differential_evolution step 224: f(x)= 0.440207
+differential_evolution step 225: f(x)= 0.440207
+differential_evolution step 226: f(x)= 0.440207
+differential_evolution step 227: f(x)= 0.440207
+differential_evolution step 228: f(x)= 0.440207
+differential_evolution step 229: f(x)= 0.440207
+differential_evolution step 230: f(x)= 0.440207
+differential_evolution step 231: f(x)= 0.440207
+differential_evolution step 232: f(x)= 0.440207
+differential_evolution step 233: f(x)= 0.440207
+differential_evolution step 234: f(x)= 0.440207
+differential_evolution step 235: f(x)= 0.440207
+differential_evolution step 236: f(x)= 0.440207
+differential_evolution step 237: f(x)= 0.440207
+differential_evolution step 238: f(x)= 0.440207
+differential_evolution step 239: f(x)= 0.440207
+differential_evolution step 240: f(x)= 0.440207
+differential_evolution step 241: f(x)= 0.440207
+differential_evolution step 242: f(x)= 0.440207
+differential_evolution step 243: f(x)= 0.440207
+differential_evolution step 244: f(x)= 0.440207
+differential_evolution step 245: f(x)= 0.440207
+differential_evolution step 246: f(x)= 0.440207
+differential_evolution step 247: f(x)= 0.440207
+differential_evolution step 248: f(x)= 0.440207
+differential_evolution step 249: f(x)= 0.440207
+differential_evolution step 250: f(x)= 0.440207
+differential_evolution step 251: f(x)= 0.440207
+differential_evolution step 252: f(x)= 0.440207
+differential_evolution step 253: f(x)= 0.440207
+differential_evolution step 254: f(x)= 0.440207
+Lowest Score Found: 0.437785150029
+differential_evolution step 255: f(x)= 0.437785
+Lowest Score Found: 0.435860870197
+differential_evolution step 256: f(x)= 0.435861
+differential_evolution step 257: f(x)= 0.435861
+differential_evolution step 258: f(x)= 0.435861
+differential_evolution step 259: f(x)= 0.435861
+differential_evolution step 260: f(x)= 0.435861
+differential_evolution step 261: f(x)= 0.435861
+differential_evolution step 262: f(x)= 0.435861
+differential_evolution step 263: f(x)= 0.435861
+differential_evolution step 264: f(x)= 0.435861
+differential_evolution step 265: f(x)= 0.435861
+differential_evolution step 266: f(x)= 0.435861
+differential_evolution step 267: f(x)= 0.435861
+differential_evolution step 268: f(x)= 0.435861
+differential_evolution step 269: f(x)= 0.435861
+differential_evolution step 270: f(x)= 0.435861
+differential_evolution step 271: f(x)= 0.435861
+differential_evolution step 272: f(x)= 0.435861
+differential_evolution step 273: f(x)= 0.435861
+differential_evolution step 274: f(x)= 0.435861
+differential_evolution step 275: f(x)= 0.435861
+differential_evolution step 276: f(x)= 0.435861
+differential_evolution step 277: f(x)= 0.435861
+differential_evolution step 278: f(x)= 0.435861
+differential_evolution step 279: f(x)= 0.435861
+differential_evolution step 280: f(x)= 0.435861
+differential_evolution step 281: f(x)= 0.435861
+differential_evolution step 282: f(x)= 0.435861
+differential_evolution step 283: f(x)= 0.435861
+differential_evolution step 284: f(x)= 0.435861
+differential_evolution step 285: f(x)= 0.435861
+differential_evolution step 286: f(x)= 0.435861
+differential_evolution step 287: f(x)= 0.435861
+differential_evolution step 288: f(x)= 0.435861
+differential_evolution step 289: f(x)= 0.435861
+differential_evolution step 290: f(x)= 0.435861
+differential_evolution step 291: f(x)= 0.435861
+differential_evolution step 292: f(x)= 0.435861
+differential_evolution step 293: f(x)= 0.435861
+differential_evolution step 294: f(x)= 0.435861
+differential_evolution step 295: f(x)= 0.435861
+differential_evolution step 296: f(x)= 0.435861
+differential_evolution step 297: f(x)= 0.435861
+Lowest Score Found: 0.43486062902
+differential_evolution step 298: f(x)= 0.434861
+differential_evolution step 299: f(x)= 0.434861
+differential_evolution step 300: f(x)= 0.434861
+differential_evolution step 301: f(x)= 0.434861
+differential_evolution step 302: f(x)= 0.434861
+differential_evolution step 303: f(x)= 0.434861
+Lowest Score Found: 0.433579704287
+differential_evolution step 304: f(x)= 0.43358
+differential_evolution step 305: f(x)= 0.43358
+Lowest Score Found: 0.427662714827
+differential_evolution step 306: f(x)= 0.427663
+differential_evolution step 307: f(x)= 0.427663
+differential_evolution step 308: f(x)= 0.427663
+differential_evolution step 309: f(x)= 0.427663
+differential_evolution step 310: f(x)= 0.427663
+differential_evolution step 311: f(x)= 0.427663
+differential_evolution step 312: f(x)= 0.427663
+differential_evolution step 313: f(x)= 0.427663
+differential_evolution step 314: f(x)= 0.427663
+differential_evolution step 315: f(x)= 0.427663
+differential_evolution step 316: f(x)= 0.427663
+differential_evolution step 317: f(x)= 0.427663
+differential_evolution step 318: f(x)= 0.427663
+differential_evolution step 319: f(x)= 0.427663
+differential_evolution step 320: f(x)= 0.427663
+differential_evolution step 321: f(x)= 0.427663
+differential_evolution step 322: f(x)= 0.427663
+differential_evolution step 323: f(x)= 0.427663
+differential_evolution step 324: f(x)= 0.427663
+differential_evolution step 325: f(x)= 0.427663
+differential_evolution step 326: f(x)= 0.427663
+differential_evolution step 327: f(x)= 0.427663
+differential_evolution step 328: f(x)= 0.427663
+differential_evolution step 329: f(x)= 0.427663
+differential_evolution step 330: f(x)= 0.427663
+differential_evolution step 331: f(x)= 0.427663
+differential_evolution step 332: f(x)= 0.427663
+differential_evolution step 333: f(x)= 0.427663
+differential_evolution step 334: f(x)= 0.427663
+differential_evolution step 335: f(x)= 0.427663
+differential_evolution step 336: f(x)= 0.427663
+differential_evolution step 337: f(x)= 0.427663
+differential_evolution step 338: f(x)= 0.427663
+differential_evolution step 339: f(x)= 0.427663
+differential_evolution step 340: f(x)= 0.427663
+differential_evolution step 341: f(x)= 0.427663
+differential_evolution step 342: f(x)= 0.427663
+differential_evolution step 343: f(x)= 0.427663
+differential_evolution step 344: f(x)= 0.427663
+differential_evolution step 345: f(x)= 0.427663
+differential_evolution step 346: f(x)= 0.427663
+differential_evolution step 347: f(x)= 0.427663
+differential_evolution step 348: f(x)= 0.427663
+differential_evolution step 349: f(x)= 0.427663
+differential_evolution step 350: f(x)= 0.427663
+Lowest Score Found: 0.42751204526
+differential_evolution step 351: f(x)= 0.427512
+differential_evolution step 352: f(x)= 0.427512
+differential_evolution step 353: f(x)= 0.427512
+differential_evolution step 354: f(x)= 0.427512
+differential_evolution step 355: f(x)= 0.427512
+differential_evolution step 356: f(x)= 0.427512
+differential_evolution step 357: f(x)= 0.427512
+differential_evolution step 358: f(x)= 0.427512
+differential_evolution step 359: f(x)= 0.427512
+differential_evolution step 360: f(x)= 0.427512
+differential_evolution step 361: f(x)= 0.427512
+differential_evolution step 362: f(x)= 0.427512
+differential_evolution step 363: f(x)= 0.427512
+differential_evolution step 364: f(x)= 0.427512
+differential_evolution step 365: f(x)= 0.427512
+differential_evolution step 366: f(x)= 0.427512
+differential_evolution step 367: f(x)= 0.427512
+differential_evolution step 368: f(x)= 0.427512
+differential_evolution step 369: f(x)= 0.427512
+differential_evolution step 370: f(x)= 0.427512
+differential_evolution step 371: f(x)= 0.427512
+differential_evolution step 372: f(x)= 0.427512
+differential_evolution step 373: f(x)= 0.427512
+differential_evolution step 374: f(x)= 0.427512
+differential_evolution step 375: f(x)= 0.427512
+differential_evolution step 376: f(x)= 0.427512
+differential_evolution step 377: f(x)= 0.427512
+differential_evolution step 378: f(x)= 0.427512
+differential_evolution step 379: f(x)= 0.427512
+differential_evolution step 380: f(x)= 0.427512
+differential_evolution step 381: f(x)= 0.427512
+differential_evolution step 382: f(x)= 0.427512
+differential_evolution step 383: f(x)= 0.427512
+differential_evolution step 384: f(x)= 0.427512
+differential_evolution step 385: f(x)= 0.427512
+differential_evolution step 386: f(x)= 0.427512
+differential_evolution step 387: f(x)= 0.427512
+Lowest Score Found: 0.426476947029
+differential_evolution step 388: f(x)= 0.426477
+differential_evolution step 389: f(x)= 0.426477
+differential_evolution step 390: f(x)= 0.426477
+differential_evolution step 391: f(x)= 0.426477
+differential_evolution step 392: f(x)= 0.426477
+differential_evolution step 393: f(x)= 0.426477
+differential_evolution step 394: f(x)= 0.426477
+differential_evolution step 395: f(x)= 0.426477
+differential_evolution step 396: f(x)= 0.426477
+differential_evolution step 397: f(x)= 0.426477
+differential_evolution step 398: f(x)= 0.426477
+differential_evolution step 399: f(x)= 0.426477
+differential_evolution step 400: f(x)= 0.426477
+differential_evolution step 401: f(x)= 0.426477
+differential_evolution step 402: f(x)= 0.426477
+differential_evolution step 403: f(x)= 0.426477
+differential_evolution step 404: f(x)= 0.426477
+differential_evolution step 405: f(x)= 0.426477
+differential_evolution step 406: f(x)= 0.426477
+differential_evolution step 407: f(x)= 0.426477
+differential_evolution step 408: f(x)= 0.426477
+differential_evolution step 409: f(x)= 0.426477
+differential_evolution step 410: f(x)= 0.426477
+differential_evolution step 411: f(x)= 0.426477
+differential_evolution step 412: f(x)= 0.426477
+differential_evolution step 413: f(x)= 0.426477
+differential_evolution step 414: f(x)= 0.426477
+differential_evolution step 415: f(x)= 0.426477
+differential_evolution step 416: f(x)= 0.426477
+differential_evolution step 417: f(x)= 0.426477
+differential_evolution step 418: f(x)= 0.426477
+differential_evolution step 419: f(x)= 0.426477
+differential_evolution step 420: f(x)= 0.426477
+differential_evolution step 421: f(x)= 0.426477
+differential_evolution step 422: f(x)= 0.426477
+Lowest Score Found: 0.426476943433
+Lowest Score Found: 0.426476942212
+Lowest Score Found: 0.426424704004
+Lowest Score Found: 0.426424701707
+Lowest Score Found: 0.426389832351
+Lowest Score Found: 0.426389830306
+Lowest Score Found: 0.426199735653
+Lowest Score Found: 0.426199735144
+Lowest Score Found: 0.426199734808
+Lowest Score Found: 0.426199734591
+Lowest Score Found: 0.426199734569
+Lowest Score Found: 0.426134370401
+Lowest Score Found: 0.42613436984
+Lowest Score Found: 0.426134369571
+Lowest Score Found: 0.426134369228
+Lowest Score Found: 0.426134369133
+Lowest Score Found: 0.425899570367
+Lowest Score Found: 0.425899570229
+Lowest Score Found: 0.425899569723
+Lowest Score Found: 0.425899569363
+Lowest Score Found: 0.425899569103
+Lowest Score Found: 0.425782672004
+Lowest Score Found: 0.425782671484
+Lowest Score Found: 0.425782671232
+Lowest Score Found: 0.425782671218
+Lowest Score Found: 0.425782671044
+Lowest Score Found: 0.425738193967
+Lowest Score Found: 0.4257381937
+Lowest Score Found: 0.425738193582
+Lowest Score Found: 0.425738193002
+Lowest Score Found: 0.425717821899
+Lowest Score Found: 0.425717821576
+Lowest Score Found: 0.425717821522
+Lowest Score Found: 0.425717820913
+Lowest Score Found: 0.425638888701
+Lowest Score Found: 0.425638887502
+Lowest Score Found: 0.425638137939
+Lowest Score Found: 0.425526935152
+Lowest Score Found: 0.425526933306
+Lowest Score Found: 0.425378081204
+Lowest Score Found: 0.425378079088
+Lowest Score Found: 0.425377014302
+Lowest Score Found: 0.425377012159
+Lowest Score Found: 0.425369706639
+Lowest Score Found: 0.425369704111
+Lowest Score Found: 0.425369155423
+Lowest Score Found: 0.425221455447
+Lowest Score Found: 0.425221453885
+Lowest Score Found: 0.425173725571
+Lowest Score Found: 0.425173725531
+Lowest Score Found: 0.425173725106
+Lowest Score Found: 0.425172562471
+Lowest Score Found: 0.425167223803
+Lowest Score Found: 0.425167223715
+Lowest Score Found: 0.425167222523
+Lowest Score Found: 0.425166519964
+Lowest Score Found: 0.425166519884
+Lowest Score Found: 0.425166518688
+Lowest Score Found: 0.425165202079
+Lowest Score Found: 0.425165202014
+Lowest Score Found: 0.425165201795
+Lowest Score Found: 0.425165200807
+Lowest Score Found: 0.425162947465
+Lowest Score Found: 0.425162947415
+Lowest Score Found: 0.425162947386
+Lowest Score Found: 0.425162008523
+Lowest Score Found: 0.425161634669
+Lowest Score Found: 0.42516163464
+Lowest Score Found: 0.425161634566
+Lowest Score Found: 0.425161633893
+Lowest Score Found: 0.425161633395
+Lowest Score Found: 0.425157835934
+Lowest Score Found: 0.425157835905
+Lowest Score Found: 0.425157835823
+Lowest Score Found: 0.425157835252
+Lowest Score Found: 0.425157834642
+Lowest Score Found: 0.425138526092
+Lowest Score Found: 0.425138526018
+Lowest Score Found: 0.425138525906
+Lowest Score Found: 0.425138524628
+Lowest Score Found: 0.425133288893
+Lowest Score Found: 0.425133288891
+Lowest Score Found: 0.425133288808
+Lowest Score Found: 0.425133288718
+Lowest Score Found: 0.425133287418
+Lowest Score Found: 0.425126906516
+Lowest Score Found: 0.425126906417
+Lowest Score Found: 0.425126906325
+Lowest Score Found: 0.425126904992
+Lowest Score Found: 0.425126299484
+Lowest Score Found: 0.425126299185
+Lowest Score Found: 0.425126298909
+Lowest Score Found: 0.425126297716
+Lowest Score Found: 0.425125538933
+Lowest Score Found: 0.425125538835
+Lowest Score Found: 0.425125538743
+Lowest Score Found: 0.425125537409
+Lowest Score Found: 0.425120409206
+Lowest Score Found: 0.425120409086
+Lowest Score Found: 0.425120408907
+Lowest Score Found: 0.425120407546
+Lowest Score Found: 0.425117554395
+Lowest Score Found: 0.425117554368
+Lowest Score Found: 0.425117554167
+Lowest Score Found: 0.425117552763
+Lowest Score Found: 0.425114141385
+Lowest Score Found: 0.425114141381
+Lowest Score Found: 0.425114141194
+Lowest Score Found: 0.425114139802
+Lowest Score Found: 0.425109803875
+Lowest Score Found: 0.4251098037
+Lowest Score Found: 0.425109803574
+Lowest Score Found: 0.425109802355
+Lowest Score Found: 0.425108919667
+Lowest Score Found: 0.425108919483
+Lowest Score Found: 0.425108919482
+Lowest Score Found: 0.425107441236
+fittingscript_steadystate_20160104.py /gscratch/rna/willy/HyakFittingScripts_CascadeAnalysis_20160104/output_fittingscript_steadystate_20160104
+Importing Kinetics Data
+******************************
+Running Differential Evolution...
+******************************
+Lowest Score Found: 25.5022674954
+Lowest Score Found: 24.831828964
+Lowest Score Found: 19.0426446299
+Lowest Score Found: 15.3152709904
+Lowest Score Found: 8.76999862101
+Lowest Score Found: 6.060712712
+Lowest Score Found: 5.90110285278
+Lowest Score Found: 5.82810227019
+Lowest Score Found: 5.43644246917
+Lowest Score Found: 5.17028509721
+Lowest Score Found: 4.91306610508
+Lowest Score Found: 4.43336626323
+Lowest Score Found: 3.9325554523
+Lowest Score Found: 2.9887685992
+differential_evolution step 1: f(x)= 2.98877
+Lowest Score Found: 2.5045158796
+differential_evolution step 2: f(x)= 2.50452
+Lowest Score Found: 2.37625515591
+differential_evolution step 3: f(x)= 2.37626
+differential_evolution step 4: f(x)= 2.37626
+Lowest Score Found: 2.04157635831
+Lowest Score Found: 1.76349686202
+differential_evolution step 5: f(x)= 1.7635
+differential_evolution step 6: f(x)= 1.7635
+differential_evolution step 7: f(x)= 1.7635
+differential_evolution step 8: f(x)= 1.7635
+differential_evolution step 9: f(x)= 1.7635
+Lowest Score Found: 1.74802754893
+Lowest Score Found: 1.65328102212
+differential_evolution step 10: f(x)= 1.65328
+differential_evolution step 11: f(x)= 1.65328
+differential_evolution step 12: f(x)= 1.65328
+Lowest Score Found: 1.61967001907
+differential_evolution step 13: f(x)= 1.61967
+Lowest Score Found: 1.25448104739
+differential_evolution step 14: f(x)= 1.25448
+differential_evolution step 15: f(x)= 1.25448
+differential_evolution step 16: f(x)= 1.25448
+differential_evolution step 17: f(x)= 1.25448
+Lowest Score Found: 1.0642850331
+differential_evolution step 18: f(x)= 1.06429
+differential_evolution step 19: f(x)= 1.06429
+Lowest Score Found: 0.959393843316
+differential_evolution step 20: f(x)= 0.959394
+differential_evolution step 21: f(x)= 0.959394
+differential_evolution step 22: f(x)= 0.959394
+differential_evolution step 23: f(x)= 0.959394
+Lowest Score Found: 0.925359754071
+differential_evolution step 24: f(x)= 0.92536
+differential_evolution step 25: f(x)= 0.92536
+differential_evolution step 26: f(x)= 0.92536
+differential_evolution step 27: f(x)= 0.92536
+differential_evolution step 28: f(x)= 0.92536
+Lowest Score Found: 0.622279752403
+differential_evolution step 29: f(x)= 0.62228
+differential_evolution step 30: f(x)= 0.62228
+differential_evolution step 31: f(x)= 0.62228
+differential_evolution step 32: f(x)= 0.62228
+differential_evolution step 33: f(x)= 0.62228
+differential_evolution step 34: f(x)= 0.62228
+differential_evolution step 35: f(x)= 0.62228
+differential_evolution step 36: f(x)= 0.62228
+differential_evolution step 37: f(x)= 0.62228
+differential_evolution step 38: f(x)= 0.62228
+differential_evolution step 39: f(x)= 0.62228
+differential_evolution step 40: f(x)= 0.62228
+differential_evolution step 41: f(x)= 0.62228
+differential_evolution step 42: f(x)= 0.62228
+differential_evolution step 43: f(x)= 0.62228
+differential_evolution step 44: f(x)= 0.62228
+differential_evolution step 45: f(x)= 0.62228
+differential_evolution step 46: f(x)= 0.62228
+differential_evolution step 47: f(x)= 0.62228
+differential_evolution step 48: f(x)= 0.62228
+differential_evolution step 49: f(x)= 0.62228
+differential_evolution step 50: f(x)= 0.62228
+differential_evolution step 51: f(x)= 0.62228
+differential_evolution step 52: f(x)= 0.62228
+differential_evolution step 53: f(x)= 0.62228
+differential_evolution step 54: f(x)= 0.62228
+differential_evolution step 55: f(x)= 0.62228
+differential_evolution step 56: f(x)= 0.62228
+differential_evolution step 57: f(x)= 0.62228
+differential_evolution step 58: f(x)= 0.62228
+differential_evolution step 59: f(x)= 0.62228
+differential_evolution step 60: f(x)= 0.62228
+differential_evolution step 61: f(x)= 0.62228
+differential_evolution step 62: f(x)= 0.62228
+differential_evolution step 63: f(x)= 0.62228
+differential_evolution step 64: f(x)= 0.62228
+differential_evolution step 65: f(x)= 0.62228
+differential_evolution step 66: f(x)= 0.62228
+differential_evolution step 67: f(x)= 0.62228
+differential_evolution step 68: f(x)= 0.62228
+Lowest Score Found: 0.614366309379
+differential_evolution step 69: f(x)= 0.614366
+differential_evolution step 70: f(x)= 0.614366
+differential_evolution step 71: f(x)= 0.614366
+differential_evolution step 72: f(x)= 0.614366
+Lowest Score Found: 0.593994458707
+differential_evolution step 73: f(x)= 0.593994
+differential_evolution step 74: f(x)= 0.593994
+differential_evolution step 75: f(x)= 0.593994
+differential_evolution step 76: f(x)= 0.593994
+differential_evolution step 77: f(x)= 0.593994
+differential_evolution step 78: f(x)= 0.593994
+differential_evolution step 79: f(x)= 0.593994
+differential_evolution step 80: f(x)= 0.593994
+differential_evolution step 81: f(x)= 0.593994
+differential_evolution step 82: f(x)= 0.593994
+differential_evolution step 83: f(x)= 0.593994
+differential_evolution step 84: f(x)= 0.593994
+differential_evolution step 85: f(x)= 0.593994
+differential_evolution step 86: f(x)= 0.593994
+Lowest Score Found: 0.58175112354
+differential_evolution step 87: f(x)= 0.581751
+differential_evolution step 88: f(x)= 0.581751
+differential_evolution step 89: f(x)= 0.581751
+differential_evolution step 90: f(x)= 0.581751
+differential_evolution step 91: f(x)= 0.581751
+differential_evolution step 92: f(x)= 0.581751
+differential_evolution step 93: f(x)= 0.581751
+Lowest Score Found: 0.568623318296
+differential_evolution step 94: f(x)= 0.568623
+differential_evolution step 95: f(x)= 0.568623
+differential_evolution step 96: f(x)= 0.568623
+differential_evolution step 97: f(x)= 0.568623
+differential_evolution step 98: f(x)= 0.568623
+differential_evolution step 99: f(x)= 0.568623
+differential_evolution step 100: f(x)= 0.568623
+Lowest Score Found: 0.548435021069
+differential_evolution step 101: f(x)= 0.548435
+differential_evolution step 102: f(x)= 0.548435
+differential_evolution step 103: f(x)= 0.548435
+differential_evolution step 104: f(x)= 0.548435
+differential_evolution step 105: f(x)= 0.548435
+differential_evolution step 106: f(x)= 0.548435
+differential_evolution step 107: f(x)= 0.548435
+differential_evolution step 108: f(x)= 0.548435
+Lowest Score Found: 0.546122320062
+differential_evolution step 109: f(x)= 0.546122
+differential_evolution step 110: f(x)= 0.546122
+differential_evolution step 111: f(x)= 0.546122
+Lowest Score Found: 0.464000112413
+differential_evolution step 112: f(x)= 0.464
+differential_evolution step 113: f(x)= 0.464
+differential_evolution step 114: f(x)= 0.464
+differential_evolution step 115: f(x)= 0.464
+differential_evolution step 116: f(x)= 0.464
+differential_evolution step 117: f(x)= 0.464
+differential_evolution step 118: f(x)= 0.464
+differential_evolution step 119: f(x)= 0.464
+differential_evolution step 120: f(x)= 0.464
+differential_evolution step 121: f(x)= 0.464
+differential_evolution step 122: f(x)= 0.464
+differential_evolution step 123: f(x)= 0.464
+differential_evolution step 124: f(x)= 0.464
+differential_evolution step 125: f(x)= 0.464
+differential_evolution step 126: f(x)= 0.464
+differential_evolution step 127: f(x)= 0.464
+differential_evolution step 128: f(x)= 0.464
+differential_evolution step 129: f(x)= 0.464
+differential_evolution step 130: f(x)= 0.464
+differential_evolution step 131: f(x)= 0.464
+differential_evolution step 132: f(x)= 0.464
+differential_evolution step 133: f(x)= 0.464
+differential_evolution step 134: f(x)= 0.464
+differential_evolution step 135: f(x)= 0.464
+differential_evolution step 136: f(x)= 0.464
+differential_evolution step 137: f(x)= 0.464
+differential_evolution step 138: f(x)= 0.464
+differential_evolution step 139: f(x)= 0.464
+differential_evolution step 140: f(x)= 0.464
+differential_evolution step 141: f(x)= 0.464
+differential_evolution step 142: f(x)= 0.464
+differential_evolution step 143: f(x)= 0.464
+differential_evolution step 144: f(x)= 0.464
+differential_evolution step 145: f(x)= 0.464
+differential_evolution step 146: f(x)= 0.464
+differential_evolution step 147: f(x)= 0.464
+differential_evolution step 148: f(x)= 0.464
+differential_evolution step 149: f(x)= 0.464
+differential_evolution step 150: f(x)= 0.464
+differential_evolution step 151: f(x)= 0.464
+Lowest Score Found: 0.449664969274
+differential_evolution step 152: f(x)= 0.449665
+differential_evolution step 153: f(x)= 0.449665
+differential_evolution step 154: f(x)= 0.449665
+differential_evolution step 155: f(x)= 0.449665
+differential_evolution step 156: f(x)= 0.449665
+differential_evolution step 157: f(x)= 0.449665
+differential_evolution step 158: f(x)= 0.449665
+differential_evolution step 159: f(x)= 0.449665
+differential_evolution step 160: f(x)= 0.449665
+differential_evolution step 161: f(x)= 0.449665
+differential_evolution step 162: f(x)= 0.449665
+differential_evolution step 163: f(x)= 0.449665
+differential_evolution step 164: f(x)= 0.449665
+Lowest Score Found: 0.447502922518
+differential_evolution step 165: f(x)= 0.447503
+differential_evolution step 166: f(x)= 0.447503
+differential_evolution step 167: f(x)= 0.447503
+Lowest Score Found: 0.443383988564
+differential_evolution step 168: f(x)= 0.443384
+differential_evolution step 169: f(x)= 0.443384
+differential_evolution step 170: f(x)= 0.443384
+differential_evolution step 171: f(x)= 0.443384
+differential_evolution step 172: f(x)= 0.443384
+differential_evolution step 173: f(x)= 0.443384
+differential_evolution step 174: f(x)= 0.443384
+differential_evolution step 175: f(x)= 0.443384
+differential_evolution step 176: f(x)= 0.443384
+differential_evolution step 177: f(x)= 0.443384
+differential_evolution step 178: f(x)= 0.443384
+differential_evolution step 179: f(x)= 0.443384
+differential_evolution step 180: f(x)= 0.443384
+differential_evolution step 181: f(x)= 0.443384
+differential_evolution step 182: f(x)= 0.443384
+differential_evolution step 183: f(x)= 0.443384
+differential_evolution step 184: f(x)= 0.443384
+differential_evolution step 185: f(x)= 0.443384
+differential_evolution step 186: f(x)= 0.443384
+differential_evolution step 187: f(x)= 0.443384
+differential_evolution step 188: f(x)= 0.443384
+differential_evolution step 189: f(x)= 0.443384
+differential_evolution step 190: f(x)= 0.443384
+differential_evolution step 191: f(x)= 0.443384
+Lowest Score Found: 0.443019987521
+differential_evolution step 192: f(x)= 0.44302
+differential_evolution step 193: f(x)= 0.44302
+differential_evolution step 194: f(x)= 0.44302
+differential_evolution step 195: f(x)= 0.44302
+differential_evolution step 196: f(x)= 0.44302
+differential_evolution step 197: f(x)= 0.44302
+differential_evolution step 198: f(x)= 0.44302
+Lowest Score Found: 0.442815485865
+differential_evolution step 199: f(x)= 0.442815
+differential_evolution step 200: f(x)= 0.442815
+differential_evolution step 201: f(x)= 0.442815
+differential_evolution step 202: f(x)= 0.442815
+differential_evolution step 203: f(x)= 0.442815
+Lowest Score Found: 0.442051910334
+differential_evolution step 204: f(x)= 0.442052
+Lowest Score Found: 0.441689801937
+differential_evolution step 205: f(x)= 0.44169
+differential_evolution step 206: f(x)= 0.44169
+differential_evolution step 207: f(x)= 0.44169
+differential_evolution step 208: f(x)= 0.44169
+differential_evolution step 209: f(x)= 0.44169
+differential_evolution step 210: f(x)= 0.44169
+differential_evolution step 211: f(x)= 0.44169
+differential_evolution step 212: f(x)= 0.44169
+differential_evolution step 213: f(x)= 0.44169
+differential_evolution step 214: f(x)= 0.44169
+differential_evolution step 215: f(x)= 0.44169
+differential_evolution step 216: f(x)= 0.44169
+differential_evolution step 217: f(x)= 0.44169
+differential_evolution step 218: f(x)= 0.44169
+differential_evolution step 219: f(x)= 0.44169
+differential_evolution step 220: f(x)= 0.44169
+differential_evolution step 221: f(x)= 0.44169
+Lowest Score Found: 0.439572212686
+differential_evolution step 222: f(x)= 0.439572
+Lowest Score Found: 0.439161489875
+differential_evolution step 223: f(x)= 0.439161
+differential_evolution step 224: f(x)= 0.439161
+Lowest Score Found: 0.43763905205
+differential_evolution step 225: f(x)= 0.437639
+differential_evolution step 226: f(x)= 0.437639
+differential_evolution step 227: f(x)= 0.437639
+differential_evolution step 228: f(x)= 0.437639
+differential_evolution step 229: f(x)= 0.437639
+differential_evolution step 230: f(x)= 0.437639
+Lowest Score Found: 0.435582035342
+differential_evolution step 231: f(x)= 0.435582
+Lowest Score Found: 0.435395596917
+differential_evolution step 232: f(x)= 0.435396
+differential_evolution step 233: f(x)= 0.435396
+differential_evolution step 234: f(x)= 0.435396
+differential_evolution step 235: f(x)= 0.435396
+differential_evolution step 236: f(x)= 0.435396
+differential_evolution step 237: f(x)= 0.435396
+differential_evolution step 238: f(x)= 0.435396
+differential_evolution step 239: f(x)= 0.435396
+differential_evolution step 240: f(x)= 0.435396
+differential_evolution step 241: f(x)= 0.435396
+differential_evolution step 242: f(x)= 0.435396
+differential_evolution step 243: f(x)= 0.435396
+differential_evolution step 244: f(x)= 0.435396
+differential_evolution step 245: f(x)= 0.435396
+differential_evolution step 246: f(x)= 0.435396
+differential_evolution step 247: f(x)= 0.435396
+differential_evolution step 248: f(x)= 0.435396
+differential_evolution step 249: f(x)= 0.435396
+differential_evolution step 250: f(x)= 0.435396
+differential_evolution step 251: f(x)= 0.435396
+Lowest Score Found: 0.431926403786
+differential_evolution step 252: f(x)= 0.431926
+differential_evolution step 253: f(x)= 0.431926
+differential_evolution step 254: f(x)= 0.431926
+differential_evolution step 255: f(x)= 0.431926
+differential_evolution step 256: f(x)= 0.431926
+differential_evolution step 257: f(x)= 0.431926
+differential_evolution step 258: f(x)= 0.431926
+differential_evolution step 259: f(x)= 0.431926
+differential_evolution step 260: f(x)= 0.431926
+differential_evolution step 261: f(x)= 0.431926
+differential_evolution step 262: f(x)= 0.431926
+differential_evolution step 263: f(x)= 0.431926
+Lowest Score Found: 0.431012760493
+differential_evolution step 264: f(x)= 0.431013
+differential_evolution step 265: f(x)= 0.431013
+differential_evolution step 266: f(x)= 0.431013
+differential_evolution step 267: f(x)= 0.431013
+differential_evolution step 268: f(x)= 0.431013
+differential_evolution step 269: f(x)= 0.431013
+differential_evolution step 270: f(x)= 0.431013
+differential_evolution step 271: f(x)= 0.431013
+differential_evolution step 272: f(x)= 0.431013
+differential_evolution step 273: f(x)= 0.431013
+differential_evolution step 274: f(x)= 0.431013
+differential_evolution step 275: f(x)= 0.431013
+differential_evolution step 276: f(x)= 0.431013
+differential_evolution step 277: f(x)= 0.431013
+differential_evolution step 278: f(x)= 0.431013
+differential_evolution step 279: f(x)= 0.431013
+differential_evolution step 280: f(x)= 0.431013
+differential_evolution step 281: f(x)= 0.431013
+differential_evolution step 282: f(x)= 0.431013
+differential_evolution step 283: f(x)= 0.431013
+differential_evolution step 284: f(x)= 0.431013
+differential_evolution step 285: f(x)= 0.431013
+differential_evolution step 286: f(x)= 0.431013
+differential_evolution step 287: f(x)= 0.431013
+differential_evolution step 288: f(x)= 0.431013
+differential_evolution step 289: f(x)= 0.431013
+differential_evolution step 290: f(x)= 0.431013
+differential_evolution step 291: f(x)= 0.431013
+differential_evolution step 292: f(x)= 0.431013
+differential_evolution step 293: f(x)= 0.431013
+differential_evolution step 294: f(x)= 0.431013
+differential_evolution step 295: f(x)= 0.431013
+differential_evolution step 296: f(x)= 0.431013
+differential_evolution step 297: f(x)= 0.431013
+differential_evolution step 298: f(x)= 0.431013
+differential_evolution step 299: f(x)= 0.431013
+differential_evolution step 300: f(x)= 0.431013
+differential_evolution step 301: f(x)= 0.431013
+differential_evolution step 302: f(x)= 0.431013
+differential_evolution step 303: f(x)= 0.431013
+differential_evolution step 304: f(x)= 0.431013
+differential_evolution step 305: f(x)= 0.431013
+differential_evolution step 306: f(x)= 0.431013
+differential_evolution step 307: f(x)= 0.431013
+differential_evolution step 308: f(x)= 0.431013
+differential_evolution step 309: f(x)= 0.431013
+differential_evolution step 310: f(x)= 0.431013
+differential_evolution step 311: f(x)= 0.431013
+differential_evolution step 312: f(x)= 0.431013
+differential_evolution step 313: f(x)= 0.431013
+differential_evolution step 314: f(x)= 0.431013
+differential_evolution step 315: f(x)= 0.431013
+differential_evolution step 316: f(x)= 0.431013
+differential_evolution step 317: f(x)= 0.431013
+differential_evolution step 318: f(x)= 0.431013
+differential_evolution step 319: f(x)= 0.431013
+differential_evolution step 320: f(x)= 0.431013
+Lowest Score Found: 0.430316155534
+differential_evolution step 321: f(x)= 0.430316
+differential_evolution step 322: f(x)= 0.430316
+differential_evolution step 323: f(x)= 0.430316
+differential_evolution step 324: f(x)= 0.430316
+differential_evolution step 325: f(x)= 0.430316
+differential_evolution step 326: f(x)= 0.430316
+differential_evolution step 327: f(x)= 0.430316
+differential_evolution step 328: f(x)= 0.430316
+differential_evolution step 329: f(x)= 0.430316
+differential_evolution step 330: f(x)= 0.430316
+differential_evolution step 331: f(x)= 0.430316
+differential_evolution step 332: f(x)= 0.430316
+differential_evolution step 333: f(x)= 0.430316
+differential_evolution step 334: f(x)= 0.430316
+differential_evolution step 335: f(x)= 0.430316
+differential_evolution step 336: f(x)= 0.430316
+differential_evolution step 337: f(x)= 0.430316
+Lowest Score Found: 0.430212790732
+differential_evolution step 338: f(x)= 0.430213
+differential_evolution step 339: f(x)= 0.430213
+differential_evolution step 340: f(x)= 0.430213
+differential_evolution step 341: f(x)= 0.430213
+differential_evolution step 342: f(x)= 0.430213
+differential_evolution step 343: f(x)= 0.430213
+differential_evolution step 344: f(x)= 0.430213
+differential_evolution step 345: f(x)= 0.430213
+differential_evolution step 346: f(x)= 0.430213
+differential_evolution step 347: f(x)= 0.430213
+differential_evolution step 348: f(x)= 0.430213
+differential_evolution step 349: f(x)= 0.430213
+differential_evolution step 350: f(x)= 0.430213
+differential_evolution step 351: f(x)= 0.430213
+Lowest Score Found: 0.429391716209
+differential_evolution step 352: f(x)= 0.429392
+differential_evolution step 353: f(x)= 0.429392
+differential_evolution step 354: f(x)= 0.429392
+differential_evolution step 355: f(x)= 0.429392
+differential_evolution step 356: f(x)= 0.429392
+differential_evolution step 357: f(x)= 0.429392
+differential_evolution step 358: f(x)= 0.429392
+differential_evolution step 359: f(x)= 0.429392
+differential_evolution step 360: f(x)= 0.429392
+differential_evolution step 361: f(x)= 0.429392
+differential_evolution step 362: f(x)= 0.429392
+differential_evolution step 363: f(x)= 0.429392
+differential_evolution step 364: f(x)= 0.429392
+differential_evolution step 365: f(x)= 0.429392
+differential_evolution step 366: f(x)= 0.429392
+differential_evolution step 367: f(x)= 0.429392
+differential_evolution step 368: f(x)= 0.429392
+Lowest Score Found: 0.427449808292
+differential_evolution step 369: f(x)= 0.42745
+differential_evolution step 370: f(x)= 0.42745
+differential_evolution step 371: f(x)= 0.42745
+differential_evolution step 372: f(x)= 0.42745
+differential_evolution step 373: f(x)= 0.42745
+differential_evolution step 374: f(x)= 0.42745
+differential_evolution step 375: f(x)= 0.42745
+differential_evolution step 376: f(x)= 0.42745
+differential_evolution step 377: f(x)= 0.42745
+differential_evolution step 378: f(x)= 0.42745
+differential_evolution step 379: f(x)= 0.42745
+differential_evolution step 380: f(x)= 0.42745
+differential_evolution step 381: f(x)= 0.42745
+differential_evolution step 382: f(x)= 0.42745
+differential_evolution step 383: f(x)= 0.42745
+differential_evolution step 384: f(x)= 0.42745
+differential_evolution step 385: f(x)= 0.42745
+differential_evolution step 386: f(x)= 0.42745
+differential_evolution step 387: f(x)= 0.42745
+differential_evolution step 388: f(x)= 0.42745
+differential_evolution step 389: f(x)= 0.42745
+differential_evolution step 390: f(x)= 0.42745
+differential_evolution step 391: f(x)= 0.42745
+differential_evolution step 392: f(x)= 0.42745
+differential_evolution step 393: f(x)= 0.42745
+differential_evolution step 394: f(x)= 0.42745
+differential_evolution step 395: f(x)= 0.42745
+differential_evolution step 396: f(x)= 0.42745
+differential_evolution step 397: f(x)= 0.42745
+differential_evolution step 398: f(x)= 0.42745
+differential_evolution step 399: f(x)= 0.42745
+differential_evolution step 400: f(x)= 0.42745
+differential_evolution step 401: f(x)= 0.42745
+differential_evolution step 402: f(x)= 0.42745
+differential_evolution step 403: f(x)= 0.42745
+differential_evolution step 404: f(x)= 0.42745
+differential_evolution step 405: f(x)= 0.42745
+differential_evolution step 406: f(x)= 0.42745
+differential_evolution step 407: f(x)= 0.42745
+differential_evolution step 408: f(x)= 0.42745
+differential_evolution step 409: f(x)= 0.42745
+differential_evolution step 410: f(x)= 0.42745
+differential_evolution step 411: f(x)= 0.42745
+differential_evolution step 412: f(x)= 0.42745
+differential_evolution step 413: f(x)= 0.42745
+differential_evolution step 414: f(x)= 0.42745
+Lowest Score Found: 0.426449314176
+differential_evolution step 415: f(x)= 0.426449
+differential_evolution step 416: f(x)= 0.426449
+differential_evolution step 417: f(x)= 0.426449
+differential_evolution step 418: f(x)= 0.426449
+differential_evolution step 419: f(x)= 0.426449
+differential_evolution step 420: f(x)= 0.426449
+differential_evolution step 421: f(x)= 0.426449
+differential_evolution step 422: f(x)= 0.426449
+differential_evolution step 423: f(x)= 0.426449
+differential_evolution step 424: f(x)= 0.426449
+differential_evolution step 425: f(x)= 0.426449
+differential_evolution step 426: f(x)= 0.426449
+differential_evolution step 427: f(x)= 0.426449
+differential_evolution step 428: f(x)= 0.426449
+differential_evolution step 429: f(x)= 0.426449
+differential_evolution step 430: f(x)= 0.426449
+differential_evolution step 431: f(x)= 0.426449
+differential_evolution step 432: f(x)= 0.426449
+differential_evolution step 433: f(x)= 0.426449
+Lowest Score Found: 0.426449312886
+Lowest Score Found: 0.426449311725
+Lowest Score Found: 0.426448547686
+Lowest Score Found: 0.426448532577
+Lowest Score Found: 0.426448531287
+Lowest Score Found: 0.426448530126
+Lowest Score Found: 0.426448530125
+fittingscript_steadystate_20160104.py /gscratch/rna/willy/HyakFittingScripts_CascadeAnalysis_20160104/output_fittingscript_steadystate_20160104
+Importing Kinetics Data
+******************************
+Running Differential Evolution...
+******************************
+Lowest Score Found: 14.2874823616
+Lowest Score Found: 8.90376235929
+Lowest Score Found: 3.16963214108
+Lowest Score Found: 3.10866347439
+differential_evolution step 1: f(x)= 3.10866
+Lowest Score Found: 2.51833777634
+differential_evolution step 2: f(x)= 2.51834
+differential_evolution step 3: f(x)= 2.51834
+Lowest Score Found: 2.10678378949
+differential_evolution step 4: f(x)= 2.10678
+Lowest Score Found: 1.85668539763
+differential_evolution step 5: f(x)= 1.85669
+differential_evolution step 6: f(x)= 1.85669
+Lowest Score Found: 1.32457964867
+differential_evolution step 7: f(x)= 1.32458
+differential_evolution step 8: f(x)= 1.32458
+differential_evolution step 9: f(x)= 1.32458
+differential_evolution step 10: f(x)= 1.32458
+differential_evolution step 11: f(x)= 1.32458
+differential_evolution step 12: f(x)= 1.32458
+differential_evolution step 13: f(x)= 1.32458
+Lowest Score Found: 1.06292317922
+differential_evolution step 14: f(x)= 1.06292
+differential_evolution step 15: f(x)= 1.06292
+differential_evolution step 16: f(x)= 1.06292
+differential_evolution step 17: f(x)= 1.06292
+differential_evolution step 18: f(x)= 1.06292
+Lowest Score Found: 1.04574171412
+differential_evolution step 19: f(x)= 1.04574
+differential_evolution step 20: f(x)= 1.04574
+differential_evolution step 21: f(x)= 1.04574
+differential_evolution step 22: f(x)= 1.04574
+differential_evolution step 23: f(x)= 1.04574
+differential_evolution step 24: f(x)= 1.04574
+differential_evolution step 25: f(x)= 1.04574
+differential_evolution step 26: f(x)= 1.04574
+Lowest Score Found: 0.85776359661
+Lowest Score Found: 0.855026876511
+differential_evolution step 27: f(x)= 0.855027
+differential_evolution step 28: f(x)= 0.855027
+Lowest Score Found: 0.809959330841
+differential_evolution step 29: f(x)= 0.809959
+Lowest Score Found: 0.806532191854
+differential_evolution step 30: f(x)= 0.806532
+differential_evolution step 31: f(x)= 0.806532
+differential_evolution step 32: f(x)= 0.806532
+differential_evolution step 33: f(x)= 0.806532
+differential_evolution step 34: f(x)= 0.806532
+differential_evolution step 35: f(x)= 0.806532
+differential_evolution step 36: f(x)= 0.806532
+differential_evolution step 37: f(x)= 0.806532
+differential_evolution step 38: f(x)= 0.806532
+differential_evolution step 39: f(x)= 0.806532
+differential_evolution step 40: f(x)= 0.806532
+Lowest Score Found: 0.798253400449
+differential_evolution step 41: f(x)= 0.798253
+differential_evolution step 42: f(x)= 0.798253
+differential_evolution step 43: f(x)= 0.798253
+differential_evolution step 44: f(x)= 0.798253
+Lowest Score Found: 0.631863522641
+differential_evolution step 45: f(x)= 0.631864
+differential_evolution step 46: f(x)= 0.631864
+differential_evolution step 47: f(x)= 0.631864
+differential_evolution step 48: f(x)= 0.631864
+differential_evolution step 49: f(x)= 0.631864
+differential_evolution step 50: f(x)= 0.631864
+differential_evolution step 51: f(x)= 0.631864
+differential_evolution step 52: f(x)= 0.631864
+differential_evolution step 53: f(x)= 0.631864
+differential_evolution step 54: f(x)= 0.631864
+differential_evolution step 55: f(x)= 0.631864
+differential_evolution step 56: f(x)= 0.631864
+differential_evolution step 57: f(x)= 0.631864
+differential_evolution step 58: f(x)= 0.631864
+differential_evolution step 59: f(x)= 0.631864
+differential_evolution step 60: f(x)= 0.631864
+differential_evolution step 61: f(x)= 0.631864
+differential_evolution step 62: f(x)= 0.631864
+differential_evolution step 63: f(x)= 0.631864
+differential_evolution step 64: f(x)= 0.631864
+differential_evolution step 65: f(x)= 0.631864
+differential_evolution step 66: f(x)= 0.631864
+differential_evolution step 67: f(x)= 0.631864
+differential_evolution step 68: f(x)= 0.631864
+differential_evolution step 69: f(x)= 0.631864
+differential_evolution step 70: f(x)= 0.631864
+differential_evolution step 71: f(x)= 0.631864
+differential_evolution step 72: f(x)= 0.631864
+differential_evolution step 73: f(x)= 0.631864
+Lowest Score Found: 0.625174818363
+differential_evolution step 74: f(x)= 0.625175
+differential_evolution step 75: f(x)= 0.625175
+differential_evolution step 76: f(x)= 0.625175
+Lowest Score Found: 0.518385464252
+differential_evolution step 77: f(x)= 0.518385
+differential_evolution step 78: f(x)= 0.518385
+Lowest Score Found: 0.484276969017
+differential_evolution step 79: f(x)= 0.484277
+differential_evolution step 80: f(x)= 0.484277
+differential_evolution step 81: f(x)= 0.484277
+differential_evolution step 82: f(x)= 0.484277
+differential_evolution step 83: f(x)= 0.484277
+differential_evolution step 84: f(x)= 0.484277
+differential_evolution step 85: f(x)= 0.484277
+differential_evolution step 86: f(x)= 0.484277
+differential_evolution step 87: f(x)= 0.484277
+differential_evolution step 88: f(x)= 0.484277
+differential_evolution step 89: f(x)= 0.484277
+differential_evolution step 90: f(x)= 0.484277
+differential_evolution step 91: f(x)= 0.484277
+differential_evolution step 92: f(x)= 0.484277
+differential_evolution step 93: f(x)= 0.484277
+differential_evolution step 94: f(x)= 0.484277
+differential_evolution step 95: f(x)= 0.484277
+differential_evolution step 96: f(x)= 0.484277
+differential_evolution step 97: f(x)= 0.484277
+differential_evolution step 98: f(x)= 0.484277
+differential_evolution step 99: f(x)= 0.484277
+differential_evolution step 100: f(x)= 0.484277
+differential_evolution step 101: f(x)= 0.484277
+differential_evolution step 102: f(x)= 0.484277
+differential_evolution step 103: f(x)= 0.484277
+differential_evolution step 104: f(x)= 0.484277
+differential_evolution step 105: f(x)= 0.484277
+differential_evolution step 106: f(x)= 0.484277
+differential_evolution step 107: f(x)= 0.484277
+differential_evolution step 108: f(x)= 0.484277
+differential_evolution step 109: f(x)= 0.484277
+differential_evolution step 110: f(x)= 0.484277
+differential_evolution step 111: f(x)= 0.484277
+differential_evolution step 112: f(x)= 0.484277
+differential_evolution step 113: f(x)= 0.484277
+differential_evolution step 114: f(x)= 0.484277
+differential_evolution step 115: f(x)= 0.484277
+differential_evolution step 116: f(x)= 0.484277
+differential_evolution step 117: f(x)= 0.484277
+differential_evolution step 118: f(x)= 0.484277
+differential_evolution step 119: f(x)= 0.484277
+differential_evolution step 120: f(x)= 0.484277
+differential_evolution step 121: f(x)= 0.484277
+differential_evolution step 122: f(x)= 0.484277
+differential_evolution step 123: f(x)= 0.484277
+differential_evolution step 124: f(x)= 0.484277
+differential_evolution step 125: f(x)= 0.484277
+differential_evolution step 126: f(x)= 0.484277
+differential_evolution step 127: f(x)= 0.484277
+differential_evolution step 128: f(x)= 0.484277
+differential_evolution step 129: f(x)= 0.484277
+differential_evolution step 130: f(x)= 0.484277
+differential_evolution step 131: f(x)= 0.484277
+differential_evolution step 132: f(x)= 0.484277
+differential_evolution step 133: f(x)= 0.484277
+differential_evolution step 134: f(x)= 0.484277
+differential_evolution step 135: f(x)= 0.484277
+differential_evolution step 136: f(x)= 0.484277
+differential_evolution step 137: f(x)= 0.484277
+differential_evolution step 138: f(x)= 0.484277
+differential_evolution step 139: f(x)= 0.484277
+differential_evolution step 140: f(x)= 0.484277
+differential_evolution step 141: f(x)= 0.484277
+differential_evolution step 142: f(x)= 0.484277
+differential_evolution step 143: f(x)= 0.484277
+differential_evolution step 144: f(x)= 0.484277
+differential_evolution step 145: f(x)= 0.484277
+differential_evolution step 146: f(x)= 0.484277
+differential_evolution step 147: f(x)= 0.484277
+differential_evolution step 148: f(x)= 0.484277
+differential_evolution step 149: f(x)= 0.484277
+differential_evolution step 150: f(x)= 0.484277
+differential_evolution step 151: f(x)= 0.484277
+differential_evolution step 152: f(x)= 0.484277
+differential_evolution step 153: f(x)= 0.484277
+differential_evolution step 154: f(x)= 0.484277
+differential_evolution step 155: f(x)= 0.484277
+differential_evolution step 156: f(x)= 0.484277
+differential_evolution step 157: f(x)= 0.484277
+differential_evolution step 158: f(x)= 0.484277
+differential_evolution step 159: f(x)= 0.484277
+differential_evolution step 160: f(x)= 0.484277
+Lowest Score Found: 0.47867747627
+differential_evolution step 161: f(x)= 0.478677
+differential_evolution step 162: f(x)= 0.478677
+differential_evolution step 163: f(x)= 0.478677
+differential_evolution step 164: f(x)= 0.478677
+differential_evolution step 165: f(x)= 0.478677
+differential_evolution step 166: f(x)= 0.478677
+differential_evolution step 167: f(x)= 0.478677
+differential_evolution step 168: f(x)= 0.478677
+differential_evolution step 169: f(x)= 0.478677
+differential_evolution step 170: f(x)= 0.478677
+differential_evolution step 171: f(x)= 0.478677
+differential_evolution step 172: f(x)= 0.478677
+differential_evolution step 173: f(x)= 0.478677
+differential_evolution step 174: f(x)= 0.478677
+differential_evolution step 175: f(x)= 0.478677
+differential_evolution step 176: f(x)= 0.478677
+differential_evolution step 177: f(x)= 0.478677
+differential_evolution step 178: f(x)= 0.478677
+differential_evolution step 179: f(x)= 0.478677
+differential_evolution step 180: f(x)= 0.478677
+differential_evolution step 181: f(x)= 0.478677
+differential_evolution step 182: f(x)= 0.478677
+differential_evolution step 183: f(x)= 0.478677
+differential_evolution step 184: f(x)= 0.478677
+differential_evolution step 185: f(x)= 0.478677
+differential_evolution step 186: f(x)= 0.478677
+Lowest Score Found: 0.466312356906
+differential_evolution step 187: f(x)= 0.466312
+Lowest Score Found: 0.46124367592
+differential_evolution step 188: f(x)= 0.461244
+differential_evolution step 189: f(x)= 0.461244
+differential_evolution step 190: f(x)= 0.461244
+differential_evolution step 191: f(x)= 0.461244
+differential_evolution step 192: f(x)= 0.461244
+differential_evolution step 193: f(x)= 0.461244
+differential_evolution step 194: f(x)= 0.461244
+differential_evolution step 195: f(x)= 0.461244
+differential_evolution step 196: f(x)= 0.461244
+differential_evolution step 197: f(x)= 0.461244
+differential_evolution step 198: f(x)= 0.461244
+differential_evolution step 199: f(x)= 0.461244
+Lowest Score Found: 0.452776049643
+differential_evolution step 200: f(x)= 0.452776
+differential_evolution step 201: f(x)= 0.452776
+differential_evolution step 202: f(x)= 0.452776
+differential_evolution step 203: f(x)= 0.452776
+differential_evolution step 204: f(x)= 0.452776
+differential_evolution step 205: f(x)= 0.452776
+differential_evolution step 206: f(x)= 0.452776
+differential_evolution step 207: f(x)= 0.452776
+Lowest Score Found: 0.444543340718
+differential_evolution step 208: f(x)= 0.444543
+differential_evolution step 209: f(x)= 0.444543
+differential_evolution step 210: f(x)= 0.444543
+differential_evolution step 211: f(x)= 0.444543
+differential_evolution step 212: f(x)= 0.444543
+differential_evolution step 213: f(x)= 0.444543
+differential_evolution step 214: f(x)= 0.444543
+differential_evolution step 215: f(x)= 0.444543
+differential_evolution step 216: f(x)= 0.444543
+differential_evolution step 217: f(x)= 0.444543
+differential_evolution step 218: f(x)= 0.444543
+differential_evolution step 219: f(x)= 0.444543
+Lowest Score Found: 0.43914825211
+differential_evolution step 220: f(x)= 0.439148
+differential_evolution step 221: f(x)= 0.439148
+differential_evolution step 222: f(x)= 0.439148
+Lowest Score Found: 0.434251593204
+differential_evolution step 223: f(x)= 0.434252
+differential_evolution step 224: f(x)= 0.434252
+differential_evolution step 225: f(x)= 0.434252
+differential_evolution step 226: f(x)= 0.434252
+differential_evolution step 227: f(x)= 0.434252
+differential_evolution step 228: f(x)= 0.434252
+differential_evolution step 229: f(x)= 0.434252
+differential_evolution step 230: f(x)= 0.434252
+differential_evolution step 231: f(x)= 0.434252
+differential_evolution step 232: f(x)= 0.434252
+differential_evolution step 233: f(x)= 0.434252
+differential_evolution step 234: f(x)= 0.434252
+differential_evolution step 235: f(x)= 0.434252
+differential_evolution step 236: f(x)= 0.434252
+differential_evolution step 237: f(x)= 0.434252
+differential_evolution step 238: f(x)= 0.434252
+differential_evolution step 239: f(x)= 0.434252
+differential_evolution step 240: f(x)= 0.434252
+differential_evolution step 241: f(x)= 0.434252
+differential_evolution step 242: f(x)= 0.434252
+differential_evolution step 243: f(x)= 0.434252
+differential_evolution step 244: f(x)= 0.434252
+differential_evolution step 245: f(x)= 0.434252
+differential_evolution step 246: f(x)= 0.434252
+differential_evolution step 247: f(x)= 0.434252
+differential_evolution step 248: f(x)= 0.434252
+differential_evolution step 249: f(x)= 0.434252
+differential_evolution step 250: f(x)= 0.434252
+differential_evolution step 251: f(x)= 0.434252
+differential_evolution step 252: f(x)= 0.434252
+differential_evolution step 253: f(x)= 0.434252
+differential_evolution step 254: f(x)= 0.434252
+differential_evolution step 255: f(x)= 0.434252
+differential_evolution step 256: f(x)= 0.434252
+differential_evolution step 257: f(x)= 0.434252
+differential_evolution step 258: f(x)= 0.434252
+differential_evolution step 259: f(x)= 0.434252
+differential_evolution step 260: f(x)= 0.434252
+differential_evolution step 261: f(x)= 0.434252
+differential_evolution step 262: f(x)= 0.434252
+differential_evolution step 263: f(x)= 0.434252
+differential_evolution step 264: f(x)= 0.434252
+differential_evolution step 265: f(x)= 0.434252
+differential_evolution step 266: f(x)= 0.434252
+differential_evolution step 267: f(x)= 0.434252
+differential_evolution step 268: f(x)= 0.434252
+differential_evolution step 269: f(x)= 0.434252
+differential_evolution step 270: f(x)= 0.434252
+differential_evolution step 271: f(x)= 0.434252
+differential_evolution step 272: f(x)= 0.434252
+differential_evolution step 273: f(x)= 0.434252
+differential_evolution step 274: f(x)= 0.434252
+differential_evolution step 275: f(x)= 0.434252
+differential_evolution step 276: f(x)= 0.434252
+differential_evolution step 277: f(x)= 0.434252
+differential_evolution step 278: f(x)= 0.434252
+differential_evolution step 279: f(x)= 0.434252
+differential_evolution step 280: f(x)= 0.434252
+differential_evolution step 281: f(x)= 0.434252
+differential_evolution step 282: f(x)= 0.434252
+differential_evolution step 283: f(x)= 0.434252
+differential_evolution step 284: f(x)= 0.434252
+differential_evolution step 285: f(x)= 0.434252
+differential_evolution step 286: f(x)= 0.434252
+differential_evolution step 287: f(x)= 0.434252
+differential_evolution step 288: f(x)= 0.434252
+differential_evolution step 289: f(x)= 0.434252
+differential_evolution step 290: f(x)= 0.434252
+differential_evolution step 291: f(x)= 0.434252
+differential_evolution step 292: f(x)= 0.434252
+differential_evolution step 293: f(x)= 0.434252
+differential_evolution step 294: f(x)= 0.434252
+differential_evolution step 295: f(x)= 0.434252
+differential_evolution step 296: f(x)= 0.434252
+differential_evolution step 297: f(x)= 0.434252
+differential_evolution step 298: f(x)= 0.434252
+differential_evolution step 299: f(x)= 0.434252
+differential_evolution step 300: f(x)= 0.434252
+differential_evolution step 301: f(x)= 0.434252
+differential_evolution step 302: f(x)= 0.434252
+differential_evolution step 303: f(x)= 0.434252
+differential_evolution step 304: f(x)= 0.434252
+differential_evolution step 305: f(x)= 0.434252
+differential_evolution step 306: f(x)= 0.434252
+differential_evolution step 307: f(x)= 0.434252
+differential_evolution step 308: f(x)= 0.434252
+Lowest Score Found: 0.42995503746
+differential_evolution step 309: f(x)= 0.429955
+differential_evolution step 310: f(x)= 0.429955
+differential_evolution step 311: f(x)= 0.429955
+differential_evolution step 312: f(x)= 0.429955
+differential_evolution step 313: f(x)= 0.429955
+differential_evolution step 314: f(x)= 0.429955
+differential_evolution step 315: f(x)= 0.429955
+differential_evolution step 316: f(x)= 0.429955
+differential_evolution step 317: f(x)= 0.429955
+differential_evolution step 318: f(x)= 0.429955
+differential_evolution step 319: f(x)= 0.429955
+differential_evolution step 320: f(x)= 0.429955
+differential_evolution step 321: f(x)= 0.429955
+differential_evolution step 322: f(x)= 0.429955
+differential_evolution step 323: f(x)= 0.429955
+differential_evolution step 324: f(x)= 0.429955
+differential_evolution step 325: f(x)= 0.429955
+differential_evolution step 326: f(x)= 0.429955
+differential_evolution step 327: f(x)= 0.429955
+differential_evolution step 328: f(x)= 0.429955
+differential_evolution step 329: f(x)= 0.429955
+differential_evolution step 330: f(x)= 0.429955
+differential_evolution step 331: f(x)= 0.429955
+differential_evolution step 332: f(x)= 0.429955
+differential_evolution step 333: f(x)= 0.429955
+differential_evolution step 334: f(x)= 0.429955
+differential_evolution step 335: f(x)= 0.429955
+differential_evolution step 336: f(x)= 0.429955
+differential_evolution step 337: f(x)= 0.429955
+differential_evolution step 338: f(x)= 0.429955
+differential_evolution step 339: f(x)= 0.429955
+differential_evolution step 340: f(x)= 0.429955
+differential_evolution step 341: f(x)= 0.429955
+differential_evolution step 342: f(x)= 0.429955
+differential_evolution step 343: f(x)= 0.429955
+differential_evolution step 344: f(x)= 0.429955
+differential_evolution step 345: f(x)= 0.429955
+differential_evolution step 346: f(x)= 0.429955
+differential_evolution step 347: f(x)= 0.429955
+differential_evolution step 348: f(x)= 0.429955
+differential_evolution step 349: f(x)= 0.429955
+differential_evolution step 350: f(x)= 0.429955
+differential_evolution step 351: f(x)= 0.429955
+Lowest Score Found: 0.428848861578
+differential_evolution step 352: f(x)= 0.428849
+differential_evolution step 353: f(x)= 0.428849
+differential_evolution step 354: f(x)= 0.428849
+differential_evolution step 355: f(x)= 0.428849
+differential_evolution step 356: f(x)= 0.428849
+differential_evolution step 357: f(x)= 0.428849
+differential_evolution step 358: f(x)= 0.428849
+differential_evolution step 359: f(x)= 0.428849
+differential_evolution step 360: f(x)= 0.428849
+differential_evolution step 361: f(x)= 0.428849
+differential_evolution step 362: f(x)= 0.428849
+differential_evolution step 363: f(x)= 0.428849
+differential_evolution step 364: f(x)= 0.428849
+differential_evolution step 365: f(x)= 0.428849
+differential_evolution step 366: f(x)= 0.428849
+differential_evolution step 367: f(x)= 0.428849
+differential_evolution step 368: f(x)= 0.428849
+differential_evolution step 369: f(x)= 0.428849
+differential_evolution step 370: f(x)= 0.428849
+differential_evolution step 371: f(x)= 0.428849
+differential_evolution step 372: f(x)= 0.428849
+differential_evolution step 373: f(x)= 0.428849
+differential_evolution step 374: f(x)= 0.428849
+differential_evolution step 375: f(x)= 0.428849
+differential_evolution step 376: f(x)= 0.428849
+differential_evolution step 377: f(x)= 0.428849
+differential_evolution step 378: f(x)= 0.428849
+differential_evolution step 379: f(x)= 0.428849
+differential_evolution step 380: f(x)= 0.428849
+differential_evolution step 381: f(x)= 0.428849
+differential_evolution step 382: f(x)= 0.428849
+differential_evolution step 383: f(x)= 0.428849
+differential_evolution step 384: f(x)= 0.428849
+differential_evolution step 385: f(x)= 0.428849
+differential_evolution step 386: f(x)= 0.428849
+differential_evolution step 387: f(x)= 0.428849
+Lowest Score Found: 0.428527378815
+differential_evolution step 388: f(x)= 0.428527
+differential_evolution step 389: f(x)= 0.428527
+differential_evolution step 390: f(x)= 0.428527
+differential_evolution step 391: f(x)= 0.428527
+differential_evolution step 392: f(x)= 0.428527
+differential_evolution step 393: f(x)= 0.428527
+differential_evolution step 394: f(x)= 0.428527
+differential_evolution step 395: f(x)= 0.428527
+differential_evolution step 396: f(x)= 0.428527
+differential_evolution step 397: f(x)= 0.428527
+differential_evolution step 398: f(x)= 0.428527
+differential_evolution step 399: f(x)= 0.428527
+differential_evolution step 400: f(x)= 0.428527
+differential_evolution step 401: f(x)= 0.428527
+differential_evolution step 402: f(x)= 0.428527
+differential_evolution step 403: f(x)= 0.428527
+differential_evolution step 404: f(x)= 0.428527
+differential_evolution step 405: f(x)= 0.428527
+differential_evolution step 406: f(x)= 0.428527
+differential_evolution step 407: f(x)= 0.428527
+differential_evolution step 408: f(x)= 0.428527
+Lowest Score Found: 0.427353785787
+differential_evolution step 409: f(x)= 0.427354
+differential_evolution step 410: f(x)= 0.427354
+differential_evolution step 411: f(x)= 0.427354
+differential_evolution step 412: f(x)= 0.427354
+differential_evolution step 413: f(x)= 0.427354
+differential_evolution step 414: f(x)= 0.427354
+differential_evolution step 415: f(x)= 0.427354
+differential_evolution step 416: f(x)= 0.427354
+differential_evolution step 417: f(x)= 0.427354
+differential_evolution step 418: f(x)= 0.427354
+differential_evolution step 419: f(x)= 0.427354
+differential_evolution step 420: f(x)= 0.427354
+differential_evolution step 421: f(x)= 0.427354
+differential_evolution step 422: f(x)= 0.427354
+differential_evolution step 423: f(x)= 0.427354
+differential_evolution step 424: f(x)= 0.427354
+differential_evolution step 425: f(x)= 0.427354
+differential_evolution step 426: f(x)= 0.427354
+differential_evolution step 427: f(x)= 0.427354
+differential_evolution step 428: f(x)= 0.427354
+differential_evolution step 429: f(x)= 0.427354
+differential_evolution step 430: f(x)= 0.427354
+Lowest Score Found: 0.427106214793
+differential_evolution step 431: f(x)= 0.427106
+differential_evolution step 432: f(x)= 0.427106
+differential_evolution step 433: f(x)= 0.427106
+Lowest Score Found: 0.426276056263
+differential_evolution step 434: f(x)= 0.426276
+differential_evolution step 435: f(x)= 0.426276
+differential_evolution step 436: f(x)= 0.426276
+differential_evolution step 437: f(x)= 0.426276
+differential_evolution step 438: f(x)= 0.426276
+differential_evolution step 439: f(x)= 0.426276
+differential_evolution step 440: f(x)= 0.426276
+differential_evolution step 441: f(x)= 0.426276
+differential_evolution step 442: f(x)= 0.426276
+differential_evolution step 443: f(x)= 0.426276
+differential_evolution step 444: f(x)= 0.426276
+differential_evolution step 445: f(x)= 0.426276
+differential_evolution step 446: f(x)= 0.426276
+differential_evolution step 447: f(x)= 0.426276
+differential_evolution step 448: f(x)= 0.426276
+Lowest Score Found: 0.42612608523
+differential_evolution step 449: f(x)= 0.426126
+differential_evolution step 450: f(x)= 0.426126
+differential_evolution step 451: f(x)= 0.426126
+differential_evolution step 452: f(x)= 0.426126
+Lowest Score Found: 0.426126084597
+Lowest Score Found: 0.426126084586
+Lowest Score Found: 0.426126079083
+Lowest Score Found: 0.426036190565
+Lowest Score Found: 0.426036189172
+Lowest Score Found: 0.426036188788
+Lowest Score Found: 0.425978596896
+Lowest Score Found: 0.425978595666
+Lowest Score Found: 0.425846470704
+Lowest Score Found: 0.425846470157
+Lowest Score Found: 0.425814379034
+Lowest Score Found: 0.425814378583
+Lowest Score Found: 0.425814378533
+Lowest Score Found: 0.425555175078
+Lowest Score Found: 0.425555173393
+Lowest Score Found: 0.425536598967
+Lowest Score Found: 0.4255365973
+Lowest Score Found: 0.425489079983
+Lowest Score Found: 0.425489079868
+Lowest Score Found: 0.425489079826
+Lowest Score Found: 0.425489079708
+Lowest Score Found: 0.425489076687
+Lowest Score Found: 0.425487977573
+Lowest Score Found: 0.425486210889
+Lowest Score Found: 0.425486209908
+Lowest Score Found: 0.4254862078
+Lowest Score Found: 0.425479965853
+Lowest Score Found: 0.425479965803
+Lowest Score Found: 0.425479965035
+Lowest Score Found: 0.425479963215
+Lowest Score Found: 0.425410955988
+Lowest Score Found: 0.425410955593
+Lowest Score Found: 0.425410955313
+Lowest Score Found: 0.425401929718
+Lowest Score Found: 0.425401929195
+Lowest Score Found: 0.425400706551
+Lowest Score Found: 0.425369731921
+Lowest Score Found: 0.425369731495
+Lowest Score Found: 0.425369731186
+Lowest Score Found: 0.425323133167
+Lowest Score Found: 0.425323132874
+Lowest Score Found: 0.425323132353
+Lowest Score Found: 0.425249049341
+Lowest Score Found: 0.425249049189
+Lowest Score Found: 0.425249048915
+Lowest Score Found: 0.425247734469
+Lowest Score Found: 0.425243922634
+Lowest Score Found: 0.425243922515
+Lowest Score Found: 0.425243922094
+Lowest Score Found: 0.42524392151
+Lowest Score Found: 0.425228435491
+Lowest Score Found: 0.425228435426
+Lowest Score Found: 0.425228434907
+Lowest Score Found: 0.425228434333
+Lowest Score Found: 0.425221316497
+Lowest Score Found: 0.425221315859
+Lowest Score Found: 0.42522023061
+Lowest Score Found: 0.425216090257
+Lowest Score Found: 0.425216090139
+Lowest Score Found: 0.425216090023
+Lowest Score Found: 0.425216089947
+Lowest Score Found: 0.425216089008
+Lowest Score Found: 0.42521210442
+Lowest Score Found: 0.425212104306
+Lowest Score Found: 0.425212104299
+Lowest Score Found: 0.425212104119
+Lowest Score Found: 0.425212103178
+Lowest Score Found: 0.425212094253
+Lowest Score Found: 0.425212094146
+Lowest Score Found: 0.425212094125
+Lowest Score Found: 0.425212093946
+Lowest Score Found: 0.425212093009
+Lowest Score Found: 0.425209688182
+Lowest Score Found: 0.42520968815
+Lowest Score Found: 0.425209688126
+Lowest Score Found: 0.425209688012
+Lowest Score Found: 0.425209687946
+Lowest Score Found: 0.425208607514
+Lowest Score Found: 0.425206139204
+Lowest Score Found: 0.425206139145
+Lowest Score Found: 0.425206139124
+Lowest Score Found: 0.425206138912
+Lowest Score Found: 0.425206137998
+Lowest Score Found: 0.425201889765
+Lowest Score Found: 0.425201889756
+Lowest Score Found: 0.42520188973
+Lowest Score Found: 0.425201889702
+Lowest Score Found: 0.425201889457
+Lowest Score Found: 0.425200826839
+Lowest Score Found: 0.425165441241
+Lowest Score Found: 0.425165441232
+Lowest Score Found: 0.425165441069
+Lowest Score Found: 0.425165440974
+Lowest Score Found: 0.42516544055
+Lowest Score Found: 0.425165439154
+Lowest Score Found: 0.425150783177
+Lowest Score Found: 0.425150782975
+Lowest Score Found: 0.425150782792
+Lowest Score Found: 0.425150781731
+Lowest Score Found: 0.425150781731
+Lowest Score Found: 0.425150781731
+Lowest Score Found: 0.425147206914
+Lowest Score Found: 0.425147206717
+Lowest Score Found: 0.425147206585
+Lowest Score Found: 0.425147206531
+Lowest Score Found: 0.425147205534
+fittingscript_steadystate_20160104.py /gscratch/rna/willy/HyakFittingScripts_CascadeAnalysis_20160104/output_fittingscript_steadystate_20160104
+Importing Kinetics Data
+******************************
+Running Differential Evolution...
+******************************
+Lowest Score Found: 37.8766799317
+Lowest Score Found: 32.2180006414
+Lowest Score Found: 31.3624004752
+Lowest Score Found: 15.1776134643
+Lowest Score Found: 12.6013195188
+Lowest Score Found: 11.1027103461
+Lowest Score Found: 9.24352420181
+Lowest Score Found: 7.75297037541
+Lowest Score Found: 6.02172080673
+Lowest Score Found: 3.21167120338
+Lowest Score Found: 3.1473820195
+Lowest Score Found: 1.52560295547
+differential_evolution step 1: f(x)= 1.5256
+differential_evolution step 2: f(x)= 1.5256
+differential_evolution step 3: f(x)= 1.5256
+Lowest Score Found: 0.931980178653
+differential_evolution step 4: f(x)= 0.93198
+differential_evolution step 5: f(x)= 0.93198
+differential_evolution step 6: f(x)= 0.93198
+differential_evolution step 7: f(x)= 0.93198
+differential_evolution step 8: f(x)= 0.93198
+differential_evolution step 9: f(x)= 0.93198
+differential_evolution step 10: f(x)= 0.93198
+differential_evolution step 11: f(x)= 0.93198
+differential_evolution step 12: f(x)= 0.93198
+differential_evolution step 13: f(x)= 0.93198
+differential_evolution step 14: f(x)= 0.93198
+differential_evolution step 15: f(x)= 0.93198
+differential_evolution step 16: f(x)= 0.93198
+differential_evolution step 17: f(x)= 0.93198
+differential_evolution step 18: f(x)= 0.93198
+Lowest Score Found: 0.915150507015
+differential_evolution step 19: f(x)= 0.915151
+differential_evolution step 20: f(x)= 0.915151
+differential_evolution step 21: f(x)= 0.915151
+differential_evolution step 22: f(x)= 0.915151
+differential_evolution step 23: f(x)= 0.915151
+differential_evolution step 24: f(x)= 0.915151
+differential_evolution step 25: f(x)= 0.915151
+differential_evolution step 26: f(x)= 0.915151
+differential_evolution step 27: f(x)= 0.915151
+Lowest Score Found: 0.849574315223
+differential_evolution step 28: f(x)= 0.849574
+differential_evolution step 29: f(x)= 0.849574
+differential_evolution step 30: f(x)= 0.849574
+differential_evolution step 31: f(x)= 0.849574
+differential_evolution step 32: f(x)= 0.849574
+differential_evolution step 33: f(x)= 0.849574
+differential_evolution step 34: f(x)= 0.849574
+differential_evolution step 35: f(x)= 0.849574
+differential_evolution step 36: f(x)= 0.849574
+differential_evolution step 37: f(x)= 0.849574
+differential_evolution step 38: f(x)= 0.849574
+differential_evolution step 39: f(x)= 0.849574
+differential_evolution step 40: f(x)= 0.849574
+differential_evolution step 41: f(x)= 0.849574
+differential_evolution step 42: f(x)= 0.849574
+Lowest Score Found: 0.813332920023
+differential_evolution step 43: f(x)= 0.813333
+Lowest Score Found: 0.750174534346
+differential_evolution step 44: f(x)= 0.750175
+differential_evolution step 45: f(x)= 0.750175
+Lowest Score Found: 0.725375345285
+differential_evolution step 46: f(x)= 0.725375
+differential_evolution step 47: f(x)= 0.725375
+differential_evolution step 48: f(x)= 0.725375
+differential_evolution step 49: f(x)= 0.725375
+differential_evolution step 50: f(x)= 0.725375
+Lowest Score Found: 0.707066520573
+differential_evolution step 51: f(x)= 0.707067
+differential_evolution step 52: f(x)= 0.707067
+Lowest Score Found: 0.694295312131
+differential_evolution step 53: f(x)= 0.694295
+differential_evolution step 54: f(x)= 0.694295
+differential_evolution step 55: f(x)= 0.694295
+differential_evolution step 56: f(x)= 0.694295
+differential_evolution step 57: f(x)= 0.694295
+differential_evolution step 58: f(x)= 0.694295
+differential_evolution step 59: f(x)= 0.694295
+Lowest Score Found: 0.637540956581
+differential_evolution step 60: f(x)= 0.637541
+differential_evolution step 61: f(x)= 0.637541
+differential_evolution step 62: f(x)= 0.637541
+differential_evolution step 63: f(x)= 0.637541
+differential_evolution step 64: f(x)= 0.637541
+Lowest Score Found: 0.589108515226
+differential_evolution step 65: f(x)= 0.589109
+differential_evolution step 66: f(x)= 0.589109
+differential_evolution step 67: f(x)= 0.589109
+differential_evolution step 68: f(x)= 0.589109
+differential_evolution step 69: f(x)= 0.589109
+differential_evolution step 70: f(x)= 0.589109
+differential_evolution step 71: f(x)= 0.589109
+differential_evolution step 72: f(x)= 0.589109
+differential_evolution step 73: f(x)= 0.589109
+differential_evolution step 74: f(x)= 0.589109
+differential_evolution step 75: f(x)= 0.589109
+differential_evolution step 76: f(x)= 0.589109
+differential_evolution step 77: f(x)= 0.589109
+differential_evolution step 78: f(x)= 0.589109
+Lowest Score Found: 0.539002371503
+differential_evolution step 79: f(x)= 0.539002
+differential_evolution step 80: f(x)= 0.539002
+differential_evolution step 81: f(x)= 0.539002
+differential_evolution step 82: f(x)= 0.539002
+differential_evolution step 83: f(x)= 0.539002
+differential_evolution step 84: f(x)= 0.539002
+differential_evolution step 85: f(x)= 0.539002
+differential_evolution step 86: f(x)= 0.539002
+differential_evolution step 87: f(x)= 0.539002
+differential_evolution step 88: f(x)= 0.539002
+differential_evolution step 89: f(x)= 0.539002
+differential_evolution step 90: f(x)= 0.539002
+differential_evolution step 91: f(x)= 0.539002
+differential_evolution step 92: f(x)= 0.539002
+differential_evolution step 93: f(x)= 0.539002
+differential_evolution step 94: f(x)= 0.539002
+differential_evolution step 95: f(x)= 0.539002
+differential_evolution step 96: f(x)= 0.539002
+differential_evolution step 97: f(x)= 0.539002
+differential_evolution step 98: f(x)= 0.539002
+differential_evolution step 99: f(x)= 0.539002
+differential_evolution step 100: f(x)= 0.539002
+differential_evolution step 101: f(x)= 0.539002
+differential_evolution step 102: f(x)= 0.539002
+differential_evolution step 103: f(x)= 0.539002
+differential_evolution step 104: f(x)= 0.539002
+differential_evolution step 105: f(x)= 0.539002
+differential_evolution step 106: f(x)= 0.539002
+differential_evolution step 107: f(x)= 0.539002
+differential_evolution step 108: f(x)= 0.539002
+differential_evolution step 109: f(x)= 0.539002
+differential_evolution step 110: f(x)= 0.539002
+differential_evolution step 111: f(x)= 0.539002
+differential_evolution step 112: f(x)= 0.539002
+differential_evolution step 113: f(x)= 0.539002
+differential_evolution step 114: f(x)= 0.539002
+differential_evolution step 115: f(x)= 0.539002
+differential_evolution step 116: f(x)= 0.539002
+differential_evolution step 117: f(x)= 0.539002
+differential_evolution step 118: f(x)= 0.539002
+differential_evolution step 119: f(x)= 0.539002
+differential_evolution step 120: f(x)= 0.539002
+differential_evolution step 121: f(x)= 0.539002
+Lowest Score Found: 0.531517492662
+differential_evolution step 122: f(x)= 0.531517
+differential_evolution step 123: f(x)= 0.531517
+differential_evolution step 124: f(x)= 0.531517
+differential_evolution step 125: f(x)= 0.531517
+differential_evolution step 126: f(x)= 0.531517
+differential_evolution step 127: f(x)= 0.531517
+differential_evolution step 128: f(x)= 0.531517
+differential_evolution step 129: f(x)= 0.531517
+differential_evolution step 130: f(x)= 0.531517
+differential_evolution step 131: f(x)= 0.531517
+differential_evolution step 132: f(x)= 0.531517
+differential_evolution step 133: f(x)= 0.531517
+differential_evolution step 134: f(x)= 0.531517
+differential_evolution step 135: f(x)= 0.531517
+differential_evolution step 136: f(x)= 0.531517
+differential_evolution step 137: f(x)= 0.531517
+differential_evolution step 138: f(x)= 0.531517
+differential_evolution step 139: f(x)= 0.531517
+differential_evolution step 140: f(x)= 0.531517
+differential_evolution step 141: f(x)= 0.531517
+differential_evolution step 142: f(x)= 0.531517
+differential_evolution step 143: f(x)= 0.531517
+differential_evolution step 144: f(x)= 0.531517
+differential_evolution step 145: f(x)= 0.531517
+differential_evolution step 146: f(x)= 0.531517
+differential_evolution step 147: f(x)= 0.531517
+differential_evolution step 148: f(x)= 0.531517
+differential_evolution step 149: f(x)= 0.531517
+Lowest Score Found: 0.526145499181
+differential_evolution step 150: f(x)= 0.526145
+differential_evolution step 151: f(x)= 0.526145
+differential_evolution step 152: f(x)= 0.526145
+differential_evolution step 153: f(x)= 0.526145
+differential_evolution step 154: f(x)= 0.526145
+Lowest Score Found: 0.524145333258
+differential_evolution step 155: f(x)= 0.524145
+differential_evolution step 156: f(x)= 0.524145
+differential_evolution step 157: f(x)= 0.524145
+differential_evolution step 158: f(x)= 0.524145
+differential_evolution step 159: f(x)= 0.524145
+Lowest Score Found: 0.495542505126
+differential_evolution step 160: f(x)= 0.495543
+differential_evolution step 161: f(x)= 0.495543
+differential_evolution step 162: f(x)= 0.495543
+differential_evolution step 163: f(x)= 0.495543
+differential_evolution step 164: f(x)= 0.495543
+differential_evolution step 165: f(x)= 0.495543
+Lowest Score Found: 0.485579164961
+differential_evolution step 166: f(x)= 0.485579
+differential_evolution step 167: f(x)= 0.485579
+differential_evolution step 168: f(x)= 0.485579
+differential_evolution step 169: f(x)= 0.485579
+differential_evolution step 170: f(x)= 0.485579
+differential_evolution step 171: f(x)= 0.485579
+differential_evolution step 172: f(x)= 0.485579
+differential_evolution step 173: f(x)= 0.485579
+differential_evolution step 174: f(x)= 0.485579
+differential_evolution step 175: f(x)= 0.485579
+differential_evolution step 176: f(x)= 0.485579
+differential_evolution step 177: f(x)= 0.485579
+differential_evolution step 178: f(x)= 0.485579
+differential_evolution step 179: f(x)= 0.485579
+differential_evolution step 180: f(x)= 0.485579
+differential_evolution step 181: f(x)= 0.485579
+differential_evolution step 182: f(x)= 0.485579
+differential_evolution step 183: f(x)= 0.485579
+differential_evolution step 184: f(x)= 0.485579
+differential_evolution step 185: f(x)= 0.485579
+differential_evolution step 186: f(x)= 0.485579
+differential_evolution step 187: f(x)= 0.485579
+differential_evolution step 188: f(x)= 0.485579
+differential_evolution step 189: f(x)= 0.485579
+differential_evolution step 190: f(x)= 0.485579
+Lowest Score Found: 0.481562281591
+differential_evolution step 191: f(x)= 0.481562
+differential_evolution step 192: f(x)= 0.481562
+differential_evolution step 193: f(x)= 0.481562
+differential_evolution step 194: f(x)= 0.481562
+differential_evolution step 195: f(x)= 0.481562
+differential_evolution step 196: f(x)= 0.481562
+differential_evolution step 197: f(x)= 0.481562
+Lowest Score Found: 0.476536874514
+Lowest Score Found: 0.459658546954
+differential_evolution step 198: f(x)= 0.459659
+differential_evolution step 199: f(x)= 0.459659
+differential_evolution step 200: f(x)= 0.459659
+differential_evolution step 201: f(x)= 0.459659
+differential_evolution step 202: f(x)= 0.459659
+differential_evolution step 203: f(x)= 0.459659
+differential_evolution step 204: f(x)= 0.459659
+differential_evolution step 205: f(x)= 0.459659
+differential_evolution step 206: f(x)= 0.459659
+differential_evolution step 207: f(x)= 0.459659
+differential_evolution step 208: f(x)= 0.459659
+differential_evolution step 209: f(x)= 0.459659
+differential_evolution step 210: f(x)= 0.459659
+differential_evolution step 211: f(x)= 0.459659
+Lowest Score Found: 0.454952701461
+differential_evolution step 212: f(x)= 0.454953
+differential_evolution step 213: f(x)= 0.454953
+differential_evolution step 214: f(x)= 0.454953
+differential_evolution step 215: f(x)= 0.454953
+differential_evolution step 216: f(x)= 0.454953
+differential_evolution step 217: f(x)= 0.454953
+Lowest Score Found: 0.454647573429
+differential_evolution step 218: f(x)= 0.454648
+differential_evolution step 219: f(x)= 0.454648
+differential_evolution step 220: f(x)= 0.454648
+differential_evolution step 221: f(x)= 0.454648
+differential_evolution step 222: f(x)= 0.454648
+differential_evolution step 223: f(x)= 0.454648
+differential_evolution step 224: f(x)= 0.454648
+differential_evolution step 225: f(x)= 0.454648
+differential_evolution step 226: f(x)= 0.454648
+differential_evolution step 227: f(x)= 0.454648
+differential_evolution step 228: f(x)= 0.454648
+differential_evolution step 229: f(x)= 0.454648
+differential_evolution step 230: f(x)= 0.454648
+differential_evolution step 231: f(x)= 0.454648
+differential_evolution step 232: f(x)= 0.454648
+differential_evolution step 233: f(x)= 0.454648
+differential_evolution step 234: f(x)= 0.454648
+differential_evolution step 235: f(x)= 0.454648
+differential_evolution step 236: f(x)= 0.454648
+differential_evolution step 237: f(x)= 0.454648
+differential_evolution step 238: f(x)= 0.454648
+differential_evolution step 239: f(x)= 0.454648
+differential_evolution step 240: f(x)= 0.454648
+differential_evolution step 241: f(x)= 0.454648
+differential_evolution step 242: f(x)= 0.454648
+differential_evolution step 243: f(x)= 0.454648
+differential_evolution step 244: f(x)= 0.454648
+Lowest Score Found: 0.449722852201
+differential_evolution step 245: f(x)= 0.449723
+differential_evolution step 246: f(x)= 0.449723
+differential_evolution step 247: f(x)= 0.449723
+differential_evolution step 248: f(x)= 0.449723
+differential_evolution step 249: f(x)= 0.449723
+differential_evolution step 250: f(x)= 0.449723
+differential_evolution step 251: f(x)= 0.449723
+differential_evolution step 252: f(x)= 0.449723
+differential_evolution step 253: f(x)= 0.449723
+differential_evolution step 254: f(x)= 0.449723
+differential_evolution step 255: f(x)= 0.449723
+differential_evolution step 256: f(x)= 0.449723
+differential_evolution step 257: f(x)= 0.449723
+differential_evolution step 258: f(x)= 0.449723
+differential_evolution step 259: f(x)= 0.449723
+differential_evolution step 260: f(x)= 0.449723
+differential_evolution step 261: f(x)= 0.449723
+differential_evolution step 262: f(x)= 0.449723
+differential_evolution step 263: f(x)= 0.449723
+differential_evolution step 264: f(x)= 0.449723
+differential_evolution step 265: f(x)= 0.449723
+differential_evolution step 266: f(x)= 0.449723
+differential_evolution step 267: f(x)= 0.449723
+Lowest Score Found: 0.447276476221
+differential_evolution step 268: f(x)= 0.447276
+differential_evolution step 269: f(x)= 0.447276
+Lowest Score Found: 0.438405506089
+differential_evolution step 270: f(x)= 0.438406
+differential_evolution step 271: f(x)= 0.438406
+differential_evolution step 272: f(x)= 0.438406
+differential_evolution step 273: f(x)= 0.438406
+differential_evolution step 274: f(x)= 0.438406
+differential_evolution step 275: f(x)= 0.438406
+differential_evolution step 276: f(x)= 0.438406
+differential_evolution step 277: f(x)= 0.438406
+differential_evolution step 278: f(x)= 0.438406
+differential_evolution step 279: f(x)= 0.438406
+differential_evolution step 280: f(x)= 0.438406
+differential_evolution step 281: f(x)= 0.438406
+differential_evolution step 282: f(x)= 0.438406
+differential_evolution step 283: f(x)= 0.438406
+differential_evolution step 284: f(x)= 0.438406
+Lowest Score Found: 0.43467818674
+differential_evolution step 285: f(x)= 0.434678
+differential_evolution step 286: f(x)= 0.434678
+differential_evolution step 287: f(x)= 0.434678
+differential_evolution step 288: f(x)= 0.434678
+differential_evolution step 289: f(x)= 0.434678
+differential_evolution step 290: f(x)= 0.434678
+differential_evolution step 291: f(x)= 0.434678
+differential_evolution step 292: f(x)= 0.434678
+differential_evolution step 293: f(x)= 0.434678
+differential_evolution step 294: f(x)= 0.434678
+differential_evolution step 295: f(x)= 0.434678
+differential_evolution step 296: f(x)= 0.434678
+differential_evolution step 297: f(x)= 0.434678
+differential_evolution step 298: f(x)= 0.434678
+differential_evolution step 299: f(x)= 0.434678
+differential_evolution step 300: f(x)= 0.434678
+differential_evolution step 301: f(x)= 0.434678
+differential_evolution step 302: f(x)= 0.434678
+differential_evolution step 303: f(x)= 0.434678
+differential_evolution step 304: f(x)= 0.434678
+differential_evolution step 305: f(x)= 0.434678
+differential_evolution step 306: f(x)= 0.434678
+differential_evolution step 307: f(x)= 0.434678
+differential_evolution step 308: f(x)= 0.434678
+differential_evolution step 309: f(x)= 0.434678
+differential_evolution step 310: f(x)= 0.434678
+differential_evolution step 311: f(x)= 0.434678
+differential_evolution step 312: f(x)= 0.434678
+differential_evolution step 313: f(x)= 0.434678
+differential_evolution step 314: f(x)= 0.434678
+differential_evolution step 315: f(x)= 0.434678
+differential_evolution step 316: f(x)= 0.434678
+differential_evolution step 317: f(x)= 0.434678
+differential_evolution step 318: f(x)= 0.434678
+differential_evolution step 319: f(x)= 0.434678
+differential_evolution step 320: f(x)= 0.434678
+differential_evolution step 321: f(x)= 0.434678
+differential_evolution step 322: f(x)= 0.434678
+differential_evolution step 323: f(x)= 0.434678
+differential_evolution step 324: f(x)= 0.434678
+differential_evolution step 325: f(x)= 0.434678
+differential_evolution step 326: f(x)= 0.434678
+differential_evolution step 327: f(x)= 0.434678
+differential_evolution step 328: f(x)= 0.434678
+differential_evolution step 329: f(x)= 0.434678
+differential_evolution step 330: f(x)= 0.434678
+Lowest Score Found: 0.429977201476
+differential_evolution step 331: f(x)= 0.429977
+differential_evolution step 332: f(x)= 0.429977
+differential_evolution step 333: f(x)= 0.429977
+differential_evolution step 334: f(x)= 0.429977
+differential_evolution step 335: f(x)= 0.429977
+differential_evolution step 336: f(x)= 0.429977
+differential_evolution step 337: f(x)= 0.429977
+differential_evolution step 338: f(x)= 0.429977
+differential_evolution step 339: f(x)= 0.429977
+differential_evolution step 340: f(x)= 0.429977
+differential_evolution step 341: f(x)= 0.429977
+differential_evolution step 342: f(x)= 0.429977
+differential_evolution step 343: f(x)= 0.429977
+differential_evolution step 344: f(x)= 0.429977
+differential_evolution step 345: f(x)= 0.429977
+differential_evolution step 346: f(x)= 0.429977
+differential_evolution step 347: f(x)= 0.429977
+differential_evolution step 348: f(x)= 0.429977
+differential_evolution step 349: f(x)= 0.429977
+differential_evolution step 350: f(x)= 0.429977
+differential_evolution step 351: f(x)= 0.429977
+differential_evolution step 352: f(x)= 0.429977
+differential_evolution step 353: f(x)= 0.429977
+differential_evolution step 354: f(x)= 0.429977
+differential_evolution step 355: f(x)= 0.429977
+differential_evolution step 356: f(x)= 0.429977
+differential_evolution step 357: f(x)= 0.429977
+differential_evolution step 358: f(x)= 0.429977
+differential_evolution step 359: f(x)= 0.429977
+differential_evolution step 360: f(x)= 0.429977
+differential_evolution step 361: f(x)= 0.429977
+differential_evolution step 362: f(x)= 0.429977
+differential_evolution step 363: f(x)= 0.429977
+differential_evolution step 364: f(x)= 0.429977
+differential_evolution step 365: f(x)= 0.429977
+differential_evolution step 366: f(x)= 0.429977
+differential_evolution step 367: f(x)= 0.429977
+differential_evolution step 368: f(x)= 0.429977
+differential_evolution step 369: f(x)= 0.429977
+differential_evolution step 370: f(x)= 0.429977
+differential_evolution step 371: f(x)= 0.429977
+differential_evolution step 372: f(x)= 0.429977
+differential_evolution step 373: f(x)= 0.429977
+differential_evolution step 374: f(x)= 0.429977
+differential_evolution step 375: f(x)= 0.429977
+differential_evolution step 376: f(x)= 0.429977
+differential_evolution step 377: f(x)= 0.429977
+differential_evolution step 378: f(x)= 0.429977
+differential_evolution step 379: f(x)= 0.429977
+differential_evolution step 380: f(x)= 0.429977
+differential_evolution step 381: f(x)= 0.429977
+differential_evolution step 382: f(x)= 0.429977
+differential_evolution step 383: f(x)= 0.429977
+differential_evolution step 384: f(x)= 0.429977
+differential_evolution step 385: f(x)= 0.429977
+differential_evolution step 386: f(x)= 0.429977
+differential_evolution step 387: f(x)= 0.429977
+differential_evolution step 388: f(x)= 0.429977
+differential_evolution step 389: f(x)= 0.429977
+differential_evolution step 390: f(x)= 0.429977
+differential_evolution step 391: f(x)= 0.429977
+differential_evolution step 392: f(x)= 0.429977
+differential_evolution step 393: f(x)= 0.429977
+differential_evolution step 394: f(x)= 0.429977
+differential_evolution step 395: f(x)= 0.429977
+differential_evolution step 396: f(x)= 0.429977
+differential_evolution step 397: f(x)= 0.429977
+differential_evolution step 398: f(x)= 0.429977
+differential_evolution step 399: f(x)= 0.429977
+differential_evolution step 400: f(x)= 0.429977
+differential_evolution step 401: f(x)= 0.429977
+differential_evolution step 402: f(x)= 0.429977
+Lowest Score Found: 0.428743675925
+differential_evolution step 403: f(x)= 0.428744
+differential_evolution step 404: f(x)= 0.428744
+differential_evolution step 405: f(x)= 0.428744
+differential_evolution step 406: f(x)= 0.428744
+differential_evolution step 407: f(x)= 0.428744
+differential_evolution step 408: f(x)= 0.428744
+differential_evolution step 409: f(x)= 0.428744
+differential_evolution step 410: f(x)= 0.428744
+differential_evolution step 411: f(x)= 0.428744
+differential_evolution step 412: f(x)= 0.428744
+differential_evolution step 413: f(x)= 0.428744
+differential_evolution step 414: f(x)= 0.428744
+differential_evolution step 415: f(x)= 0.428744
+differential_evolution step 416: f(x)= 0.428744
+differential_evolution step 417: f(x)= 0.428744
+differential_evolution step 418: f(x)= 0.428744
+differential_evolution step 419: f(x)= 0.428744
+differential_evolution step 420: f(x)= 0.428744
+differential_evolution step 421: f(x)= 0.428744
+differential_evolution step 422: f(x)= 0.428744
+Lowest Score Found: 0.428693403832
+differential_evolution step 423: f(x)= 0.428693
+differential_evolution step 424: f(x)= 0.428693
+differential_evolution step 425: f(x)= 0.428693
+differential_evolution step 426: f(x)= 0.428693
+differential_evolution step 427: f(x)= 0.428693
+differential_evolution step 428: f(x)= 0.428693
+differential_evolution step 429: f(x)= 0.428693
+differential_evolution step 430: f(x)= 0.428693
+differential_evolution step 431: f(x)= 0.428693
+differential_evolution step 432: f(x)= 0.428693
+differential_evolution step 433: f(x)= 0.428693
+differential_evolution step 434: f(x)= 0.428693
+differential_evolution step 435: f(x)= 0.428693
+differential_evolution step 436: f(x)= 0.428693
+differential_evolution step 437: f(x)= 0.428693
+differential_evolution step 438: f(x)= 0.428693
+differential_evolution step 439: f(x)= 0.428693
+differential_evolution step 440: f(x)= 0.428693
+differential_evolution step 441: f(x)= 0.428693
+differential_evolution step 442: f(x)= 0.428693
+differential_evolution step 443: f(x)= 0.428693
+differential_evolution step 444: f(x)= 0.428693
+differential_evolution step 445: f(x)= 0.428693
+differential_evolution step 446: f(x)= 0.428693
+differential_evolution step 447: f(x)= 0.428693
+differential_evolution step 448: f(x)= 0.428693
+differential_evolution step 449: f(x)= 0.428693
+differential_evolution step 450: f(x)= 0.428693
+differential_evolution step 451: f(x)= 0.428693
+differential_evolution step 452: f(x)= 0.428693
+differential_evolution step 453: f(x)= 0.428693
+differential_evolution step 454: f(x)= 0.428693
+differential_evolution step 455: f(x)= 0.428693
+differential_evolution step 456: f(x)= 0.428693
+differential_evolution step 457: f(x)= 0.428693
+differential_evolution step 458: f(x)= 0.428693
+differential_evolution step 459: f(x)= 0.428693
+differential_evolution step 460: f(x)= 0.428693
+differential_evolution step 461: f(x)= 0.428693
+differential_evolution step 462: f(x)= 0.428693
+differential_evolution step 463: f(x)= 0.428693
+differential_evolution step 464: f(x)= 0.428693
+differential_evolution step 465: f(x)= 0.428693
+Lowest Score Found: 0.428248588689
+differential_evolution step 466: f(x)= 0.428249
+differential_evolution step 467: f(x)= 0.428249
+differential_evolution step 468: f(x)= 0.428249
+differential_evolution step 469: f(x)= 0.428249
+differential_evolution step 470: f(x)= 0.428249
+differential_evolution step 471: f(x)= 0.428249
+differential_evolution step 472: f(x)= 0.428249
+differential_evolution step 473: f(x)= 0.428249
+differential_evolution step 474: f(x)= 0.428249
+differential_evolution step 475: f(x)= 0.428249
+differential_evolution step 476: f(x)= 0.428249
+differential_evolution step 477: f(x)= 0.428249
+differential_evolution step 478: f(x)= 0.428249
+differential_evolution step 479: f(x)= 0.428249
+differential_evolution step 480: f(x)= 0.428249
+differential_evolution step 481: f(x)= 0.428249
+Lowest Score Found: 0.427178214626
+differential_evolution step 482: f(x)= 0.427178
+differential_evolution step 483: f(x)= 0.427178
+differential_evolution step 484: f(x)= 0.427178
+differential_evolution step 485: f(x)= 0.427178
+differential_evolution step 486: f(x)= 0.427178
+differential_evolution step 487: f(x)= 0.427178
+differential_evolution step 488: f(x)= 0.427178
+differential_evolution step 489: f(x)= 0.427178
+differential_evolution step 490: f(x)= 0.427178
+differential_evolution step 491: f(x)= 0.427178
+differential_evolution step 492: f(x)= 0.427178
+differential_evolution step 493: f(x)= 0.427178
+Lowest Score Found: 0.427000662545
+differential_evolution step 494: f(x)= 0.427001
+differential_evolution step 495: f(x)= 0.427001
+differential_evolution step 496: f(x)= 0.427001
+differential_evolution step 497: f(x)= 0.427001
+Lowest Score Found: 0.426719234685
+differential_evolution step 498: f(x)= 0.426719
+differential_evolution step 499: f(x)= 0.426719
+differential_evolution step 500: f(x)= 0.426719
+differential_evolution step 501: f(x)= 0.426719
+differential_evolution step 502: f(x)= 0.426719
+differential_evolution step 503: f(x)= 0.426719
+differential_evolution step 504: f(x)= 0.426719
+differential_evolution step 505: f(x)= 0.426719
+differential_evolution step 506: f(x)= 0.426719
+differential_evolution step 507: f(x)= 0.426719
+differential_evolution step 508: f(x)= 0.426719
+differential_evolution step 509: f(x)= 0.426719
+differential_evolution step 510: f(x)= 0.426719
+differential_evolution step 511: f(x)= 0.426719
+differential_evolution step 512: f(x)= 0.426719
+differential_evolution step 513: f(x)= 0.426719
+differential_evolution step 514: f(x)= 0.426719
+differential_evolution step 515: f(x)= 0.426719
+differential_evolution step 516: f(x)= 0.426719
+differential_evolution step 517: f(x)= 0.426719
+differential_evolution step 518: f(x)= 0.426719
+differential_evolution step 519: f(x)= 0.426719
+differential_evolution step 520: f(x)= 0.426719
+differential_evolution step 521: f(x)= 0.426719
+differential_evolution step 522: f(x)= 0.426719
+differential_evolution step 523: f(x)= 0.426719
+differential_evolution step 524: f(x)= 0.426719
+differential_evolution step 525: f(x)= 0.426719
+Lowest Score Found: 0.426445420885
+differential_evolution step 526: f(x)= 0.426445
+differential_evolution step 527: f(x)= 0.426445
+differential_evolution step 528: f(x)= 0.426445
+differential_evolution step 529: f(x)= 0.426445
+differential_evolution step 530: f(x)= 0.426445
+differential_evolution step 531: f(x)= 0.426445
+differential_evolution step 532: f(x)= 0.426445
+differential_evolution step 533: f(x)= 0.426445
+differential_evolution step 534: f(x)= 0.426445
+differential_evolution step 535: f(x)= 0.426445
+differential_evolution step 536: f(x)= 0.426445
+differential_evolution step 537: f(x)= 0.426445
+differential_evolution step 538: f(x)= 0.426445
+Lowest Score Found: 0.426445419607
+Lowest Score Found: 0.426445419275
+Lowest Score Found: 0.426444487132
+Lowest Score Found: 0.426225338884
+Lowest Score Found: 0.42622533887
+Lowest Score Found: 0.426225337281
+Lowest Score Found: 0.42622533142
+Lowest Score Found: 0.42622396352
+Lowest Score Found: 0.426223963496
+Lowest Score Found: 0.426223961918
+Lowest Score Found: 0.426223956191
+Lowest Score Found: 0.426223049818
+Lowest Score Found: 0.426206961268
+Lowest Score Found: 0.426206961098
+Lowest Score Found: 0.42620695967
+Lowest Score Found: 0.426206956012
+Lowest Score Found: 0.426191628472
+Lowest Score Found: 0.426191628115
+Lowest Score Found: 0.42619162688
+Lowest Score Found: 0.426191625862
+Lowest Score Found: 0.426165216688
+Lowest Score Found: 0.426165216021
+Lowest Score Found: 0.42616521512
+Lowest Score Found: 0.426165214412
+Lowest Score Found: 0.426131757791
+Lowest Score Found: 0.426131756869
+Lowest Score Found: 0.426131756264
+Lowest Score Found: 0.426131755393
+Lowest Score Found: 0.426059346905
+Lowest Score Found: 0.426059346656
+Lowest Score Found: 0.426059345591
+Lowest Score Found: 0.42605934548
+Lowest Score Found: 0.426059345207
+Lowest Score Found: 0.426059344353
+Lowest Score Found: 0.42589803236
+Lowest Score Found: 0.425898031427
+Lowest Score Found: 0.425898030368
+Lowest Score Found: 0.425898030051
+Lowest Score Found: 0.425896484211
+Lowest Score Found: 0.425853842336
+Lowest Score Found: 0.425853841605
+Lowest Score Found: 0.425853840543
+Lowest Score Found: 0.425853840247
+Lowest Score Found: 0.425853839717
+Lowest Score Found: 0.425739604659
+Lowest Score Found: 0.425739604628
+Lowest Score Found: 0.425739603552
+Lowest Score Found: 0.425739603505
+Lowest Score Found: 0.425739603348
+Lowest Score Found: 0.425738052001
+Lowest Score Found: 0.425720383101
+Lowest Score Found: 0.425720382414
+Lowest Score Found: 0.425720381943
+Lowest Score Found: 0.425720381164
+Lowest Score Found: 0.425715470071
+Lowest Score Found: 0.425715469404
+Lowest Score Found: 0.425715468919
+Lowest Score Found: 0.425713951111
+Lowest Score Found: 0.42564634118
+Lowest Score Found: 0.425646340892
+Lowest Score Found: 0.425646340214
+Lowest Score Found: 0.425646329903
+Lowest Score Found: 0.425571169481
+Lowest Score Found: 0.425571169247
+Lowest Score Found: 0.425571168623
+Lowest Score Found: 0.42557115922
+Lowest Score Found: 0.425569617974
+Lowest Score Found: 0.42523563594
+Lowest Score Found: 0.425235635098
+Lowest Score Found: 0.425235633737
+Lowest Score Found: 0.425233914857
+Lowest Score Found: 0.425233913891
+Lowest Score Found: 0.425233913275
+Lowest Score Found: 0.425230045659
+Lowest Score Found: 0.425230044708
+Lowest Score Found: 0.425230044072
+Lowest Score Found: 0.425206823898
+Lowest Score Found: 0.425206823291
+Lowest Score Found: 0.425205092718
+Lowest Score Found: 0.425119649875
+Lowest Score Found: 0.425119649662
+Lowest Score Found: 0.425117927836
+Lowest Score Found: 0.425100619952
+Lowest Score Found: 0.42510061991
+Lowest Score Found: 0.425100619903
+Lowest Score Found: 0.425100619727
+Lowest Score Found: 0.425100619338
+Lowest Score Found: 0.425100618398
+Lowest Score Found: 0.425098264203
+Lowest Score Found: 0.425098264203
+Lowest Score Found: 0.425098264199
+Lowest Score Found: 0.425098264108
+Lowest Score Found: 0.425098264104
+Lowest Score Found: 0.425098264087
+Lowest Score Found: 0.425098264045
+Lowest Score Found: 0.425098263775
+Lowest Score Found: 0.425098262662
+Lowest Score Found: 0.4250975928
+Lowest Score Found: 0.425097592789
+Lowest Score Found: 0.425097592787
+Lowest Score Found: 0.425097592737
+Lowest Score Found: 0.425097592686
+Lowest Score Found: 0.42509759261
+Lowest Score Found: 0.425097592423
+Lowest Score Found: 0.425097591264
+Lowest Score Found: 0.425094300743
+Lowest Score Found: 0.425094300608
+Lowest Score Found: 0.42509429922
+Lowest Score Found: 0.425093386308
+Lowest Score Found: 0.425093386194
+Lowest Score Found: 0.425093384788
+Lowest Score Found: 0.425093021517
+Lowest Score Found: 0.425093021476
+Lowest Score Found: 0.425093021475
+Lowest Score Found: 0.425093021446
+Lowest Score Found: 0.425093021435
+Lowest Score Found: 0.425093019991
+Lowest Score Found: 0.425091053543
+Lowest Score Found: 0.425091053481
+Lowest Score Found: 0.425091053468
+Lowest Score Found: 0.425091053463
+Lowest Score Found: 0.425091052017
+Lowest Score Found: 0.425089751223
+Lowest Score Found: 0.425089751192
+Lowest Score Found: 0.425089751135
+Lowest Score Found: 0.425089749698
+Lowest Score Found: 0.425089740362
+Lowest Score Found: 0.425089740333
+Lowest Score Found: 0.425089740281
+Lowest Score Found: 0.425089738835
+Lowest Score Found: 0.425087050901
+Lowest Score Found: 0.425087050894
+Lowest Score Found: 0.425087050881
+Lowest Score Found: 0.425087050831
+Lowest Score Found: 0.425087049489
+Lowest Score Found: 0.425083668547
+Lowest Score Found: 0.425083668506
+Lowest Score Found: 0.425083668087
+Lowest Score Found: 0.42508366715
+Lowest Score Found: 0.425080526349
+Lowest Score Found: 0.425080526324
+Lowest Score Found: 0.425080525431
+Lowest Score Found: 0.425080524969
+Lowest Score Found: 0.425076946864
+Lowest Score Found: 0.425076946853
+Lowest Score Found: 0.425076946845
+Lowest Score Found: 0.425076945494
+Lowest Score Found: 0.425076067879
+Lowest Score Found: 0.425075816307

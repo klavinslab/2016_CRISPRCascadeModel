@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Final_Cascade_Analysis_160125.iml" filepath="$PROJECT_DIR$/.idea/Final_Cascade_Analysis_160125.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/PyQt_Examples/.idea/PyQT_Examples.iml" filepath="$USER_HOME$/PycharmProjects/PyQt_Examples/.idea/PyQT_Examples.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/pandas_like_bamboo/.idea/pandas_like_bamboo.iml" filepath="$USER_HOME$/Documents/pandas_like_bamboo/.idea/pandas_like_bamboo.iml" />
+    </modules>
+  </component>
+</project>
